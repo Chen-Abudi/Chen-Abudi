@@ -9,11 +9,11 @@
 
 
 
-<h3 align="center"> :hammer_and_wrench: Languages and Tools : </h3>
+<h3 align="left"> :hammer_and_wrench: Languages and Tools : </h3>
 
 
 
-<p align="center"> <a href="https://www.w3schools.com/html/" target="_blank" rel="norefferer">
+<p align="left"> <a href="https://www.w3schools.com/html/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt=HTML5 Icon width="65" height="65" /></a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt=CSS3 Icon width="65" height="65" /></a>
@@ -38,15 +38,18 @@
           
           
           
-  
+  <h3 align="left"> :fire: My Stats : </h3>
           
-          
+      
           
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chen-abudi&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chen-abudi&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+ 
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chen-abudi&theme=solarized-light)](https://git.io/streak-stats)
 
 
 <!-- ### Hi there 👋 -->
