@@ -9,11 +9,11 @@
 
 
 
+<h3 align="center"> :hammer_and_wrench: Languages and Tools : </h3>
 
 
-### Languages & Technologies:
 
-<p align="left"> <a href="https://www.w3schools.com/html/" target="_blank" rel="norefferer">
+<p align="center"> <a href="https://www.w3schools.com/html/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt=HTML5 Icon width="65" height="65" /></a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt=CSS3 Icon width="65" height="65" /></a>
