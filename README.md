@@ -1,5 +1,5 @@
 <h1 align="center">Aloha 🌺, I'm Chen Abudi [Also Grace]</h1>
-<h2 align="center">A soulful Full Stack Developer 💎</h2> 
+<h2 align="center">A soulful Full Stack Web Developer 💎</h2> 
 
 
 - 🔭 I’m currently working on [Around the US](https://github.com/Chen-Abudi/web_project_4)
