@@ -2,7 +2,7 @@
 <h2 align="center">A soulful Full Stack Web Developer 💎</h2> 
 
 
-- 🔭 I’m currently working on [Around the US](https://github.com/Chen-Abudi/web_project_4)
+- 🔭 I’m currently working on [Around the US - ReactJS Application](https://github.com/Chen-Abudi/around-react)
 - 🌱 I’m currently learning **Full Stack Development** at [Practicum](https://www.practicum100.org/)
 - 📫 How to reach me: cheezumcali23@gmail.com
 
