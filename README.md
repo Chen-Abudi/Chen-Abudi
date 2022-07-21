@@ -1,5 +1,5 @@
 <h1 align="center">Aloha 🌺, I'm Chen Abudi [Also Grace]</h1>
-<h2 align="center">A soulful Full Stack Web Developer 💎</h2> 
+<h2 align="center">A Soulful Full Stack Web Developer 💎</h2> 
 
 
 - 🔭 I’m currently working on [Around the US - ReactJS Application](https://github.com/Chen-Abudi/around-react)
@@ -9,7 +9,7 @@
 
 
 
-<h3 align="left"> :hammer_and_wrench: Languages and Tools : </h3>
+<h3 align="left"> :hammer_and_wrench: Languages & Tools : </h3>
 
 
 
