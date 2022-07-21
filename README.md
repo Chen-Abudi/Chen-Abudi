@@ -36,7 +36,7 @@
    
   <h3 align="left">Feel Free to Connect with Me Here :</h3>
   <p align="left">
-  <a href="https://www.linkedin.com/in/chen-abudi/" target="blank" rel="norefferer">
+  <a href="[https://www.linkedin.com/in/chen-abudi/](https://www.linkedin.com/in/chen-abudi-40a44b242/)" target="blank" rel="norefferer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/chen-abudi/" width="55" height="55" />
   </a>
 
