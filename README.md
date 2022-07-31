@@ -3,12 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chen-abudi&label=Profile%20views&color=0091ff&style=for-the-badge" alt="Chen Abudi" /> </p>
 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315cmqf3p5iz2rek66bfwdtanf7q&cover_image=true&theme=novatorem&bar_color=3fc7d9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <!-- ![GitHub watchers](https://img.shields.io/github/watchers/chen-abudi/chen-abudi?style=social) -->
 
 
 - 🔭 I’m currently working on [Around the US - ReactJS Application](https://github.com/Chen-Abudi/around-react)
 - 🌱 I’m currently learning **Full Stack Development** at [Practicum](https://www.practicum100.org/)
 - 📫 How to reach me: cheezumcali23@gmail.com
+
 
 
 
