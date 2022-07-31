@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chen-abudi&label=Profile%20views&color=0091ff&style=for-the-badge" alt="Chen Abudi" /> </p>
 
+<!-- ![GitHub watchers](https://img.shields.io/github/watchers/chen-abudi/chen-abudi?style=social) -->
+
+
 - 🔭 I’m currently working on [Around the US - ReactJS Application](https://github.com/Chen-Abudi/around-react)
 - 🌱 I’m currently learning **Full Stack Development** at [Practicum](https://www.practicum100.org/)
 - 📫 How to reach me: cheezumcali23@gmail.com
