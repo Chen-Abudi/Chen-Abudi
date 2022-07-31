@@ -1,6 +1,7 @@
 <h1 align="center">Aloha 🌺, I'm Chen Abudi [Also Grace]</h1>
 <h2 align="center">A Soulful Full Stack Web Developer 💎</h2> 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chen-abudi&label=Profile%20views&color=0091ff&style=for-the-badge" alt="Chen Abudi" /> </p>
 
 - 🔭 I’m currently working on [Around the US - ReactJS Application](https://github.com/Chen-Abudi/around-react)
 - 🌱 I’m currently learning **Full Stack Development** at [Practicum](https://www.practicum100.org/)
@@ -19,6 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt=CSS3 Icon width="65" height="65" /></a>
     <a href="https://www.w3schools.com/js/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt=JavaScript Icon width="55" height="55" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="norefferer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt=ReactJS Icon width="55" height="55" /></a>
     <a href="https://www.figma.com/community" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt=Figma Icon width="55" height="55" /></a>
     <a href="https://webpack.js.org/" target="_blank" rel="norefferer">
@@ -32,7 +35,7 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt=Visual Studio Icon width="55" height="55" /></a></p>
           
-          
+     
    
   <h3 align="left">Feel Free to Connect with Me Here :</h3>
   <p align="left">
