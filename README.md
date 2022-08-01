@@ -18,7 +18,7 @@
 
 
 <details>
-<summary><b><h3 align="left"> :hammer_and_wrench: Languages & Tools  </h3></b></summary><br/>
+<summary><b><h2 align="left"> :hammer_and_wrench: Languages & Tools  </h2></b></summary><br/>
 
 
 <p align="left"> <a href="https://www.w3schools.com/html/" target="_blank" rel="norefferer">
