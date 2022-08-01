@@ -17,9 +17,8 @@
 
 
 
-
-<h3 align="left"> :hammer_and_wrench: Languages & Tools : </h3>
-
+<details>
+<summary><b><h3 align="left"> :hammer_and_wrench: Languages & Tools  </h3></b></summary><br/>
 
 
 <p align="left"> <a href="https://www.w3schools.com/html/" target="_blank" rel="norefferer">
@@ -43,7 +42,8 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt=Visual Studio Icon width="55" height="55" /></a></p>
           
-     
+  </details>   
+   
    
   <h3 align="left">Feel Free to Connect Here :</h3>
   <p align="left">
