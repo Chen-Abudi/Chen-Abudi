@@ -9,7 +9,7 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy) -->
 
-- 🔭 I’m currently working on [Around the US - ReactJS Application](https://github.com/Chen-Abudi/around-react)
+- 🔭 I’m currently working on [React Around Auth](https://chen-abudi.github.io/react-around-auth/)
 - 🌱 I’m currently learning **Full Stack Development** at [Practicum](https://www.practicum100.org/)
 - 📫 How to reach me: cheezumcali23@gmail.com
 
