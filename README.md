@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Full Stack Development** at [Practicum](https://www.practicum100.org/)
 - 💬 You can ask me about **CSS**, **HTML**, **JavaScript**, **ReactJS**, **Designer/Editor tool (Lightroom, Photoshop, Figma)**
 - 📫 How to reach me: cheezumcali23@gmail.com
-- ⚡ Fun fact: **Almost everything I love to do connected to art e.g coding, dance, photography etc**.. 
+- ⚡ Fun fact: **I speak 4 languages, self taught photographer and traveller**.. 
 
 
 
