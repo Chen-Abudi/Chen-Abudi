@@ -1,4 +1,4 @@
-<h1 align="center">Aloha 🌺, I'm Chen Abudi [Also Grace]</h1>
+<h1 align="center">Aloha 🌺:wave:&#127997;, I'm Chen Abudi [Also Grace]</h1>
 <h2 align="center">A Soulful Full Stack Web Developer 💎</h2> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chen-abudi&label=Profile%20views&color=0091ff&style=for-the-badge" alt="Chen Abudi" /> </p>
@@ -10,9 +10,13 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy) -->
 
 - 🔭 I’m currently working on [React Around Auth](https://chen-abudi.github.io/react-around-auth/)
+
 - 🌱 I’m currently learning **Full Stack Development** at [Practicum](https://www.practicum100.org/)
+
 - 💬 You can ask me about **CSS3**, **HTML5**, **JavaScript**, **ReactJS**, **Designer/Editor tool (Lightroom, Photoshop, Figma)**
+
 - 📫 How to reach me: cheezumcali23@gmail.com
+
 - ⚡ Few fun facts about me: **I speak 4 languages, self taught photographer and traveller**.. 
 
 
@@ -65,7 +69,7 @@
           
   <h3 align="left"> :fire: My Stats : </h3>
           
-      
+  
           
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chen-abudi&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
