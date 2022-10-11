@@ -49,7 +49,7 @@
   <a href="https://ubuntu.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt=Ubuntu Icon width="55" height="55" /></a>
    <a href="https://cloud.google.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt=Google Cloud Icon width="85" height="85" align-self="center"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt=Google Cloud Icon width="95" height="95" align-self="center"/></a>
     <a href="https://www.figma.com/community" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt=Figma Icon width="55" height="55" /></a>
     <a href="https://webpack.js.org/" target="_blank" rel="norefferer">
