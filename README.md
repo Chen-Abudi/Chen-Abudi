@@ -39,9 +39,13 @@
   <a href="https://nodejs.org/en/about/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt=Node.js Icon width="55" height="55" /></a>
   <a href="https://expressjs.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt=Node.js Icon width="55" height="55" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt=express.js Icon width="55" height="55" /></a>
     <a href="https://www.mongodb.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt=Node.js Icon width="55" height="55" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt=MongoDB Icon width="55" height="55" /></a>
+     <a href="" target="_blank" rel="norefferer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt=NGINX Icon width="55" height="55" /></a>
+    <a href="" target="_blank" rel="norefferer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt=Linux Icon width="55" height="55" /></a>
     <a href="https://www.figma.com/community" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt=Figma Icon width="55" height="55" /></a>
     <a href="https://webpack.js.org/" target="_blank" rel="norefferer">
