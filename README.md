@@ -9,7 +9,9 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy) -->
 
-- 🔭 I’m currently working on [React Around Auth](https://chen-abudi.github.io/react-around-auth/)
+<!-- - 🔭 I’m currently working on Travel site --> 
+
+- ✨ Check out My [Full-Stack Social Travel App](https://github.com/Chen-Abudi/react-around-api-full) 
 
 - 🌱 I’m currently learning **Full Stack Development** at [Practicum](https://www.practicum100.org/)
 
