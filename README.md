@@ -11,11 +11,13 @@
 
 <!-- - 🔭 I’m currently working on Travel site --> 
 
-- ✨ Check out My Apps [***Full-Stack Social Travel App🌎***](https://github.com/Chen-Abudi/react-around-api-full), [***News Explorer Service App📰🌐🗺️***](https://chen23-news-explorer.students.nomoredomainssbs.ru/)
+- ✨ Check out My [***Full-Stack Social Travel App🌎***](https://github.com/Chen-Abudi/react-around-api-full), [***News Explorer Service App📰🌐🗺️***](https://github.com/Chen-Abudi/news-explorer-frontend)
 
 - 🌱 I’m currently learning **Full Stack Development** at [Practicum](https://www.practicum100.org/)
 
-- 💬 You can ask me about **CSS3**, **HTML5**, **JavaScript**, **ReactJS**, **Designer/Editor tool (Lightroom, Photoshop, Figma)**
+<!-- - 💬 You can ask me about **CSS3**, **HTML5**, **JavaScript**, **ReactJS**, **Designer/Editor tool (Lightroom, Photoshop, Figma)** -->
+
+- 👯 Would **love** to collaborate on Fascinating projects 
 
 - 📫 How to reach me: cheezumcali23@gmail.com
 
