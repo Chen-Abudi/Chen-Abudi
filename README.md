@@ -11,7 +11,7 @@
 
 <!-- - 🔭 I’m currently working on Travel site --> 
 
-- ✨ Check out My [***Full-Stack Social Travel App🌎***](https://github.com/Chen-Abudi/react-around-api-full), [***News Explorer Service App📰🌐🗺️***](https://github.com/Chen-Abudi/news-explorer-frontend)
+- ✨ Check out My [***Social Travel App🌎***](https://github.com/Chen-Abudi/react-around-api-full), [***News Explorer Service App📰🌐🗺️***](https://github.com/Chen-Abudi/news-explorer-frontend)
 
 - 🌱 I’m currently learning **Full Stack Development** at [Practicum](https://www.practicum100.org/)
 
