@@ -13,7 +13,7 @@
 
 - ✨ Check out My [***Social Travel App🌎***](https://github.com/Chen-Abudi/react-around-api-full), [***News Explorer Service App📰🌐🗺️***](https://github.com/Chen-Abudi/news-explorer-frontend)
 
-- 🌱 I’m currently learning **Full Stack Development** at [Practicum](https://www.practicum100.org/)
+- 🌱 Graduated recently along [**certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of **Web Development** from [Practicum](https://www.practicum100.org/)
 
 <!-- - 💬 You can ask me about **CSS3**, **HTML5**, **JavaScript**, **ReactJS**, **Designer/Editor tool (Lightroom, Photoshop, Figma)** -->
 
@@ -23,6 +23,7 @@
 
 - ⚡ Few fun facts about me: **I speak 4 languages, self taught photographer and traveller**.. 
 
+<!-- [Chen Abudi Certificate.pdf](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) -->
 
 
 
@@ -66,10 +67,7 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt=Visual Studio Icon width="55" height="55" /></a></p>
   
-          
-  </details>   
-  
-  <details>
+
   <summary><b><h2 align="left"> ➕ Additional Tools :</h2></b></summary>
   
   ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
@@ -77,7 +75,17 @@
   ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  </details>
+  </details>   
+  
+<!--   <details>
+  <summary><b><h2 align="left"> ➕ Additional Tools :</h2></b></summary>
+  
+  ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+  ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+  ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
+  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  </details> -->
    
    
   <h3 align="left">Feel Free to Connect Here :</h3>
