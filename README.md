@@ -1,6 +1,8 @@
 <h1 align="center">Aloha 🌺:wave:&#127997;, I'm Chen Abudi [Also Grace]</h1>
 <h2 align="center">A Soulful Full Stack Web Developer 💎</h2> 
 
+<h3 align="center">🔓Opened to Full-Stack/Frontend Positions Offers‼️</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chen-abudi&label=Profile%20views&color=0091ff&style=for-the-badge" alt="Chen Abudi" /> </p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
