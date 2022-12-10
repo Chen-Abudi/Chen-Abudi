@@ -21,7 +21,7 @@
 
 - 👯 Would **love** to collaborate on Fascinating projects 
 
-- 📫 How to reach me: cheezumcali23@gmail.com
+- 📫 How to reach me: **cheezumcali23@gmail.com**
 
 - ⚡ Fun facts about me: **I speak 4 languages, self-taught photographer and traveller**.. 
 
