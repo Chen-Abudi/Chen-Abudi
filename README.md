@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chen-abudi&label=Profile%20views&color=0091ff&style=for-the-badge" alt="Chen Abudi" /></p>
 
-<p align="center">🔓Opened to Full-Stack/Frontend Positions Offers‼️</p>
+<h2 align="center">🔓Opened to Full-Stack/Frontend Positions Offers‼️</h2>
 
 <h2 align="left">About Me ℹ️:</h2>
 <p align="left">I'm a Full-Stack Developer who passionate about coding, logic, art, and technology. <br> I'm enthusiastic to exploring and learning new things. I love to help others and learn from them. <br> Beside being a Full-Stack Developer, I'm curious about UI/UX design, a self-taught photographer, I love to travel around the world, to dance, music, nature, sports and more... </p>
@@ -123,8 +123,13 @@
 
 </details>
 
+<details>
+  <summary><h3 align="left"> 🎵 </h3></summary>
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315cmqf3p5iz2rek66bfwdtanf7q&cover_image=true&theme=novatorem&bar_color=3fc7d9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+</details>
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=615&lines=Thank+you+for+stopping+by%2C+have+a+wonderful+day!+%F0%9F%8C%BA+)](https://git.io/typing-svg)
 
 <!-- ### Hi there 👋 -->
