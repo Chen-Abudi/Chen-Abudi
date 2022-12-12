@@ -1,7 +1,11 @@
 <h1 align="center">Aloha 🌺:wave:&#127997;, I'm Chen Abudi [Also Grace]</h1>
 <h2 align="center">A Soulful Full Stack Developer 💎</h2> 
 
-<h3 align="center">🔓Opened to Full-Stack/Frontend Positions Offers‼️</h3>
+<p align="center">🔓Opened to Full-Stack/Frontend Positions Offers‼️</p>
+
+<h2 align="left">About Me ℹ️:</h2>
+<p align="left">I'm a Full-Stack Developer who passionate about coding, logic, art, and technology. <br> I'm enthusiastic to exploring and learning new things. I love to help others and learn from them. <br> Beside being a Full-Stack Developer, I love to travel around the world, to dance, self-taught photographer, music, sports and more... </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chen-abudi&label=Profile%20views&color=0091ff&style=for-the-badge" alt="Chen Abudi" /> </p>
 
