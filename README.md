@@ -1,5 +1,5 @@
 <h1 align="center">Aloha 🌺:wave:&#127997;, I'm Chen Abudi [Also Grace]</h1>
-<h2 align="center">A Soulful Full Stack Web Developer 💎</h2> 
+<h2 align="center">A Soulful Full Stack Developer 💎</h2> 
 
 <h3 align="center">🔓Opened to Full-Stack/Frontend Positions Offers‼️</h3>
 
