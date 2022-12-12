@@ -19,7 +19,7 @@
 
 <!-- - 💬 You can ask me about **CSS3**, **HTML5**, **JavaScript**, **ReactJS**, **Designer/Editor tool (Lightroom, Photoshop, Figma)** -->
 
-- 👯 Would **love** to collaborate on Fascinating projects 
+- 👯 Always **keen** to collaborate for Dev Experiments 
 
 - 📫 How to reach me: **cheezumcali23@gmail.com**
 
