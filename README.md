@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chen-abudi&label=Profile%20views&color=0091ff&style=for-the-badge" alt="Chen Abudi" /></p>
 
-<h2 align="center">🔓Opened to Full-Stack/Frontend Positions Offers‼️</h2>
+<h2 align="center">🔓Opened to Full-Stack/Frontend Developer Positions Offers‼️</h2>
 
 <h2 align="left">About Me ℹ️:</h2>
 <p align="left">I'm a Full-Stack Developer who passionate about coding, logic, art, and technology. <br> I'm enthusiastic to exploring and learning new things. I love to help others and learn from them. <br> Beside being a Full-Stack Developer, I'm curious about UI/UX design, I'm a self-taught photographer, I love to travel around the world, to dance, music, nature, sports and more... </p>
