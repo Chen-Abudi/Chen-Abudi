@@ -1,5 +1,5 @@
 <h1 align="center">Aloha 🌺:wave:&#127997;, I'm Chen (Grace) Abudi </h1>
-<h2 align="center">A Soulful Full Stack Developer 💎</h2> 
+<h2 align="center">A Soulful Full-Stack Developer 💎</h2> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chen-abudi&label=Profile%20views&color=0091ff&style=for-the-badge" alt="Chen Abudi" /></p>
 
