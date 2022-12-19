@@ -89,7 +89,7 @@
   </details>   
   
   
-  <h2 align="left">🌱 2023 Learning Plans</h2>
+  <h2 align="left">🌱 2023 Learning Plans :</h2>
   
   <ul align="left">
   <li><a href="https://www.typescriptlang.org/" target="_blank" rel="norefferer">
