@@ -87,8 +87,11 @@
   </details>   
   
   
-  <h2 align="left">2023 Learning Plans</h2>
-  <ul align="left" text-decoration="none">
+  <h3 align="left">2023 Learning Plans</h3>
+  
+  ----
+  
+  <ul align="left" list-style:"none">
   <li align="left">TypeScript</li>
   <li align="left"></li>
   <li align="left"></li>
