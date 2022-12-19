@@ -22,7 +22,7 @@
 
 - ✨ Check out My [***Social Travel App🌎***](https://github.com/Chen-Abudi/react-around-api-full), [***News Explorer Service App📰🌐🗺️***](https://github.com/Chen-Abudi/news-explorer-frontend)
 
-- 🌱 Graduated recently along [**certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of **Web Development** from [***Practicum***](https://www.practicum100.org/)
+- 👩‍🎓 Graduated recently along [**certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of **Web Development** from [***Practicum***](https://www.practicum100.org/)
 
 <!-- - 💬 You can ask me about **CSS3**, **HTML5**, **JavaScript**, **ReactJS**, **Designer/Editor tool (Lightroom, Photoshop, Figma)** -->
 
@@ -87,16 +87,26 @@
   </details>   
   
   
-  <h3 align="left">2023 Learning Plans</h3>
+  <h2 align="left">🌱 2023 Learning Plans</h2>
   
-  ----
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="norefferer">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" /></a> 
+  <br>
   
-  <ul align="left" list-style:"none">
-  <li align="left">TypeScript</li>
-  <li align="left"></li>
-  <li align="left"></li>
-  <li align="left"></li>
-  </ul>
+  <a href="https://nextjs.org/" target="_blank" rel="norefferer">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS" /></a>
+  <br>
+  
+  <a href="https://redux.js.org/" target="_blank" rel="norefferer">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></a>
+  <br>
+  
+  <a href="https://tailwindcss.com/" target="_blank" rel="norefferer">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" /></a>
+  
+  
+  
+  
    
    
   <h3 align="left">Feel Free to Connect Here :</h3>
