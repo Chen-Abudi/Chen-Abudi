@@ -86,15 +86,14 @@
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   </details>   
   
-<!--   <details>
-  <summary><b><h2 align="left"> ➕ Additional Tools :</h2></b></summary>
   
-  ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-  ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-  ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
-  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  </details> -->
+  <h2 align="left">2023 Learning Plans</h2>
+  <ul align="left" text-decoration="none">
+  <li align="left">TypeScript</li>
+  <li align="left"></li>
+  <li align="left"></li>
+  <li align="left"></li>
+  </ul>
    
    
   <h3 align="left">Feel Free to Connect Here :</h3>
