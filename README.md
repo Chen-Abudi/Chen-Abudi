@@ -5,7 +5,7 @@
 
 <h2 align="center">🔓Opened to Full-Stack/Frontend Developer Positions Offers‼️</h2>
 
-<h2 align="left">About Me ℹ️:</h2>
+<h2 align="left">ℹ️ About Me :</h2>
 <p align="left">I'm a Full-Stack Developer who passionate about coding, logic, art, and technology. <br> I'm enthusiastic to exploring and learning new things. I love to help others and learn from them. <br> Beside being a Full-Stack Developer, I'm curious about UI/UX design, I'm a self-taught photographer, I love to travel around the world, to dance, music, nature, sports and more... </p>
 
 
@@ -91,7 +91,7 @@
   
   <h2 align="left">🌱 2023 Learning Plans</h2>
   
-  <ul>
+  <ul align="left">
   <li><a href="https://www.typescriptlang.org/" target="_blank" rel="norefferer">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" /></a></li>
   <br>
