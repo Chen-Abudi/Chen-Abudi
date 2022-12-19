@@ -11,9 +11,11 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chen-abudi&label=Profile%20views&color=0091ff&style=for-the-badge" alt="Chen Abudi" /> </p> -->
 
-
+ 
+  
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
-
+ 
+  
 <!-- ![GitHub watchers](https://img.shields.io/github/watchers/chen-abudi/chen-abudi?style=social) -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy) -->
@@ -22,11 +24,11 @@
 
 - ✨ Check out My [***Social Travel App🌎***](https://github.com/Chen-Abudi/react-around-api-full), [***News Explorer Service App📰🌐🗺️***](https://github.com/Chen-Abudi/news-explorer-frontend)
 
-- 👩‍🎓 Graduated recently along [**certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of **Web Development** from [***Practicum***](https://www.practicum100.org/)
+- 👩‍🎓 Graduated recently along [**certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of **```Web Development```** from [***Practicum***](https://www.practicum100.org/)
 
 <!-- - 💬 You can ask me about **CSS3**, **HTML5**, **JavaScript**, **ReactJS**, **Designer/Editor tool (Lightroom, Photoshop, Figma)** -->
 
-- 👯 Always **keen** to collaborate for Dev Experiments 
+- 👯 Always **```keen```** to collaborate for Dev Experiments 
 
 - 📫 How to reach me: **cheezumcali23@gmail.com**
 
@@ -89,21 +91,22 @@
   
   <h2 align="left">🌱 2023 Learning Plans</h2>
   
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="norefferer">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" /></a> 
+  <ul>
+  <li><a href="https://www.typescriptlang.org/" target="_blank" rel="norefferer">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" /></a></li>
   <br>
   
-  <a href="https://nextjs.org/" target="_blank" rel="norefferer">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS" /></a>
+  <li><a href="https://nextjs.org/" target="_blank" rel="norefferer">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS" /></a></li>
   <br>
   
-  <a href="https://redux.js.org/" target="_blank" rel="norefferer">
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></a>
+  <li><a href="https://redux.js.org/" target="_blank" rel="norefferer">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></a></li>
   <br>
   
-  <a href="https://tailwindcss.com/" target="_blank" rel="norefferer">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" /></a>
-  
+  <li><a href="https://tailwindcss.com/" target="_blank" rel="norefferer">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" /></a></li>
+  </ul>
   
   
   
