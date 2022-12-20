@@ -88,8 +88,10 @@
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   </details>   
   
+  ---
   
-  <h2 align="left">🌱 2023 Learning Plans :</h2>
+  <details>
+  <summary><h2 align="left" font-family>🌱 2023 Learning Plans </h2></summary>
   
   <ul align="left">
   <li><a href="https://www.typescriptlang.org/" target="_blank" rel="norefferer">
@@ -108,9 +110,9 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" /></a></li>
   </ul>
   
+  </details>
   
-  
-   
+   ---
    
   <h3 align="left">Feel Free to Connect Here :</h3>
   <p align="left">
