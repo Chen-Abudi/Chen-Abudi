@@ -128,7 +128,7 @@
 
   </p>
           
-    
+        
       
   <details>      
   <summary><h3 align="left"> :fire: My Stats : </h3></summary>
@@ -143,11 +143,13 @@
  
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chen-abudi&theme=solarized-light)](https://git.io/streak-stats)
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi&rank=S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
 
 </details>
 
 <details>
-  <summary><h3 align="left"> 🎵 </h3></summary>
+  <summary><h3 align="left"> 🎶 Now Listens To: </h3></summary>
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315cmqf3p5iz2rek66bfwdtanf7q&cover_image=true&theme=novatorem&bar_color=3fc7d9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
