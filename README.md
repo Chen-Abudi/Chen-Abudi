@@ -10,6 +10,8 @@
 
 <h2 align="center">🔓Opened to Full-Stack/Frontend Developer Positions Offers‼️</h2>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=660&lines=Aloha+%F0%9F%A4%99%F0%9F%8F%BD+Welcome+to+my+profile+!;Hope+you'll+enjoy+your+time+here+%F0%9F%99%8F%F0%9F%8F%BD;Go+check+my+Full-Stack+apps+down+below+%F0%9F%91%87%F0%9F%8F%BD;Feel+free+to+connect%2Fcontact+me++;I'm+open+to+collaborate+on+Frontend%2FFull-stack+projects)](https://git.io/typing-svg)
+
 <h2 align="left">ℹ️ About Me :</h2>
 <p align="left">I'm a Full-Stack Developer who passionate about coding, logic, art, and technology. <br> I'm enthusiastic to exploring and learning new things. I love to help others and learn from them. <br> Beside being a Full-Stack Developer, I'm curious about UI/UX design, I'm a self-taught photographer, I love to travel around the world, to dance, music, nature, sports and more... </p>
 
@@ -40,7 +42,6 @@
 - ⚡ Fun facts about me: **I speak 4 languages, self-taught photographer and traveller**.. 
 
 <!-- [Chen Abudi Certificate.pdf](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) -->
-
 
 
 
