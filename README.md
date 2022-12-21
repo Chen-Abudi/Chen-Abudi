@@ -1,5 +1,10 @@
-<h1 align="center">Aloha 🌺:wave:&#127997;, I'm Chen (Grace) Abudi </h1>
-<h2 align="center">A Soulful Full-Stack Developer 💎</h2> 
+
+<!-- ![github-header-image](https://user-images.githubusercontent.com/98914366/208881005-ebf05d4f-4ddf-4bb1-b06e-0f4f0508f81f.png) -->
+<!-- ![github-header-image (1)](https://user-images.githubusercontent.com/98914366/208881290-a226c0f5-87d2-4444-b4e7-23ef8c5b102e.png) -->
+![github-header-image (2)](https://user-images.githubusercontent.com/98914366/208881546-4762226f-7e53-4c50-89ab-02c449d1face.png)
+
+<!-- <h1 align="center">Aloha 🌺:wave:&#127997;, I'm Chen (Grace) Abudi </h1>
+<h2 align="center">A Soulful Full-Stack Developer 💎</h2>  -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chen-abudi&label=Profile%20views&color=0091ff&style=for-the-badge" alt="Chen Abudi" /></p>
 
