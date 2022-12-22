@@ -133,6 +133,9 @@
   <a href="https://www.linkedin.com/in/chen-abudi/" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/chen-abudi/" width="55" height="55" />
   </a>
+  <a href="https://github.com/Chen-Abudi" target="blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="https://github.com/Chen-Abudi" width="55" height="55" />
+  </a>
 
   </p>
           
