@@ -105,9 +105,9 @@
   ---
   
   <details>
-  <summary><h2 align="left" font-family>🌱 2023 Learning Plans </h2></summary>
+  <summary><h2 align="left" font-family> 🌱 2023 Learning Plans </h2></summary>
   
-  <ul align="left">
+<!--   <ul align="left">
   <li><a href="https://www.typescriptlang.org/" target="_blank" rel="norefferer">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" /></a></li>
   <br>
@@ -122,8 +122,24 @@
   
   <li><a href="https://tailwindcss.com/" target="_blank" rel="norefferer">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" /></a></li>
-  </ul>
-  
+   <br>
+   
+  <li><a href="https://www.postgresql.org/" rel="norefferer"> 
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a></li>
+  </ul> -->
+ 
+
+
+ 
+ 
+| Programming Language | Libraries & Frameworks | Database Management |
+|:--------|:------|:------------|
+| [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) | [![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) |
+| | [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/) |  |
+| | [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) |  |
+|  | |
+
+ 
   </details>
   
    ---
