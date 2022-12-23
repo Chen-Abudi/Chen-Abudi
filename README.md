@@ -16,8 +16,6 @@
 <p align="left">I'm a Full-Stack Developer who passionate about coding, logic, art, and technology. <br> I'm enthusiastic to exploring and learning new things. I love to help others and learn from them. <br> Beside being a Full-Stack Developer, I'm curious about UI/UX design, I'm a self-taught photographer, love to travel around the world, to dance, music, nature, sports and more... </p>
 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chen-abudi&label=Profile%20views&color=0091ff&style=for-the-badge" alt="Chen Abudi" /> </p> -->
-
  
   
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
@@ -107,7 +105,7 @@
   ---
   
   <details>
-  <summary><h2 align="left" font-family> 🌱 2023 Learning Plans </h2></summary>
+  <summary><h2 align="left" font-family> 🎯 2023 Learning Plans </h2></summary>
   
 <!--   <ul align="left">
   <li><a href="https://www.typescriptlang.org/" target="_blank" rel="norefferer">
