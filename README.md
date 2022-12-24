@@ -144,7 +144,7 @@
   
    ---
    
-  <h3 align="left">Feel Free to Connect Here :</h3>
+  <h3 align="left">🔗 Feel Free to Connect Here :</h3>
   <p align="left">
   <a href="https://www.linkedin.com/in/chen-abudi/" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/chen-abudi/" width="55" height="55" />
