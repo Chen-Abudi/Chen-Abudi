@@ -25,7 +25,7 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy) -->
 
-<!-- - 🔭 I’m currently working on Travel site --> 
+- 🔭 I’m currently working on Travel (Blog Photography) site. 
 
 - 🌱 I’m currently learning **```Next.JS```** and **```Math```**.
 
