@@ -39,7 +39,7 @@
 
 - 📫 How to reach me: **cheezumcali23@gmail.com**
 
-- ⚡ Fun facts about me: **I speak 4 languages, self-taught photographer and traveller**.. 
+- ⚡ Fun facts about me: **I speak 4 languages, self-taught photographer and world traveller**.. 
 
 <!-- [Chen Abudi Certificate.pdf](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) -->
 
