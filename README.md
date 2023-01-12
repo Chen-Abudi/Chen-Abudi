@@ -41,6 +41,8 @@
 
 - ⚡ Fun facts about me: **I speak 4 languages, self-taught photographer and world traveller**.. 
 
+- 📝 View my **Here** [**```CV```**](https://drive.google.com/file/d/1IenVbNKc3ILRd2-5p4W8JYF0feS9FXHk/view?usp=sharing)  
+
 <!-- [Chen Abudi Certificate.pdf](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) -->
 
 
