@@ -69,10 +69,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt=MongoDB Icon width="55" height="55" /></a>
      <a href="" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt=NGINX Icon width="55" height="55" /></a>
-<!--     <a href="" target="_blank" rel="norefferer">
+    <a href="" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt=Linux Icon width="55" height="55" /></a>
   <a href="https://ubuntu.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt=Ubuntu Icon width="55" height="55" /></a> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt=Ubuntu Icon width="55" height="55" /></a>
    <a href="https://cloud.google.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt=Google Cloud Icon width="95" height="95" align="center"/></a>
     <a href="https://www.figma.com/community" target="_blank" rel="norefferer">
