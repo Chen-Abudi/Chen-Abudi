@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning **```Next.JS```** and **```Math```**.
 
-- ✨ Check out My [***Social Travel App🌎***](https://github.com/Chen-Abudi/react-around-api-full), [***News Explorer Service App📰🌐🗺️***](https://github.com/Chen-Abudi/news-explorer-frontend)
+- ✨ Check out My [***Social Travel App🌎***](https://github.com/Chen-Abudi/react-around-api-full), [***News Explorer Service App📰🌐🗺️***](https://github.com/Chen-Abudi/news-explorer-frontend), [***Travel with Aloha 🌺🗺️***](https://travel-with-aloha.vercel.app/)
 
 - 👩🏽‍🎓 Graduated recently along [**certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of **```Web Development```** from [***Practicum***](https://www.practicum100.org/)
 
