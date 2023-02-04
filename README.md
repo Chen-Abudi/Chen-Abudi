@@ -27,7 +27,7 @@
 
 - 🔭 I’m currently working on [***```Travel (Photography-Blog) site```***](https://github.com/Chen-Abudi/travel_love)
 
-- 🌱 I’m currently learning **```Next.JS```** , **```Math```** and **```The use of Yarn Workspaces```**.
+- 🌱 I’m currently learning **```Next.JS```** , **```Math```** and **```Yarn Workspaces```**.
 
 - ✨ Check out My [***Social Travel App🌎***](https://github.com/Chen-Abudi/react-around-api-full), [***News Explorer Service App📰🌐🗺️***](https://github.com/Chen-Abudi/news-explorer-frontend), [***Travel with Aloha 🌺🗺️***](https://travel-with-aloha.vercel.app/)
 
