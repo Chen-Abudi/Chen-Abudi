@@ -27,7 +27,7 @@
 
 - 🔭 I’m currently working on [***```Travel (Photography-Blog) landing page```***](https://github.com/Chen-Abudi/travel_love)
 
-- 🌱 I’m currently learning **```Next.JS```** and **```Math```**.
+- 🌱 I’m currently learning **```Next.JS```**, **```Math```** and start tests using **```TDD Methodology```**.
 
 - ✨ Check out My [***Social Travel App🌎***](https://github.com/Chen-Abudi/react-around-api-full), [***News Explorer Service App📰🌐🗺️***](https://github.com/Chen-Abudi/news-explorer-frontend), [***Travel with Aloha 🌺🗺️***](https://travel-with-aloha.vercel.app/)
 
