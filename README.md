@@ -13,7 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=660&lines=Aloha+%F0%9F%A4%99%F0%9F%8F%BD+Welcome+to+my+profile+!;Hope+you'll+enjoy+your+time+here+%F0%9F%99%8F%F0%9F%8F%BD;Go+check+my+Full-Stack+apps+down+below+%F0%9F%91%87%F0%9F%8F%BD;Feel+free+to+connect%2Fcontact+me++;I'm+open+to+collaborate+on+Frontend%2FFull-stack+projects)](https://git.io/typing-svg)
 
 <h2 align="left">ℹ️ About Me :</h2>
-<p align="left">I'm a Full-Stack Developer who passionate about coding, logic, art, and technology. <br> I'm enthusiastic to exploring and learning new things. I love to help others and learn from them. <br> Beside being a Full-Stack Developer, I'm curious about UI/UX design, likes to read and learning languages, dance/music, nature/ocean lover ... </p>
+<p align="left">I'm a Full-Stack Developer who passionate about coding, logic, art, and technology. <br> I'm enthusiastic to exploring and learning new things. I love to help others and learn from them. <br> Beside being a Full-Stack Developer, I'm curious about UI/UX design, AI & 3D, reading and learning languages, dance/music, nature/ocean lover ... </p>
 
 
  
