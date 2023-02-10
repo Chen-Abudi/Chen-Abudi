@@ -43,7 +43,7 @@
 
 - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/1pZSYACg2fal5ES5EodPxIOOvpLs208Lm/view?usp=sharing)
 
-<!-- [Chen Abudi Certificate.pdf](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) -->
+
 
 
 
