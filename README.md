@@ -1,6 +1,5 @@
 ![github-header-image](https://user-images.githubusercontent.com/98914366/208881546-4762226f-7e53-4c50-89ab-02c449d1face.png)
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chen-abudi&label=Profile%20views&color=0091ff&style=for-the-badge" alt="Chen Abudi" /></p>
 
 <h2 align="center">🔓Opened to Full-Stack/Frontend Developer Positions Offers‼️</h2>
@@ -10,13 +9,8 @@
 <h2 align="left">ℹ️ About Me :</h2>
 <p align="left">I'm a Full-Stack Developer who passionate about coding, logic, art, and technology. <br> I'm enthusiastic to exploring and learning new things. I love to help others and learn from them. <br> Beside being a Full-Stack Developer, I'm curious about UI/UX design and AI & 3D, reading and learning languages, dance/music, nature/ocean lover ... </p>
 
-
- 
-  
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
  
-  
-
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy) -->
 
 - 🔭 I’m currently working on [***```Travel (Photography-Blog) landing page```***](https://github.com/Chen-Abudi/travel_love)
@@ -37,15 +31,8 @@
 
 - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/1pZSYACg2fal5ES5EodPxIOOvpLs208Lm/view?usp=sharing)
 
-
-
-
-
-
-
 <details>
 <summary><b><h2 align="left"> :hammer_and_wrench: Languages & Tools  </h2></b></summary><br/>
-
 
 <p align="left"> <a href="https://www.w3schools.com/html/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt=HTML5 Icon width="65" height="65" /></a>
@@ -80,7 +67,6 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt=Visual Studio Icon width="55" height="55" /></a></p>
   
-
   <summary><b><h2 align="left"> ➕ Additional Tools :</h2></b></summary>
   
   ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
@@ -106,32 +92,7 @@
   
   <details>
   <summary><h2 align="left" font-family> 🎯 2023 Learning Plans </h2></summary>
-  
-<!--   <ul align="left">
-  <li><a href="https://www.typescriptlang.org/" target="_blank" rel="norefferer">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" /></a></li>
-  <br>
-  
-  <li><a href="https://nextjs.org/" target="_blank" rel="norefferer">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS" /></a></li>
-  <br>
-  
-  <li><a href="https://redux.js.org/" target="_blank" rel="norefferer">
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></a></li>
-  <br>
-  
-  <li><a href="https://tailwindcss.com/" target="_blank" rel="norefferer">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" /></a></li>
-   <br>
    
-  <li><a href="https://www.postgresql.org/" rel="norefferer"> 
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a></li>
-  </ul> -->
- 
-
-
- 
- 
 | Programming Language | Libraries & Frameworks | Database Management | Open Source Software/ 3D Animation
 |:--------|:------|:------------|:------------|
 | [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) | [![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) | [![Blender/ 3D Animation](	https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/) |
@@ -139,7 +100,6 @@
 | | [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) |  |
 |  | [![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) | |
 | | 
-
  
   </details>
   
@@ -155,27 +115,18 @@
   </a>
 
   </p>
-          
-       
-      
+             
   <details>      
   <summary><h3 align="left"> :fire: My Stats : </h3></summary>
           
-  
-          
-
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chen-abudi&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
-
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chen-abudi&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
- 
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chen-abudi&theme=solarized-light)](https://git.io/streak-stats)
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi&rank=S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
  
- 
-
 </details>
 
 <details>
@@ -189,7 +140,7 @@
 
 
 
-<!-- ### Hi there 👋 -->
+
 
 <!--
 **Chen-Abudi/Chen-Abudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
