@@ -1,4 +1,4 @@
-![github-header-image (2)](https://user-images.githubusercontent.com/98914366/208881546-4762226f-7e53-4c50-89ab-02c449d1face.png)
+![github-header-image](https://user-images.githubusercontent.com/98914366/208881546-4762226f-7e53-4c50-89ab-02c449d1face.png)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chen-abudi&label=Profile%20views&color=0091ff&style=for-the-badge" alt="Chen Abudi" /></p>
