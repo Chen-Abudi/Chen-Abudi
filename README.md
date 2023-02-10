@@ -1,5 +1,3 @@
-
-<!-- ![github-header-image](https://user-images.githubusercontent.com/98914366/208881005-ebf05d4f-4ddf-4bb1-b06e-0f4f0508f81f.png) -->
 ![github-header-image (2)](https://user-images.githubusercontent.com/98914366/208881546-4762226f-7e53-4c50-89ab-02c449d1face.png)
 
 
