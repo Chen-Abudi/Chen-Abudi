@@ -16,7 +16,6 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
  
   
-<!-- ![GitHub watchers](https://img.shields.io/github/watchers/chen-abudi/chen-abudi?style=social) -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy) -->
 
