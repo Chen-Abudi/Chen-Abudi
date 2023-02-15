@@ -10,8 +10,6 @@
 <p align="left">I'm a Full-Stack Developer who passionate about coding, logic, art, and technology. <br> I'm enthusiastic to exploring and learning new things. I love to help others and learn from them. <br> Beside being a Full-Stack Developer, I'm curious about UI/UX design and AI & 3D, reading and learning languages, dance/music, nature/ocean lover ... </p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy)
 
 <!-- - 🔭 I’m currently working on [***``````***] -->
 
@@ -126,6 +124,8 @@
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chen-abudi&theme=solarized-light)](https://git.io/streak-stats)
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi&rank=S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy)
  
 </details>
 
