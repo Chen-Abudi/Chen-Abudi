@@ -11,7 +11,7 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
  
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy)
 
 <!-- - 🔭 I’m currently working on [***``````***] -->
 
