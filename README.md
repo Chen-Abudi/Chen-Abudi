@@ -13,7 +13,7 @@
  
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy) -->
 
-- 🔭 I’m currently working on [***```Travel (Photography-Blog) landing page```***](https://github.com/Chen-Abudi/travel_love)
+<!-- - 🔭 I’m currently working on [***``````***] -->
 
 - 🌱 I’m currently learning **```Next.JS```**, **```Math```** and starting Tests using **```TDD Methodology```**.
 
