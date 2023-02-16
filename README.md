@@ -91,7 +91,7 @@
   <details>
   <summary><h2 align="left" font-family> 🎯 2023 Learning Plans </h2></summary>
    
-| Programming Language | Libraries & Frameworks | Database Management | Open Source Software/ 3D Animation
+| Programming Language | Libraries & Frameworks | Database Management | Open Source Software/ 3D 
 |:--------|:------|:------------|:------------|
 | [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) | [![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) | [![Blender/ 3D Animation](	https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/) |
 | | [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/) |  |
