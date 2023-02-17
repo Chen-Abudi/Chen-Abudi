@@ -11,7 +11,7 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<!-- - 🔭 I’m currently working on [***``````***] -->
+- 🔭 I’m currently working on **my portfolio** and ***```tic tac toe real-time game (Collaboration)```***
 
 - 🌱 I’m currently learning **```Next.JS```**, **```Math```** and starting Tests using **```TDD Methodology```**.
 
