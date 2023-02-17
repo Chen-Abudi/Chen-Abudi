@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **my portfolio** and ***```tic tac toe real-time game (Collaboration)```***
 
-- 🌱 I’m currently learning **```Next.JS```**, **```Math```** and starting Tests using **```TDD Methodology```**.
+- 🌱 I’m currently learning **```Next.JS```**, **```Math```** and start **Testing** using **```TDD Methodology```**.
 
 - ✨ Check out My [***Social Travel App🌎***](https://github.com/Chen-Abudi/react-around-api-full), [***News Explorer Service App📰🌐🗺️***](https://github.com/Chen-Abudi/news-explorer-frontend), [***Travel with Aloha 🌺🗺️***](https://travel-with-aloha.vercel.app/)
 
