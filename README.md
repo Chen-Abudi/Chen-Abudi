@@ -11,7 +11,7 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
-- 🔭 I’m currently working on **my portfolio** and [***```Tic Tac Toe Real-Time Game```*** **(Collaboration)**](https://github.com/Chen-Abudi/tic-tac-toe)
+- 🔭 I’m currently working on **my portfolio** and [***```Tic Tac Toe Real-Time Game```***](https://github.com/Chen-Abudi/tic-tac-toe)**(Collaboration)**
 
 - 🌱 I’m currently learning **```Next.JS```**, **```Math```** and start **Testing** using **```TDD Methodology```**.
 
