@@ -127,9 +127,8 @@
   
  
  ![Chen-Abudi-2022-github-skyline](https://user-images.githubusercontent.com/98914366/219968899-ba4375a6-9db2-47ad-b48c-ff96338d804f.jpg)
-  
- 
- ![Uploading screencapture-skyline-github-chen-abudi-2022-2023-02-19-20_56_49.png…]()
+
+ ![my-github-skyline](https://user-images.githubusercontent.com/98914366/219969353-ef5c055e-9b8f-40f7-bd80-2ecc3d8c52f2.png)
 
 <!--  [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy) -->
  
