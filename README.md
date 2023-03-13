@@ -38,25 +38,27 @@
 
 <p align="left"> <a href="https://www.w3schools.com/html/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt=HTML5 Icon width="65" height="65" /></a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="norefferer">
+       <a href="https://www.w3schools.com/css/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt=CSS3 Icon width="65" height="65" /></a>
-    <a href="https://www.w3schools.com/js/" target="_blank" rel="norefferer">
+       <a href="https://www.w3schools.com/js/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt=JavaScript Icon width="55" height="55" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="norefferer">
+       <a href="https://reactjs.org/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt=ReactJS Icon width="55" height="55" /></a>
-  <a href="https://nodejs.org/en/about/" target="_blank" rel="norefferer">
+       <a href="https://sass-lang.com/" target="_blank" rel="norefferer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt=Sass Icon width="55" height="55" /></a>
+       <a href="https://nodejs.org/en/about/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt=Node.js Icon width="55" height="55" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="norefferer">
+       <a href="https://expressjs.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt=express.js Icon width="55" height="55" /></a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="norefferer">
+      <a href="https://www.mongodb.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt=MongoDB Icon width="55" height="55" /></a>
-     <a href="" target="_blank" rel="norefferer">
+      <a href="" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt=NGINX Icon width="55" height="55" /></a>
 <!--     <a href="" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt=Linux Icon width="55" height="55" /></a>
-  <a href="https://ubuntu.com/" target="_blank" rel="norefferer">
+     <a href="https://ubuntu.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt=Ubuntu Icon width="55" height="55" /></a> -->
-   <a href="https://cloud.google.com/" target="_blank" rel="norefferer">
+     <a href="https://cloud.google.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt=Google Cloud Icon width="95" height="95" align="center"/></a>
     <a href="https://www.figma.com/community" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt=Figma Icon width="55" height="55" /></a>
