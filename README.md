@@ -31,7 +31,7 @@
 
 - ⚡ Fun facts about me: **I speak 4 languages, self-taught photographer and world traveler**... 
 
-<!-- - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/1pZSYACg2fal5ES5EodPxIOOvpLs208Lm/view?usp=sharing) -->
+- 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/15CFxfVMETpP89foHqx9qbw7m51-je7tw/view?usp=sharing)
 
 <details>
 <summary><b><h2 align="left"> :hammer_and_wrench: Languages & Tools  </h2></b></summary><br/>
