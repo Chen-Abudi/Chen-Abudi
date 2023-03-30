@@ -25,7 +25,7 @@
 
 <!-- - 💬 You can ask me about **CSS3**, **HTML5**, **JavaScript**, **ReactJS**, **Designer/Editor tool (Lightroom, Photoshop, Figma)** -->
 
-- ✍🏽 I'm authoring articles on LinkedIn to share my insights and experiences about topics in software development.
+- ✍🏽 I'm authoring **articles** on ***```LinkedIn```*** to share my insights and experiences about topics in software development.
 
 - 👯 Always **```keen```** to collaborate for Dev Experiments 
 
