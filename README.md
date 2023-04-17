@@ -79,13 +79,13 @@
       <a href="https://cloud.google.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt=Google Cloud Icon width="95" height="95"    align="center"/></a>
       <a href="https://www.nginx.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt=NGINX Icon width="55" height="55" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt=NGINX Icon width="60" height="60" /></a>
       <a href="https://expressjs.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt=express.js Icon width="55" height="55" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt=express.js Icon width="60" height="60" /></a>
       <a href="https://nodejs.org/en/about/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt=Node.js Icon width="55" height="55" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt=Node.js Icon width="60" height="60" /></a>
       <a href="https://storybook.js.org/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original-wordmark.svg" alt=Storybook Icon width="55" height="55" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original-wordmark.svg" alt=Storybook Icon width="60" height="60" /></a>
           </p>
            
   
