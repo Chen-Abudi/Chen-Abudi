@@ -77,7 +77,7 @@
       <a href="https://jestjs.io/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt=Jest Icon width="50" height="50" /></a>
       <a href="https://cloud.google.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt=Google Cloud Icon width="50" height="50" align="center"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt=Google Cloud Icon width="55" height="55" /></a>
       <a href="https://expressjs.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt=express.js Icon width="50" height="50" /></a>
       <a href="https://nodejs.org/en/about/" target="_blank" rel="norefferer">
