@@ -48,20 +48,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt=ReactJS Icon width="55" height="55" /></a>
        <a href="https://sass-lang.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt=Sass Icon width="55" height="55" /></a>
-       <a href="https://nodejs.org/en/about/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt=Node.js Icon width="55" height="55" /></a>
-       <a href="https://expressjs.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt=express.js Icon width="55" height="55" /></a>
+<!--        <a href="https://nodejs.org/en/about/" target="_blank" rel="norefferer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt=Node.js Icon width="55" height="55" /></a> -->
+<!--        <a href="https://expressjs.com/" target="_blank" rel="norefferer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt=express.js Icon width="55" height="55" /></a> -->
       <a href="https://www.mongodb.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt=MongoDB Icon width="55" height="55" /></a>
-      <a href="" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt=NGINX Icon width="55" height="55" /></a>
+<!--       <a href="https://www.nginx.com/" target="_blank" rel="norefferer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt=NGINX Icon width="55" height="55" /></a> -->
 <!--     <a href="" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt=Linux Icon width="55" height="55" /></a>
      <a href="https://ubuntu.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt=Ubuntu Icon width="55" height="55" /></a> -->
-     <a href="https://cloud.google.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt=Google Cloud Icon width="95" height="95" align="center"/></a>
+<!--      <a href="https://cloud.google.com/" target="_blank" rel="norefferer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt=Google Cloud Icon width="95" height="95" align="center"/></a> -->
     <a href="https://www.figma.com/community" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt=Figma Icon width="55" height="55" /></a>
     <a href="https://webpack.js.org/" target="_blank" rel="norefferer">
@@ -75,7 +75,18 @@
       <a href="https://yarnpkg.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt=Yarn Icon width="55" height="55" /></a>
       <a href="https://jestjs.io/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt=Jest Icon width="50" height="50" /></a></p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt=Jest Icon width="50" height="50" /></a>
+      <a href="https://cloud.google.com/" target="_blank" rel="norefferer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt=Google Cloud Icon width="95" height="95"    align="center"/></a>
+      <a href="https://www.nginx.com/" target="_blank" rel="norefferer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt=NGINX Icon width="55" height="55" /></a>
+      <a href="https://expressjs.com/" target="_blank" rel="norefferer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt=express.js Icon width="55" height="55" /></a>
+      <a href="https://nodejs.org/en/about/" target="_blank" rel="norefferer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt=Node.js Icon width="55" height="55" /></a>
+      <a href="https://storybook.js.org/" target="_blank" rel="norefferer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original-wordmark.svg" alt=Storybook Icon width="55" height="55" /></a>
+          </p>
            
   
   <summary><b><h2 align="left"> ➕ Additional Tools :</h2></b></summary>
