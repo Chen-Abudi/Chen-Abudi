@@ -73,9 +73,9 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt=Visual Studio Icon width="55" height="55" /></a>
       <a href="https://yarnpkg.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt=Yarn Icon width="65" height="65" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt=Yarn Icon width="60" height="60" /></a>
       <a href="https://jestjs.io/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt=Jest Icon width="55" height="55" /></a></p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt=Jest Icon width="50" height="50" /></a></p>
            
   
   <summary><b><h2 align="left"> ➕ Additional Tools :</h2></b></summary>
