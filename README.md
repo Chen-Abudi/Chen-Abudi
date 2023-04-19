@@ -138,9 +138,9 @@
   <details>      
   <summary><h3 align="left"> :fire: My Stats : </h3></summary>
           
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chen-abudi&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chen-abudi&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chen-abudi&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chen-abudi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  -->
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chen-abudi&theme=solarized-light)](https://git.io/streak-stats)
  
