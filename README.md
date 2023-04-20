@@ -17,7 +17,7 @@
 
 <!-- - 🌱 I’m currently learning **```Next.JS```**, **```Math```** and started **Tests** using the **```TDD Methodology```**. -->
 
-- 🌱 I’m currently learning ***```Advanced CSS & Sass Course in Udemy```*** and started **Testing** using the **```TDD Methodology```**.
+- 🌱 I’m currently learning ***```Advanced CSS & Sass Course in Udemy```*** and started **Testing** using the **```TDD Methodology```**
 
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/) 
 
@@ -25,7 +25,7 @@
 
 <!-- - 💬 You can ask me about **CSS3**, **HTML5**, **JavaScript**, **ReactJS**, **Designer/Editor tool (Lightroom, Photoshop, Figma)** -->
 
-- ✍🏽 I'm authoring ***articles*** on [**```LinkedIn```**](https://www.linkedin.com/in/chen-abudi/) to share my insights and experiences about topics in ***```Software Development```***.
+- ✍🏽 I'm authoring ***articles*** on [**```LinkedIn```**](https://www.linkedin.com/in/chen-abudi/) to share my insights and experiences about topics in ***```Software Development```***
 
 - 👯 Always **```keen```** to collaborate for Dev Experiments 
 
