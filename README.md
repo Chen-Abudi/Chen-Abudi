@@ -17,7 +17,7 @@
 
 <!-- - 🌱 I’m currently learning **```Next.JS```**, **```Math```** and started **Tests** using the **```TDD Methodology```**. -->
 
-- 🌱 I’m currently learning ***```Advanced CSS & Sass Udemy Course```*** and started **Testing** using **```TDD Methodology```**
+- 🌱 I’m currently learning ***```Advanced CSS & Sass Course In Udemy```*** and started **Testing** using **```TDD Methodology```**
 
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/) 
 
