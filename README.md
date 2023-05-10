@@ -13,12 +13,12 @@
 
 <!-- - 🔭 I’m currently working on **my Portfolio** and [***```Real Time Tic-Tac-Toe Game```***](https://github.com/Chen-Abudi/tic-tac-toe)**(Collaboration)** -->
 
-- 🔭 I’m currently working on [***```Real-Time Tic Tac Toe Game```***](https://github.com/Chen-Abudi/tic-tac-toe)**(Collaboration)**
+<!-- - 🔭 I’m currently working on [***```Real-Time Tic Tac Toe Game```***](https://github.com/Chen-Abudi/tic-tac-toe)**(Collaboration)** -->
 
 <!-- - 🌱 I’m currently learning **```Next.JS```**, **```Math```** and started **Tests** using the **```TDD Methodology```**. -->
 
-- 🌱 I’m currently learning ***```Advanced CSS & Sass Course In Udemy```*** and started **Testing** using **```TDD Methodology```**
-
+- 🌱 I’m currently learning ***```Advanced CSS & Sass Course In Udemy```***, **```Vue JS```** and started **Testing** using **```TDD Methodology```**
+                      
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/) 
 
 - 👩🏽‍🎓 Graduated recently along [**certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of **```Web Development```** from [***Practicum***](https://www.practicum100.org/)
