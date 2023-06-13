@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=660&lines=Aloha+%F0%9F%A4%99%F0%9F%8F%BD+Welcome+to+my+profile+!;Hope+you'll+enjoy+your+time+here+%F0%9F%99%8F%F0%9F%8F%BD;Go+check+my+Full-Stack+apps+down+below+%F0%9F%91%87%F0%9F%8F%BD;Feel+free+to+connect%2Fcontact+me++;I'm+open+to+collaborate+on+Frontend%2FFull-stack+projects)](https://git.io/typing-svg)
 
 <h2 align="left">ℹ️ About Me :</h2>
-<p align="left">I'm a Full-Stack Developer who passionate about coding, logic, art, and technology. <br> I'm enthusiastic to exploring and learning new things. I love to help others and learn from them. <br> Beside being a Full-Stack Developer, I'm curious about UI/UX design and AI & 3D modeling, reading and learning languages, dance/music, nature/ocean lover ... </p>
+<p align="left">I'm a Full-Stack Developer who is passionate about coding, logic, art, and technology. <br> I'm enthusiastic about exploring and learning new things. I love to help others and learn from them. <br> Beside being a Full-Stack Developer, I'm curious about UI/UX design and AI & 3D modeling, reading and learning languages, dance/music, nature/ocean lover ... </p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -31,7 +31,7 @@
 
 - 📫 How to reach me: **cheezumcali23@gmail.com**
 
-- ⚡ Fun facts about me: **I speak 4 languages, self-taught photographer and world traveler**... 
+- ⚡ Fun facts about me: **I speak 4 languages, self-taught photographer, and am a world traveler**... 
 
 <!-- - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/15CFxfVMETpP89foHqx9qbw7m51-je7tw/view?usp=sharing) -->
 
@@ -113,6 +113,7 @@
   ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
   ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
   </details>   
   
   ---
