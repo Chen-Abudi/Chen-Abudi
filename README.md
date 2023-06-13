@@ -29,11 +29,7 @@
 
 - 👯 Always **```keen```** to collaborate for Dev Experiments 
 
-<!-- - 📫 How to reach me: **cheezumcali23@gmail.com** -->
-
-- 📫 How to reach me: <div align="flex-start">  <a href='cheezumcali23@gmail.com'>
-    <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
-  </a> </div>
+- 📫 How to reach me: **cheezumcali23@gmail.com** 
 
 - ⚡ Fun facts about me: **I speak 4 languages, self-taught photographer, and am a world traveler**... 
 
