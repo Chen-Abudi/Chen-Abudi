@@ -41,27 +41,27 @@
 <summary><b><h2 align="left"> :hammer_and_wrench: Languages & Tools  </h2></b></summary><br/>
 
 <p align="left"> <a href="https://www.w3schools.com/html/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt=HTML5 Icon width="65" height="65" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5 Icon" width="65" height="65" /></a>
        <a href="https://www.w3schools.com/css/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt=CSS3 Icon width="65" height="65" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3 Icon" width="65" height="65" /></a>
        <a href="https://www.w3schools.com/js/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt=JavaScript Icon width="55" height="55" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Icon" width="55" height="55" /></a>
        <a href="https://reactjs.org/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt=ReactJS Icon width="55" height="55" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS Icon" width="55" height="55" /></a>
        <a href="https://sass-lang.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt=Sass Icon width="55" height="55" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass Icon" width="55" height="55" /></a>
       <a href="https://www.mongodb.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt=MongoDB Icon width="55" height="55" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Icon" width="55" height="55" /></a>
 <!--     <a href="" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt=Linux Icon width="55" height="55" /></a>
      <a href="https://ubuntu.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt=Ubuntu Icon width="55" height="55" /></a> -->
     <a href="https://www.figma.com/community" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt=Figma Icon width="55" height="55" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma Icon" width="55" height="55" /></a>
     <a href="https://webpack.js.org/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt=Webpack Icon width="55" height="55" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack Icon" width="55" height="55" /></a>
     <a href="https://git-scm.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt=Git Icon width="55" height="55" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git Icon" width="55" height="55" /></a>
     <a href="https://www.npmjs.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM Icon" width="55" height="55" />
     <a href="https://code.visualstudio.com/" target="_blank" rel="norefferer">
@@ -124,9 +124,18 @@
   <details>
   <summary><h2 align="left" font-family> 🎯 2023 Learning Plans </h2></summary>
    
-| Programming Language | Libraries & Frameworks | Database Management | Open Source Software/ 3D 
+<!-- | Programming Language | Libraries & Frameworks | Database Management | Open Source Software/ 3D 
 |:--------|:------|:------------|:------------|
 | [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) | [![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) | [![Blender/ 3D Animation](	https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/) |
+| | [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/) |  |
+| | [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) |  |
+|  | [![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) | |
+| | -->
+
+
+| Programming Language | Libraries & Frameworks |  Open Source Software/ 3D 
+|:--------|:------|:------------|
+| [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) | [![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) | [![Blender/ 3D Animation](	https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/) |
 | | [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/) |  |
 | | [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) |  |
 |  | [![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) | |
