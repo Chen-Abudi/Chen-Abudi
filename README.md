@@ -29,7 +29,7 @@
 
 - 👯 Always **```keen```** to collaborate for Dev Experiments 
 
-- 📫 How to reach me: **cheezumcali23@gmail.com ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)**
+<!-- - 📫 How to reach me: **cheezumcali23@gmail.com** -->
 
 - 📫 How to reach me: <div align="flex-start">  <a href='cheezumcali23@gmail.com'>
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
@@ -124,6 +124,7 @@
   ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
   ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+  ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
   </details>   
   
   ---
