@@ -31,7 +31,7 @@
 
 - 📫 How to reach me: **cheezumcali23@gmail.com** 
 
-- ⚡ Fun facts about me: **I speak 4 languages, self-taught photographer, and am a world traveler**... 
+- ⚡ Fun facts about me: **I speak 4 languages, self-taught photographer, and I'm a world traveler**... 
 
 <!-- - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/15CFxfVMETpP89foHqx9qbw7m51-je7tw/view?usp=sharing) -->
 
