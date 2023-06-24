@@ -33,7 +33,7 @@
 
 <!-- - 📫 How to reach me: **cheezumcali23@gmail.com** -->
 
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cheezumcali23@gmail.com)
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.cheezumcali23@gmail.com)
 
 - ⚡ Fun facts about me: **I speak 4 languages, self-taught photographer, and I'm a world traveler**... 
 
