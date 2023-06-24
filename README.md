@@ -21,7 +21,7 @@
                       
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/) 
 
-- 👩🏽‍🎓 Graduated recently along [**certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of **```Web Development```** from [***Practicum***](https://www.practicum100.org/)
+- 👩🏽‍🎓 Graduated recently along [**certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of **```Web Development```** from [***TripleTen (Formerly Practicum)***](https://www.practicum100.org/)
 
 <!-- - 💬 You can ask me about **CSS3**, **HTML5**, **JavaScript**, **ReactJS**, **Designer/Editor tool (Lightroom, Photoshop, Figma)** -->
 
@@ -37,9 +37,8 @@
 
 - ⚡ Fun facts about me: **I speak 4 languages, self-taught photographer, and I'm a world traveler**... 
 
-<!-- - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/15CFxfVMETpP89foHqx9qbw7m51-je7tw/view?usp=sharing) -->
-
 - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/1hLrMjdKypW3gekEPZiQu54YSwAeuJSRR/view?usp=sharing)
+
 
 <details>
 <summary><b><h2 align="left"> :hammer_and_wrench: Languages & Tools  </h2></b></summary><br/>
@@ -56,10 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass Icon" width="55" height="55" /></a>
       <a href="https://www.mongodb.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Icon" width="55" height="55" /></a>
-<!--     <a href="" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt=Linux Icon width="55" height="55" /></a>
-     <a href="https://ubuntu.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt=Ubuntu Icon width="55" height="55" /></a> -->
     <a href="https://www.figma.com/community" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma Icon" width="55" height="55" /></a>
     <a href="https://webpack.js.org/" target="_blank" rel="norefferer">
