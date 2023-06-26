@@ -35,8 +35,6 @@
 
 - ⚡ Fun facts about me: **I speak 4 languages, self-taught photographer, and I'm a world traveler**... 
 
-<!-- - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/1hLrMjdKypW3gekEPZiQu54YSwAeuJSRR/view?usp=sharing) -->
-
 - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/1i8cF3uxQmmlkU0JWWU7x81EK0VKD_Y6f/view?usp=sharing)
 
 
