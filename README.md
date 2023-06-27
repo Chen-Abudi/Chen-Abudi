@@ -21,7 +21,7 @@
                       
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/) 
 
-- 👩🏽‍🎓 Graduated recently along [**certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of **```Web Development```** from [***TripleTen (Formerly Practicum)***](https://tripleten.co.il/)
+- 👩🏽‍🎓 Graduated recently along [**certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of **```Web Development```** from [***TripleTen (Ex-Practicum)***](https://tripleten.co.il/)
 
 <!-- - 💬 You can ask me about **CSS3**, **HTML5**, **JavaScript**, **ReactJS**, **Designer/Editor tool (Lightroom, Photoshop, Figma)** -->
 
