@@ -29,7 +29,7 @@
 
 - ✍🏽 I'm regularly authoring ***articles*** on [**```LinkedIn```**](https://www.linkedin.com/in/chen-abudi/) to share my insights and experiences about topics in ***```Software Development```***
 
-- ✍🏽 I'm authoring ***articles*** to share my personal insights and experiences about **```sundry topics```** on [![**```Medium```**](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cheezumcali23)
+- ✍🏽 I'm authoring ***articles*** to share my personal insights and experiences on **```sundry topics```** in [![**```Medium```**](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cheezumcali23)
 
 - 👯 Always **```keen```** to collaborate for Dev Experiments 
 
