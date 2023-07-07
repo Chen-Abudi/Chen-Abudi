@@ -31,7 +31,7 @@
 
 - ✍🏽 I'm authoring ***articles*** to share my personal insights and experiences on **```sundry topics```** in [![**```Medium```**](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cheezumcali23)
 
-- 👯 Always **```keen```** to collaborate for Dev Experiments 
+- 👯 Always ***```keen```*** to collaborate for Dev Experiments 
 
 - 📫 How to reach me: **cheezumcali23@gmail.com** 
 
