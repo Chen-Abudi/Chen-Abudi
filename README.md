@@ -181,6 +181,10 @@
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315cmqf3p5iz2rek66bfwdtanf7q&cover_image=true&theme=novatorem&bar_color=3fc7d9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+<img src="https://raw.githubusercontent.com/Chen-Abudi/Chen-Abudi/output/snake.svg" alt="Snake animation" />
+
+###
+
 </details>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=615&lines=Thank+you+for+stopping+by%2C+have+a+wonderful+day!+%F0%9F%8C%BA+)](https://git.io/typing-svg)
