@@ -19,6 +19,8 @@
 
 <!-- - 🌱 I’m currently learning ***```Advanced CSS & Sass Udemy Course```***, **```Vue.js```** and started **Testing** using **```TDD Methodology```** -->
 
+- 🌱 I'm currently learning **```Vue.js```**, and **```Math```**
+
 - 🔭 I'm currently working as a **```Web Developer Intern```** at ***```Qelos```***. 
                       
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/) 
