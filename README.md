@@ -19,7 +19,7 @@
 
 <!-- - 🌱 I’m currently learning ***```Advanced CSS & Sass Udemy Course```***, **```Vue.js```** and started **Testing** using **```TDD Methodology```** -->
 
-- 🌱 I'm currently learning **```Vue.js```**, and **```Math```**
+- 🌱 I'm currently learning **```Vue.js```**, and **```Math```**.
 
 - 🔭 I'm currently working as a **```Web Developer Intern```** at ***```Qelos```***. 
                       
@@ -31,7 +31,7 @@
 
 - ✍🏽 I'm regularly authoring ***articles*** on [**```LinkedIn```**](https://www.linkedin.com/in/chen-abudi/) to share my insights and experiences about topics in ***```Software Development```***
 
-- ✍🏽 I'm authoring ***articles*** to share my personal insights and experiences on **```sundry topics```** in [![**```Medium```**](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cheezumcali23)
+- ✍🏽 I'm authoring ***articles*** to share my personal insights and experiences regarding **```sundry topics```** on [![**```Medium```**](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cheezumcali23)
 
 - 👯 Always ***```avid```*** to collaborate for Dev Experiments 
 
@@ -118,8 +118,8 @@
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-  <!-- ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) -->
-  <!-- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) -->
+  ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) 
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
   <!-- ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) -->
   <!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
   </details>   
