@@ -1,4 +1,4 @@
-![github-header-image](https://user-images.githubusercontent.com/98914366/208881546-4762226f-7e53-4c50-89ab-02c449d1face.png)
+![instagram](https://github.com/Chen-Abudi/Chen-Abudi/assets/98914366/7d000b0a-2b3a-4b8c-b3e8-446e2e6d4d0d)![github-header-image](https://user-images.githubusercontent.com/98914366/208881546-4762226f-7e53-4c50-89ab-02c449d1face.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chen-abudi&label=Profile%20views&color=0091ff&style=for-the-badge" alt="Chen Abudi" /></p>
 
@@ -25,7 +25,7 @@
                       
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/) 
 
-- 👩🏽‍🎓 Graduated recently along [**certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of **```Web Development/Software Engineering```** from [***TripleTen (Formerly Practicum)***](https://tripleten.co.il/)
+- 👩🏽‍🎓 Graduated successfully along [**certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of **```Web Development/Software Engineering```** from [***TripleTen (Formerly known as Practicum)***](https://tripleten.co.il/)
 
 <!-- - 💬 You can ask me about **CSS3**, **HTML5**, **JavaScript**, **ReactJS**, **Designer/Editor tool (Lightroom, Photoshop, Figma)** -->
 
@@ -33,11 +33,11 @@
 
 - ✍🏽 I'm authoring ***articles*** to share my personal insights and experiences regarding **```sundry topics```** on [![**```Medium```**](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cheezumcali23)
 
-- 👯 Always ***```avid```*** to collaborate for Dev Experiments 
+- 👯 Always ***```avid```*** to collaborate and contribute for Dev Experiments 
 
 - 📫 How to reach me: **cheezumcali23@gmail.com** 
 
-- ⚡ Fun facts about me: **I speak 4 languages, self-taught photographer, and I'm a world traveler**... 
+- ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer and a world traveler**... 
 
 - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/1i8cF3uxQmmlkU0JWWU7x81EK0VKD_Y6f/view?usp=sharing)
 
@@ -161,9 +161,80 @@
   <a href="https://github.com/Chen-Abudi" target="blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="https://github.com/Chen-Abudi" width="55" height="55" />
   </a>
+  <h4 align="left">To follow my photography journey</h4>
+    <a href="https://www.instagram.com/calibased23/" target="blank"> 
 
+![instagram-svgrepo-com](https://github.com/Chen-Abudi/Chen-Abudi/assets/98914366/be043efa-c8e0-4bbb-b30e-7e068d8e6007)<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 512 512" xml:space="preserve">
+<path style="fill:#FDE494;" d="M115.613,510.899h60.972l-96.206-61.66L1.298,403.03C4.752,463.092,54.701,510.899,115.613,510.899z"
+	/>
+<path style="fill:#FEA150;" d="M335.828,475.665l-68.858-17.617H115.613c-33.999,0-61.66-27.661-61.66-61.66v-33.803l-26.426-28.359
+	l-26.426,4.673v57.489c0,2.231,0.072,4.444,0.197,6.643l175.287,107.869h208.318L335.828,475.665z"/>
+<path style="fill:#FF5D4A;" d="M441.806,439.194c-11.22,11.612-26.935,18.854-44.318,18.854H266.97l117.933,52.852h12.585
+	c41.113,0,77.229-21.783,97.43-54.41l-26.964-16.059L441.806,439.194z"/>
+<path style="fill:#E45261;" d="M459.148,325.313v71.074c0,16.616-6.619,31.707-17.342,42.807l53.113,17.296
+	C505.742,439.008,512,418.416,512,396.387v-62.67l-27.337-15.358L459.148,325.313z"/>
+<polygon style="fill:#FF4D95;" points="512,148.869 483.858,142.168 459.148,156.962 459.148,325.313 512,333.717 "/>
+<path style="fill:#CB319C;" d="M512,114.512c0-57.509-42.616-105.246-97.925-113.306l-69.284,28.831l-35.108,22.815h87.805
+	c33.999,0,61.66,27.661,61.66,61.66v42.45L512,148.869V114.512z"/>
+<path style="fill:#8A3293;" d="M318.15,0l-65.54,24.583l-51.693,28.269h108.768L414.075,1.206C408.658,0.416,403.121,0,397.488,0
+	H318.15z"/>
+<path style="fill:#FF5D4A;" d="M256.551,405.196c18.319,0,35.876-3.313,52.114-9.36l-85.835-38.963l-90.982-18.617
+	C158.708,378.574,204.575,405.196,256.551,405.196z"/>
+<path style="fill:#E45261;" d="M329.546,304.702c-15.849,23.414-42.656,38.834-72.996,38.834c-40.186,0-74.149-27.06-84.685-63.909
+	l-23.631-14.769l-40.76,4.529c2.348,25.291,10.99,48.782,24.372,68.869l176.817,57.581c38.221-14.234,69.088-43.663,85.274-80.894
+	l-31.685-16.05L329.546,304.702z"/>
+<g>
+	<path style="fill:#FF4D95;" d="M168.465,255.449c0-21.831,8-41.817,21.201-57.223l-37.577-5.257l-38.168,16.855
+		c-4.615,14.391-7.116,29.72-7.116,45.624c0,4.702,0.243,9.345,0.669,13.936l64.391,10.24
+		C169.667,271.938,168.465,263.834,168.465,255.449z"/>
+	<path style="fill:#FF4D95;" d="M406.297,255.449c0-32.069-10.138-61.813-27.369-86.204l-37.317-5.296l-38.335,16.881
+		c24.819,15.598,41.361,43.205,41.361,74.62c0,18.231-5.568,35.185-15.09,49.252l64.392,10.24
+		C401.872,296.695,406.297,276.583,406.297,255.449z"/>
+</g>
+<g>
+	<path style="fill:#CB319C;" d="M256.551,167.363c17.157,0,33.171,4.948,46.725,13.466l75.652-11.584
+		c-27.137-38.41-71.875-63.542-122.377-63.542c-66.667,0-123.288,43.794-142.63,104.121l75.745-11.599
+		C205.833,179.355,229.811,167.363,256.551,167.363z"/>
+	<path style="fill:#CB319C;" d="M397.488,149.746c19.428,0,35.234-15.806,35.234-35.234s-15.806-35.234-35.234-35.234
+		s-35.234,15.806-35.234,35.234S378.06,149.746,397.488,149.746z"/>
+</g>
+<polygon style="fill:#FF5D4A;" points="53.953,312.889 28.512,300.2 1.101,295.678 1.101,338.899 53.953,362.584 "/>
+<polygon style="fill:#E45261;" points="1.101,252.47 1.101,295.678 53.953,312.889 53.953,260.874 26.492,251.002 "/>
+<polygon style="fill:#FF4D95;" points="53.953,219.007 26.795,218.762 1.101,227.1 1.101,252.47 53.953,260.874 "/>
+<polygon style="fill:#CB319C;" points="53.953,179.371 25.959,182.21 1.101,205.519 1.101,227.1 53.953,219.007 "/>
+<polygon style="fill:#8A3293;" points="1.101,205.519 53.953,179.371 53.953,119.106 22.954,122.07 1.101,142.933 "/>
+<path style="fill:#523494;" d="M205.719,0L85.126,46.381L2.485,96.72c-0.908,5.8-1.384,11.742-1.384,17.792v28.421l52.852-23.826
+	v-4.595c0-33.999,27.661-61.66,61.66-61.66h85.304L318.15,0H205.719z"/>
+<path style="fill:#2D2D87;" d="M115.613,0C58.522,0,11.058,41.997,2.485,96.72L205.719,0H115.613z"/>
+<path d="M256.551,100.198c-85.606,0-155.252,69.645-155.252,155.252c0,27.293,7.183,54.138,20.775,77.632
+	c2.284,3.947,7.336,5.295,11.284,3.014c3.947-2.284,5.297-7.335,3.014-11.284c-12.139-20.984-18.556-44.969-18.556-69.362
+	c0-76.499,62.236-138.735,138.735-138.735s138.736,62.236,138.736,138.735S333.05,394.185,256.551,394.185
+	c-38.491,0-74.271-15.397-100.748-43.355c-3.136-3.311-8.363-3.454-11.675-0.317c-3.311,3.136-3.454,8.363-0.317,11.675
+	c29.629,31.284,69.667,48.513,112.74,48.513c85.606,0,155.252-69.645,155.252-155.252S342.157,100.198,256.551,100.198z"/>
+<path d="M256.551,355.647c55.25,0,100.198-44.948,100.198-100.198S311.8,155.252,256.551,155.252S156.353,200.2,156.353,255.449
+	S201.301,355.647,256.551,355.647z M256.551,171.768c46.143,0,83.682,37.539,83.682,83.682s-37.539,83.682-83.682,83.682
+	s-83.682-37.539-83.682-83.682S210.408,171.768,256.551,171.768z"/>
+<path d="M397.488,78.176c-20.035,0-36.335,16.3-36.335,36.335s16.3,36.335,36.335,36.335s36.335-16.3,36.335-36.335
+	S417.523,78.176,397.488,78.176z M397.488,134.331c-10.928,0-19.819-8.891-19.819-19.819s8.891-19.819,19.819-19.819
+	s19.819,8.891,19.819,19.819S408.416,134.331,397.488,134.331z"/>
+<path d="M512,113.961C512,51.023,460.977,0,398.039,0H113.961C51.023,0,0,51.023,0,113.961v284.077
+	C0,460.977,51.023,512,113.961,512h284.077C460.977,512,512,460.977,512,398.039V113.961z M495.484,398.039
+	c0,53.817-43.628,97.445-97.445,97.445H113.961c-53.817,0-97.445-43.628-97.445-97.445V113.961
+	c0-53.817,43.628-97.445,97.445-97.445h284.077c53.817,0,97.445,43.628,97.445,97.445V398.039z"/>
+<path d="M473.462,117.265c0-43.479-35.248-78.727-78.727-78.727H117.265c-43.479,0-78.727,35.248-78.727,78.727v277.471
+	c0,43.479,35.248,78.727,78.727,78.727h277.471c43.479,0,78.727-35.248,78.727-78.727V117.265z M456.946,394.736
+	c0,34.358-27.853,62.211-62.211,62.211H117.265c-34.358,0-62.211-27.853-62.211-62.211V117.265
+	c0-34.358,27.853-62.211,62.211-62.211h277.471c34.358,0,62.211,27.853,62.211,62.211V394.736z"/>
+</svg>
+
+
+  </a> 
   </p>
-             
+
+               
   <details>      
   <summary><h3 align="left"> :fire: My Stats : </h3></summary>
           
