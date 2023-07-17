@@ -25,7 +25,7 @@
                       
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/) 
 
-- 👩🏽‍🎓 Graduated successfully along [**certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of **```Web Development/Software Engineering```** from [***TripleTen (Formerly known as Practicum)***](https://tripleten.co.il/)
+- 👩🏽‍🎓 Graduated successfully along [**Certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of **```Web Development/Software Engineering```** from [***TripleTen (Formerly Practicum)***](https://tripleten.co.il/)
 
 <!-- - 💬 You can ask me about **CSS3**, **HTML5**, **JavaScript**, **ReactJS**, **Designer/Editor tool (Lightroom, Photoshop, Figma)** -->
 
@@ -33,7 +33,7 @@
 
 - ✍🏽 I'm authoring ***articles*** to share my personal insights and experiences regarding **```sundry topics```** on [![**```Medium```**](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cheezumcali23)
 
-- 👯 Always ***```avid```*** to collaborate and contribute for Dev Experiments 
+- 👯 Always ***```avid```*** to collaborate and contribute for Dev Experiments. 
 
 - 📫 How to reach me: **cheezumcali23@gmail.com** 
 
