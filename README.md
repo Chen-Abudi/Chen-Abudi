@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=660&lines=Aloha+%F0%9F%A4%99%F0%9F%8F%BD+Welcome+to+my+profile+!;Hope+you'll+enjoy+your+time+here+%F0%9F%99%8F%F0%9F%8F%BD;Go+check+my+Full-Stack+apps+down+below+%F0%9F%91%87%F0%9F%8F%BD;Feel+free+to+connect%2Fcontact+me++;I'm+open+to+collaborate+on+Frontend%2FFull-stack+projects)](https://git.io/typing-svg)
 
 <h2 align="left">ℹ️ About Me :</h2>
-<p align="left">I am an ardent Full-Stack Developer driven by a fervent dedication to coding, logic, art, and cutting-edge technology. 
+<p align="left">I'm an ardent Full-Stack Developer driven by a fervent dedication to coding, logic, art, and cutting-edge technology. 
 My insatiable curiosity fuels my unyielding enthusiasm for delving into uncharted territories and acquiring new knowledge. 
 An innate desire to assist and collaborate with others fuels my passion for both giving and receiving insights. 
 
