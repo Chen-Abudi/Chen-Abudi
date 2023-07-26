@@ -19,7 +19,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 <!-- - 🔭 I’m currently working on [***```Real-Time Tic Tac Toe Game```***](https://github.com/Chen-Abudi/tic-tac-toe)**(Collaboration)** -->
 
-- 🌱 I'm currently learning **```Vue.js```**, and **```Math```**.
+- 🌱 I'm currently learning **```Vue.js```**, **```Next.js```**, and **```TailwindCSS```**.
 
 - 🔭 I'm currently working as a **```Web Developer Intern```** at ***```Qelos```***. 
                       
