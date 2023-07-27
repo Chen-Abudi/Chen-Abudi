@@ -37,7 +37,9 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 - 📫 How to reach me: **cheezumcali23@gmail.com** 
 
-- ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer and a world traveler**... 
+- ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer and a world traveler**...
+
+- 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/175J217QsqXQZ_xVo5C1j8hxngSqVZOJ4/view?usp=sharing)
 
 <!--  - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/1i8cF3uxQmmlkU0JWWU7x81EK0VKD_Y6f/view?usp=sharing) -->
 
