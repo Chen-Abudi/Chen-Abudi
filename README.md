@@ -17,17 +17,13 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<!-- - 🔭 I’m currently working on [***```Real-Time Tic Tac Toe Game```***](https://github.com/Chen-Abudi/tic-tac-toe)**(Collaboration)** -->
-
-- 🌱 I'm currently learning **```Vue.js```**, **```Next.js```**, and **```TailwindCSS```**.
+- 🌱 I'm currently learning **```Vue.js```**, **```Next.js```**, and **```Tailwindcss```**.
 
 - 🔭 I'm currently working as a **```Web Developer Intern```** at ***```Qelos```***. 
                       
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/) 
 
 - 👩🏽‍🎓 Graduated successfully along [**Certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of **```Web Development/Software Engineering```** from [***TripleTen (Formerly Practicum)***](https://tripleten.co.il/)
-
-<!-- - 💬 You can ask me about **CSS3**, **HTML5**, **JavaScript**, **ReactJS**, **Designer/Editor tool (Lightroom, Photoshop, Figma)** -->
 
 - ✍🏽 I'm regularly authoring ***articles*** on [**```LinkedIn```**](https://www.linkedin.com/in/chen-abudi/) to share my insights and experiences about topics in ***```Software Development```***
 
@@ -40,7 +36,6 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 - ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer and a world traveler**...
 
 - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/175J217QsqXQZ_xVo5C1j8hxngSqVZOJ4/view?usp=sharing)
-
 
 <details>
 <summary><b><h2 align="left"> :hammer_and_wrench: Languages & Tools  </h2></b></summary><br/>
@@ -134,15 +129,6 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   
   <details>
   <summary><h2 align="left" font-family> 🎯 2023 Learning Plans </h2></summary>
-   
-<!-- | Programming Language | Libraries & Frameworks | Database Management | Open Source Software/ 3D 
-|:--------|:------|:------------|:------------|
-| [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) | [![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) | [![Blender/ 3D Animation](	https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/) |
-| | [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/) |  |
-| | [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) |  |
-|  | [![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) | |
-| | -->
-
 
 | Programming Language | Libraries & Frameworks |  Open Source Software/ 3D 
 |:--------|:------|:------------|
