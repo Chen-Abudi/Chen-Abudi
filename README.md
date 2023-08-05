@@ -25,7 +25,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 - 👩🏽‍🎓 Graduated successfully along [**Certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of **```Web Development/Software Engineering```** from [***TripleTen (Formerly Practicum)***](https://tripleten.co.il/)
 
-- ✍🏽 I'm regularly authoring ***articles*** on [**```LinkedIn```**](https://www.linkedin.com/in/chen-abudi/) to share my insights and experiences about topics in ***```Software Development```***
+- ✍🏽 I'm regularly authoring ***articles*** on [**```LinkedIn```**](https://www.linkedin.com/in/chen-abudi/) to share my insights and experiences about topics in ***```Software Development```***.
 
 - ✍🏽 I'm authoring ***articles*** to share my personal insights and experiences regarding **```sundry topics```** on [![**```Medium```**](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cheezumcali23)
 
@@ -35,7 +35,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 - 📫 How to reach me: **cheezumcali23@gmail.com** 
 
-- ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer & dancer and a world traveler**...
+- ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer, self-taught dancer, and a world traveler**...
 
 - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/175J217QsqXQZ_xVo5C1j8hxngSqVZOJ4/view?usp=sharing)
 
@@ -138,7 +138,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 | | [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/) | ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) |
 | | [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) |  |
 |  | [![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) | |
-| |  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) | |
+| | <!-- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) --> | |
  
   </details>
   
