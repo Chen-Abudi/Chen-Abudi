@@ -19,7 +19,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 - 🔭 I'm currently working as a **```Web Developer Intern```** at ***```Qelos```***.
 
-- 🌱 I'm currently learning **```Vue.js```**, **```Next.js```**, and **```Tailwindcss```**.
+<!-- - 🌱 I'm currently learning **```Vue.js```**, **```Next.js```**, and **```Tailwindcss```**. -->
                       
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/) 
 
@@ -29,13 +29,13 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 - ✍🏽 I'm authoring ***articles*** to share my personal insights and experiences regarding **```sundry topics```** on [![**```Medium```**](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cheezumcali23)
 
-- 💬 You can talk and ask me about anything and I'll love to help as much as possible! 
+- 💬 Feel free to talk and ask me about anything and I'll love to help as much as possible! 
 
 - 👯 Always ***```keen```*** to collaborate and contribute for Dev Experiments. 
 
 - 📫 How to reach me: **cheezumcali23@gmail.com** 
 
-- ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer and a world traveler**...
+- ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer & dancer and a world traveler**...
 
 - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/175J217QsqXQZ_xVo5C1j8hxngSqVZOJ4/view?usp=sharing)
 
