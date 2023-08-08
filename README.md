@@ -152,9 +152,12 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   <a href="https://github.com/Chen-Abudi" target="blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="https://github.com/Chen-Abudi" width="55" height="55" />
   </a>
- <a href="https://www.instagram.com/calibased23/">
+    <a href="https://www.instagram.com/calibased23" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="55" height="55" />
   </a>
+<!--  <a href="https://www.instagram.com/calibased23" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="55" height="55" alt="Grace Chen Abudi Instagram" />
+  </a> -->
   </p>
 
                
