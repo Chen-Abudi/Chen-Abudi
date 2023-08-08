@@ -11,9 +11,9 @@
 My insatiable curiosity fuels my unyielding enthusiasm for delving into uncharted territories and acquiring new knowledge. 
 An innate desire to assist and collaborate with others fuels my passion for both giving and receiving insights. 
 
-Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly drawn to the realms of UI/UX design, AI & 3D modeling, as well as indulging in pursuits such as language acquisition, dance, music, and a profound admiration for the wonders of nature and the ocean. </p>
+Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly drawn to the realms of UI/UX design, AI & 3D modeling, as well as indulging in pursuits such as language acquisition, dance, music, a profound admiration for the wonders of nature and the ocean, skateboarding/surfing, sports activities. </p>
 
-<!-- <p align="left">I'm a Full-Stack Developer who is passionate about coding, logic, art, and technology. <br> I'm enthusiastic about exploring and learning new things. I love to help others and learn from them. <br> Besides being a Full-Stack Developer, I'm curious about UI/UX design and AI & 3D modeling, reading and learning languages, dance/music, nature/ocean lover, skateboarding/surfing, sports activities  ... </p> -->
+<!-- <p align="left">I'm a Full-Stack Developer who is passionate about coding, logic, art, and technology. <br> I'm enthusiastic about exploring and learning new things. I love to help others and learn from them. <br> Besides being a Full-Stack Developer, I'm curious about UI/UX design and AI & 3D modeling, reading and learning languages, dance/music, nature/ocean lover  ... </p> -->
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -153,7 +153,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="https://github.com/Chen-Abudi" width="55" height="55" />
   </a>
   <a href="https://instagram.com/calibased23" target="blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="https://instagram.com/calibased23" height="55" width="55" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Grace Chen Abudi" height="55" width="55" />
   </a>
 <!--  <a href="https://www.instagram.com/calibased23" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="55" height="55" alt="Grace Chen Abudi Instagram" />
