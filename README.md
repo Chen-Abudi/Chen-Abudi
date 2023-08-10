@@ -17,7 +17,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
-- 🔭 I'm currently working as a **```Web Developer Intern```** at ***```Qelos```***.
+- 🔭 I'm currently working as a **```Full-Stack Developer```** | ***```Qelos```***.
 
 <!-- - 🌱 I'm currently learning **```Vue.js```**, **```Next.js```**, and **```Tailwindcss```**. -->
                       
