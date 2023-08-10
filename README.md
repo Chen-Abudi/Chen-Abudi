@@ -17,7 +17,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
-- 🔭 I'm currently working as a **```Full-Stack Developer```** | ***```Qelos```***.
+- 🔭 I'm currently working as a **```Full-Stack Developer```** at ***```Qelos```***.
 
 <!-- - 🌱 I'm currently learning **```Vue.js```**, **```Next.js```**, and **```Tailwindcss```**. -->
                       
@@ -35,7 +35,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 - 📫 How to reach me: **cheezumcali23@gmail.com** 
 
-- ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer, self-taught dancer, and a world traveler**...
+- ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer/dancer, and a world traveler**...
 
 - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/175J217QsqXQZ_xVo5C1j8hxngSqVZOJ4/view?usp=sharing)
 
@@ -175,7 +175,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
  <!-- ![My GitHub Skyline](https://user-images.githubusercontent.com/98914366/219969353-ef5c055e-9b8f-40f7-bd80-2ecc3d8c52f2.png) -->
   
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy) -->  
+[![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy)  
  
 </details>
 
