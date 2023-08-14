@@ -76,12 +76,12 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Icon" width="55" height="55" /></a>
       <a href="https://nodejs.org/en/about/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node JS Icon" width="50" height="50" /></a>
+      <a href="https://www.nginx.com/" target="_blank" rel="norefferer">
+  <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="NGINX Icon" width="55" height="55" /></a>
       <a href="https://expressjs.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express JS Icon" width="50" height="50" /></a>
 <!--       <a href="https://storybook.js.org/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt=Storybook Icon width="50" height="50" /></a> -->
-      <a href="https://www.nginx.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="NGINX Icon" width="60" height="60" /></a>
           </p>
            
   
