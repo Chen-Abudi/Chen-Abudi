@@ -78,6 +78,8 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt=Storybook Icon width="50" height="50" /></a> -->
       <a href="https://www.nginx.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="NGINX Icon" width="60" height="60" /></a>
+      <a href="https://about.gitlab.com/" target="_blank" rel="norefferer">
+  <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="Gitlab Icon" width="60" height="60" /></a>
           </p>
            
   
@@ -155,9 +157,9 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   <a href="https://instagram.com/calibased23" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Grace Chen Abudi" height="55" width="55" />
   </a>
-  <a href="cheezumcali23@gmail.com" target="blank">
+<!--   <a href="cheezumcali23@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Grace Chen Abudi" height="55" width="55" />
-  </a>
+  </a> -->
 <!--  <a href="https://www.instagram.com/calibased23" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="55" height="55" alt="Grace Chen Abudi Instagram" />
   </a> -->
