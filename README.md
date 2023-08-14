@@ -66,6 +66,8 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Icon" width="55" height="55" /></a>
       <a href="https://yarnpkg.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="Yarn Icon" width="55" height="55" /></a>
+      <a href="https://www.canva.com/" target="_blank" rel="norefferer">
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva Icon" width="55" height="55" /></a>
       <a href="https://www.postman.com/" target="_blank" rel="norefferer">
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman Icon" width="55" height="55" /></a>
       <a href="https://about.gitlab.com/" target="_blank" rel="norefferer">
