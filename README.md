@@ -157,9 +157,6 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   <a href="https://instagram.com/calibased23" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Grace Chen Abudi" height="55" width="55" />
   </a>
-<!--   <a href="cheezumcali23@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Grace Chen Abudi" height="55" width="55" />
-  </a> -->
 <!--  <a href="https://www.instagram.com/calibased23" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="55" height="55" alt="Grace Chen Abudi Instagram" />
   </a> -->
