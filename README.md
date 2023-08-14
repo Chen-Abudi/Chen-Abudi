@@ -66,6 +66,10 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio" Icon width="55" height="55" /></a>
       <a href="https://yarnpkg.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="Yarn Icon" width="55" height="55" /></a>
+      <a href="https://www.postman.com/" target="_blank" rel="norefferer">
+  <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman Icon" width="60" height="60" /></a>
+      <a href="https://about.gitlab.com/" target="_blank" rel="norefferer">
+  <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="Gitlab Icon" width="60" height="60" /></a>
       <a href="https://jestjs.io/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest Icon" width="50" height="50" /></a>
       <a href="https://cloud.google.com/" target="_blank" rel="norefferer">
@@ -78,8 +82,6 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt=Storybook Icon width="50" height="50" /></a> -->
       <a href="https://www.nginx.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="NGINX Icon" width="60" height="60" /></a>
-      <a href="https://about.gitlab.com/" target="_blank" rel="norefferer">
-  <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="Gitlab Icon" width="60" height="60" /></a>
           </p>
            
   
