@@ -68,6 +68,8 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="Yarn Icon" width="55" height="55" /></a>
       <a href="https://www.postman.com/" target="_blank" rel="norefferer">
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman Icon" width="55" height="55" /></a>
+      <a href="https://expressjs.com/" target="_blank" rel="norefferer">
+  <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express JS Icon" width="55" height="55" /></a>
       <a href="https://restfulapi.net/" target="_blank" rel="norefferer">
   <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST API Icon" width="55" height="55" /></a>
       <a href="https://about.gitlab.com/" target="_blank" rel="norefferer">
@@ -80,8 +82,6 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="NGINX Icon" width="55" height="55" /></a>
       <a href="https://nodejs.org/en/about/" target="_blank" rel="norefferer">
   <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node JS Icon" width="50" height="50" /></a>
-      <a href="https://expressjs.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express JS Icon" width="50" height="50" /></a>
 <!--       <a href="https://storybook.js.org/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt=Storybook Icon width="50" height="50" /></a> -->
           </p>
