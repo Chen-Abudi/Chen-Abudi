@@ -68,6 +68,8 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="Yarn Icon" width="55" height="55" /></a>
       <a href="https://www.postman.com/" target="_blank" rel="norefferer">
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman Icon" width="55" height="55" /></a>
+      <a href="https://restfulapi.net/" target="_blank" rel="norefferer">
+  <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST API Icon" width="55" height="55" /></a>
       <a href="https://about.gitlab.com/" target="_blank" rel="norefferer">
   <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="Gitlab Icon" width="55" height="55" /></a>
       <a href="https://jestjs.io/" target="_blank" rel="norefferer">
