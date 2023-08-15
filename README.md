@@ -76,10 +76,10 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest Icon" width="50" height="50" /></a>
       <a href="https://cloud.google.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Icon" width="55" height="55" /></a>
-      <a href="https://nodejs.org/en/about/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node JS Icon" width="50" height="50" /></a>
       <a href="https://www.nginx.com/" target="_blank" rel="norefferer">
   <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="NGINX Icon" width="55" height="55" /></a>
+      <a href="https://nodejs.org/en/about/" target="_blank" rel="norefferer">
+  <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node JS Icon" width="50" height="50" /></a>
       <a href="https://expressjs.com/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express JS Icon" width="50" height="50" /></a>
 <!--       <a href="https://storybook.js.org/" target="_blank" rel="norefferer">
