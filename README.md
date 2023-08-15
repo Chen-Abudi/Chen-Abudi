@@ -42,7 +42,6 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 <details>
 <summary><b><h2 align="left"> :hammer_and_wrench: Languages & Tools  </h2></b></summary><br/>
 
-
 <div align="center">
 	<table>
 		<tr>
@@ -73,11 +72,10 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 			<td><a href="https://cloud.google.com/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code></a></td>
 			<td><a href="https://www.nginx.com/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx"/></code></a></td>
 			<td><code><img width="55" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code></td>
+			<td><a href="https://babeljs.io/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" title="Babel"/></code></a></td>
 		</tr>
 	</table>
 </div>
-
-
 
 
 
