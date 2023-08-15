@@ -196,9 +196,6 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   <a href="https://instagram.com/calibased23" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Grace Chen Abudi" height="55" width="55" />
   </a>
-<!--  <a href="https://www.instagram.com/calibased23" target="blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="55" height="55" alt="Grace Chen Abudi Instagram" />
-  </a> -->
   </p>
 
 	
@@ -217,7 +214,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
  <!-- ![My GitHub Skyline](https://user-images.githubusercontent.com/98914366/219969353-ef5c055e-9b8f-40f7-bd80-2ecc3d8c52f2.png) -->
   
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy)  
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy) --> 
  
 </details>
 
