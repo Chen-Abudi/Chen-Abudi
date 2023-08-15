@@ -69,7 +69,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 			<td><a href="https://jestjs.io/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/></code></a></td>
 		</tr>
 		<tr>
-			<td><a href="https://cloud.google.com/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code></a></td>
+			<td><a href="https://cloud.google.com/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP (Google Cloud Platform)" title="GCP (Google Cloud Platform)"/></code></a></td>
 			<td><a href="https://www.nginx.com/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx"/></code></a></td>
 			<td><code><img width="55" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="Bash" title="Bash"/></code></td>
 			<td><a href="https://babeljs.io/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" title="Babel"/></code></a></td>
@@ -217,7 +217,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
  <!-- ![My GitHub Skyline](https://user-images.githubusercontent.com/98914366/219969353-ef5c055e-9b8f-40f7-bd80-2ecc3d8c52f2.png) -->
   
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy) --> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy)  
  
 </details>
 
