@@ -42,7 +42,46 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 <details>
 <summary><b><h2 align="left"> :hammer_and_wrench: Languages & Tools  </h2></b></summary><br/>
 
-<p align="left"> <a href="https://www.w3schools.com/html/" target="_blank" rel="norefferer">
+
+<div align="center">
+	<table>
+		<tr>
+			<td><code><img width="55" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code></td>
+			<td><code><img width="55" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code></td>
+			<td><code><img width="55" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>
+			<td><code><img width="55" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code></td>
+			<td><code><img width="55" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/></code></td>
+			<td><code><img width="55" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code></td>
+			<td><code><img width="55" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code></td>
+			<td><code><img width="55" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code></td>
+		</tr>
+		<tr>
+			<td><a href="https://webpack.js.org/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack"/></code></a></td>
+			<td><a href="https://git-scm.com/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></a></td>
+			<td><a href="https://www.npmjs.com/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code></a></td>
+			<td><a href="https://code.visualstudio.com/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></a></td>
+			<td><a href="https://yarnpkg.com/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="yarn" title="yarn"/></code></a></td>
+			<td><a href="https://www.postman.com/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code></a></td>
+			<td><a href="https://expressjs.com/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code></a></td>
+		</tr>
+		<tr>
+			<td><a href="https://www.canva.com/"><code><img width="55" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" title="Canva"/></code></a></td>
+			<td><a href="https://restfulapi.net/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code></a></td>
+			<td><a href="https://about.gitlab.com/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/></code></a></td>
+			<td><a href="https://jestjs.io/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/></code></a></td>
+			<td><a href="https://cloud.google.com/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code></a></td>
+			<td><a href="https://www.nginx.com/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx"/></code></a></td>
+			<td><code><img width="55" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code></td>
+		</tr>
+	</table>
+</div>
+
+
+
+
+
+
+<!-- <p align="left"> <a href="https://www.w3schools.com/html/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5 Icon" width="65" height="65" /></a>
        <a href="https://www.w3schools.com/css/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3 Icon" width="65" height="65" /></a>
@@ -81,10 +120,10 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
       <a href="https://www.nginx.com/" target="_blank" rel="norefferer">
   <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="NGINX Icon" width="55" height="55" /></a>
       <a href="https://nodejs.org/en/about/" target="_blank" rel="norefferer">
-  <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node JS Icon" width="50" height="50" /></a>
+  <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node JS Icon" width="50" height="50" /></a> </p> -->
 <!--       <a href="https://storybook.js.org/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt=Storybook Icon width="50" height="50" /></a> -->
-          </p>
+          
            
   
   <summary><b><h2 align="left"> ➕ Additional Tools :</h2></b></summary>
@@ -132,6 +171,8 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   </details>   
   
   ---
+
+
   
   <details>
   <summary><h2 align="left"> 🎯 2023 Learning Plans </h2></summary>
