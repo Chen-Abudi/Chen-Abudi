@@ -37,7 +37,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 - ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer/dancer, and a world traveler**...
 
-- 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/175J217QsqXQZ_xVo5C1j8hxngSqVZOJ4/view?usp=sharing)
+<!-- - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/175J217QsqXQZ_xVo5C1j8hxngSqVZOJ4/view?usp=sharing) -->
 
 <details>
 <summary><b><h2 align="left"> :hammer_and_wrench: Languages & Tools  </h2></b></summary><br/>
