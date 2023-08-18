@@ -184,6 +184,12 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   </details>
   
    ---
+
+   # Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+   ---
    
   <h3 align="left">🔗 Feel Free to Connect & Follow Here :</h3>
   <p align="left">
