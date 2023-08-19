@@ -23,7 +23,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
                       
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/) 
 
-- 👩🏽‍🎓 Graduated successfully along [**Certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of **```Web Development/Software Engineering```** from [***TripleTen (Formerly Practicum)***](https://tripleten.co.il/)
+- 👩🏽‍🎓 Graduated successfully along [**Certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of **```Web Development/Software Engineering```** from [***TripleTen (Ex Practicum)***](https://tripleten.co.il/)
 
 - ✍🏽 I'm authoring ***articles*** on [**```LinkedIn```**](https://www.linkedin.com/in/chen-abudi/) to share my insights and experiences about topics in ***```Software Development```***.
 
