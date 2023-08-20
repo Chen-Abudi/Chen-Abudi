@@ -42,7 +42,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 <details>
 <summary><b><h2 align="left"> :hammer_and_wrench: Languages & Tools  </h2></b></summary><br/>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,mongodb,nodejs,figma,webpack,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,mongodb,nodejs,figma,webpack,git,vscode,postman,expressjs,gitlab,jest,gcp,nginx,bash,babel,vue&theme=light)](https://skillicons.dev)
 
 <!-- <div align="center">
 	<table>
