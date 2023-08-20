@@ -42,7 +42,9 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 <details>
 <summary><b><h2 align="left"> :hammer_and_wrench: Languages & Tools  </h2></b></summary><br/>
 
-<div align="center">
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,mongodb,nodejs,figma,webpack,git&theme=light)](https://skillicons.dev)
+
+<!-- <div align="center">
 	<table>
 		<tr>
 			<td><a href="https://www.w3schools.com/html/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML5" title="HTML5"/></code></a></td>
@@ -76,7 +78,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 			<td><a href="https://vuejs.org/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="VueJS" title="VueJS"/></code></a></td>
 		</tr>
 	</table>
-</div>
+</div> -->
 
 
 
