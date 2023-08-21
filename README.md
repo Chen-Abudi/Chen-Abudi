@@ -74,6 +74,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 			<td><code><img width="55" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="Bash" title="Bash"/></code></td>
 			<td><a href="https://babeljs.io/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" title="Babel"/></code></a></td>
 			<td><a href="https://vuejs.org/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="VueJS" title="VueJS"/></code></a></td>
+			<td><a href="https://www.markdownguide.org/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" title="markdown"/></code></a></td>
 		</tr>
 	</table>
 </div> 
@@ -168,8 +169,6 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   </details>   
   
   ---
-
-
   
   <details>
   <summary><h2 align="left"> 🎯 2023 Learning Plans </h2></summary>
