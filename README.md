@@ -76,6 +76,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 			<td><a href="https://vuejs.org/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="VueJS" title="VueJS"/></code></a></td>
 			<td><a href="https://www.markdownguide.org/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" title="Markdown"/></code></a></td>
 			<td><a href="https://trello.com/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" alt="Trello" title="Trello"/></code></a></td>
+			<td><a href="https://codepen.io/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg" alt="Codepen" title="Codepen"/></code></a></td>
 		</tr>
 	</table>
 </div> 
