@@ -82,8 +82,6 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 </div> 
 
 
-
-
 <!-- <p align="left"> <a href="https://www.w3schools.com/html/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5 Icon" width="65" height="65" /></a>
        <a href="https://www.w3schools.com/css/" target="_blank" rel="norefferer">
@@ -126,8 +124,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node JS Icon" width="50" height="50" /></a> </p> -->
 <!--       <a href="https://storybook.js.org/" target="_blank" rel="norefferer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt=Storybook Icon width="50" height="50" /></a> -->
-          
-           
+            
   
   <summary><b><h2 align="left"> ➕ Additional Tools :</h2></b></summary>
   
@@ -203,8 +200,6 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
     <img src="https://skillicons.dev/icons?i=instagram" alt="Grace Chen Abudi" height="55" width="55" />
   </a>
   </p>
-
-	
                
   <details>      
   <summary><h3 align="left"> :fire: My Stats : </h3></summary>
@@ -218,7 +213,6 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
  [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi&rank=S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
   
  <!-- ![My GitHub Skyline](https://user-images.githubusercontent.com/98914366/219969353-ef5c055e-9b8f-40f7-bd80-2ecc3d8c52f2.png) -->
-  
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy) --> 
  
