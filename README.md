@@ -154,6 +154,11 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) 
   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+  ![Glassdoor](https://img.shields.io/badge/Glassdoor-0CAA41?style=for-the-badge&logo=glassdoor&logoColor=white)
+  ![Indeed](https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white)
+  ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+  ![W3schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)
+  ![Code Academy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
   <!-- ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) -->
   <!-- ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) -->
   <!-- ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) -->
@@ -215,6 +220,8 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
  <!-- ![My GitHub Skyline](https://user-images.githubusercontent.com/98914366/219969353-ef5c055e-9b8f-40f7-bd80-2ecc3d8c52f2.png) -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy) --> 
+
+
  
 </details>
 
