@@ -171,7 +171,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   ---
   
   <details>
-  <summary><h2 align="left"> 🎯 2023 Learning Plans </h2></summary>
+  <summary><h2 align="left"> 🎯 2023 - 2024 Learning Plans </h2></summary>
 
 | Programming Language | Libraries & Frameworks |  Open Source Software/ 3D 
 |:--------|:------|:------------|
