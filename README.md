@@ -19,7 +19,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 - 🔭 I'm currently working as a **```Full-Stack Developer```** at ***```Qelos```***.
 
-- 🌱 I'm currently learning **```Vue.js```** and **```Math```**.
+<!-- - 🌱 I'm currently learning **```Vue.js```** and **```Math```**. -->
                       
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/) .
 
