@@ -1,4 +1,4 @@
-![github-header-image](https://user-images.githubusercontent.com/98914366/208881546-4762226f-7e53-4c50-89ab-02c449d1face.png)
+![medium-round-icon](https://github.com/Chen-Abudi/Chen-Abudi/assets/98914366/6db94416-694c-487c-af91-985024acaa72)![github-header-image](https://user-images.githubusercontent.com/98914366/208881546-4762226f-7e53-4c50-89ab-02c449d1face.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chen-abudi&label=Profile%20views&color=0091ff&style=for-the-badge" alt="Chen Abudi" /></p>
 
@@ -80,6 +80,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 			<td><a href="https://trello.com/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" alt="Trello" title="Trello"/></code></a></td>
 			<td><a href="https://developer.apple.com/xcode/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" title="Xcode"/></code></a></td>
 			<td><a href="https://codepen.io/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg" alt="Codepen" title="Codepen"/></code></a></td>
+			<td><a href="https://codepen.io/"><code><img width="55" src="https://github.com/Chen-Abudi/Chen-Abudi/assets/98914366/6fc29447-fefe-4fcf-a400-f79d76dfc3e6" alt="Codepen" title="Codepen"/></code></a></td>
 		</tr>
 	</table>
 </div> 
@@ -206,7 +207,15 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   <a href="https://instagram.com/calibased23" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Grace Chen Abudi" height="55" width="55" />
   </a>
+<!--   <a href="https://medium.com/@cheezumcali23" target="blank">
+    <img src="https://github.com/Chen-Abudi/Chen-Abudi/assets/98914366/22bd6124-6066-4586-8db7-25d77e5fdf80" alt="Grace Chen Abudi" height="55" width="55" /> 
+  </a> -->
   </p>
+
+
+
+  
+  [![**```Medium```**](https://github.com/Chen-Abudi/Chen-Abudi/assets/98914366/22bd6124-6066-4586-8db7-25d77e5fdf80)](https://medium.com/@cheezumcali23)
                
   <details>      
   <summary><h3 align="left"> :fire: My Stats : </h3></summary>
