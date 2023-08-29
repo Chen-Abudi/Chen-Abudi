@@ -40,7 +40,6 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/15k5cVLng3qwOVsxerEjyS8kZe6iy-4O0/view?usp=sharing)
 
-<!-- - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/175J217QsqXQZ_xVo5C1j8hxngSqVZOJ4/view?usp=sharing) -->
 
 <details>
 <summary><b><h2 align="left"> :hammer_and_wrench: Languages & Tools  </h2></b></summary><br/>
@@ -164,7 +163,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   ![Code Academy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
   ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  <!-- ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) -->
+  ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
   <!-- ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) -->
   <!-- ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
   <!-- ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) -->
@@ -222,7 +221,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi&rank=S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
   
- <!-- ![My GitHub Skyline](https://user-images.githubusercontent.com/98914366/219969353-ef5c055e-9b8f-40f7-bd80-2ecc3d8c52f2.png) -->
+ ![My GitHub Skyline](https://user-images.githubusercontent.com/98914366/219969353-ef5c055e-9b8f-40f7-bd80-2ecc3d8c52f2.png)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy) --> 
 
