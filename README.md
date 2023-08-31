@@ -26,7 +26,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 - 👩🏽‍🎓 Graduated successfully along [**Certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of ***```Web Development/Software Engineering```*** from [***TripleTen (Ex Practicum)***](https://tripleten.co.il/) .
 
-- ✍🏽 I'm authoring ***articles*** on [**```LinkedIn```**](https://www.linkedin.com/in/chen-abudi/) to share my insights and experiences about topics in ***```Software Development```***.
+- ✍🏽 I'm authoring monthly ***articles*** on [**```LinkedIn```**](https://www.linkedin.com/in/chen-abudi/) to share my insights and experiences about topics in ***```Software Development```***.
 
 - ✍🏽 I'm regularly authoring ***articles*** to share my personal insights and experiences regarding ***```sundry topics```*** on [![**```Medium```**](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cheezumcali23) 
 
@@ -36,7 +36,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 - 📫 How to reach me: **cheezumcali23@gmail.com** 
 
-- ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer/dancer, and a world traveler**...
+- ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer/dancer, and a world traveler with the Aloha spirit**🌺...
 
 - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/15k5cVLng3qwOVsxerEjyS8kZe6iy-4O0/view?usp=sharing)
 
