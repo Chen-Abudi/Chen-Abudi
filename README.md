@@ -84,7 +84,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 		</tr>
 		<tr>
 			<td><a href="https://nextjs.org/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" title="NextJS"/></code></a></td>
-			<td><a href=""><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript"/></code></a></td>
+			<td><a href="https://www.typescriptlang.org/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript"/></code></a></td>
 		</tr>
 	</table>
 </div> 
