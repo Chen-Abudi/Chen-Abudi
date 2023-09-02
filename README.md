@@ -82,6 +82,9 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 			<td><a href="https://codepen.io/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg" alt="Codepen" title="Codepen"/></code></a></td>
 			<td><a href="https://www.atlassian.com/software/jira"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" title="Jira"/></code></a></td>
 		</tr>
+		<tr>
+			<td><a href="https://nextjs.org/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" title="NextJS"/></code></a></td>
+		</tr>
 	</table>
 </div> 
 
