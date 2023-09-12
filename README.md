@@ -18,7 +18,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<!-- - 🔭 I'm currently working as a **```Full-Stack Developer```** at ***```Qelos```***. -->
+<!-- - 🔭 I'm currently working -->
 
 - 🌱 I'm currently learning **``` Advanced Backend Technologies (i.e. Java, Spring Boot, Maven, Docker, etc```** and **```Math```**.
                       
