@@ -86,6 +86,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 			<td><a href="https://nextjs.org/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" title="NextJS"/></code></a></td>
 			<td><a href="https://www.typescriptlang.org/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript"/></code></a></td>
 			<td><a href="https://www.java.com/en/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" title="Java"/></code></a></td>
+			<td><a href="https://www.docker.com/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker"/></code></a></td>
 		</tr>
 	</table>
 </div> 
