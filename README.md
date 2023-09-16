@@ -20,7 +20,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 <!-- - 🔭 -->
 
-- 🌱 I'm currently learning **``` Advanced Backend Technologies (i.e. Java, Microservices, Docker```** and **```Math```**. 
+- 🌱 I'm currently learning **```Backend Technologies (i.e. Java, Microservices, Docker```** and **```Math```**. 
                       
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/) .
 
@@ -38,7 +38,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 - ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer/dancer, and a world traveler with the Aloha Spirit**🌺...
 
-<!-- - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/15k5cVLng3qwOVsxerEjyS8kZe6iy-4O0/view?usp=sharing) -->
+- 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/15k5cVLng3qwOVsxerEjyS8kZe6iy-4O0/view?usp=sharing)
 
 
 <details>
