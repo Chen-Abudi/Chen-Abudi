@@ -202,7 +202,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
    ---
    
-  <h3 align="left">🔗 Feel Free to Connect & Follow Here :</h3>
+  <!-- <h3 align="left">🔗 Feel Free to Connect & Follow Here :</h3>
   <p align="left">
   <a href="https://www.linkedin.com/in/chen-abudi/" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/chen-abudi/" width="55" height="55" />
@@ -213,7 +213,10 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   <a href="https://instagram.com/calibased23" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Grace Chen Abudi" height="55" width="55" />
   </a>
-  </p>
+  </p> -->
+
+<h3 align="left">🔗 Feel Free to Connect & Follow Here :</h3>
+  <p align="left"> <a href="https://discord.com/users/grace_c.a.23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="55" height="55" /> </picture> </a> <a href="https://www.facebook.com/YoungGrace23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="55" height="55" /> </picture> </a> <a href="https://www.github.com/Chen-Abudi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="55" height="55" /> </picture> </a> <a href="http://www.instagram.com/calibased23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="55" height="55" /> </picture> </a> <a href="https://www.linkedin.com/in/chen-abudi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="55" height="55" /> </picture> </a> <a href="http://www.medium.com/@cheezumcali23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="55" height="55" /> </picture> </a></p>
   
  <!-- [![**```Medium```**](https://github.com/Chen-Abudi/Chen-Abudi/assets/98914366/22bd6124-6066-4586-8db7-25d77e5fdf80)](https://medium.com/@cheezumcali23) -->
                
@@ -233,7 +236,6 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy) --> 
 
 
- 
 </details>
 
 <details>
