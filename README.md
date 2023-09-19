@@ -64,25 +64,18 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 			<td><a href="https://yarnpkg.com/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="Yarn" title="Yarn"/></code></a></td>
 			<td><a href="https://www.postman.com/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code></a></td>
 			<td><a href="https://expressjs.com/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code></a></td>
-			<td><a href="https://www.canva.com/"><code><img width="65" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" title="Canva"/></code></a></td>
 			<td><a href="https://eslint.org/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="Eslint" title="Eslint"/></code></a></td>
 			<td><a href="https://restfulapi.net/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST API" title="REST API"/></code></a></td>
 			<td><a href="https://about.gitlab.com/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/></code></a></td>
 			<td><a href="https://jestjs.io/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/></code></a></td>
+			<td><a href="https://cloud.google.com/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP (Google Cloud Platform)" title="GCP (Google Cloud Platform)"/></code></a></td>
 		</tr>
 		<tr>
-			<td><a href="https://cloud.google.com/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP (Google Cloud Platform)" title="GCP (Google Cloud Platform)"/></code></a></td>
 			<td><a href="https://www.nginx.com/"><code><img width="55" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx"/></code></a></td>
 			<td><code><img width="55" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="Bash" title="Bash"/></code></td>
 			<td><a href="https://babeljs.io/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" title="Babel"/></code></a></td>
 			<td><a href="https://vuejs.org/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="VueJS" title="VueJS"/></code></a></td>
-			<td><a href="https://www.markdownguide.org/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" title="Markdown"/></code></a></td>
-			<td><a href="https://trello.com/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" alt="Trello" title="Trello"/></code></a></td>
-			<td><a href="https://developer.apple.com/xcode/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" title="Xcode"/></code></a></td>
-			<td><a href="https://codepen.io/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg" alt="Codepen" title="Codepen"/></code></a></td>
-			<td><a href="https://www.atlassian.com/software/jira"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" title="Jira"/></code></a></td>
-		</tr>
-		<tr>
+			<td><a href="https://developer.apple.com/xcode/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" title="Xcode"/></code></a></td>	
 			<td><a href="https://nextjs.org/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" title="NextJS"/></code></a></td>
 			<td><a href="https://www.typescriptlang.org/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript"/></code></a></td>
 			<td><a href="https://www.java.com/en/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" title="Java"/></code></a></td>
@@ -170,6 +163,13 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   ![Code Academy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
   ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+  ![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+  ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   <!-- ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) -->
   <!-- ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) -->
   <!-- ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
