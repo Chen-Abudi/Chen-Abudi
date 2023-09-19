@@ -87,6 +87,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 			<td><a href="https://www.typescriptlang.org/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript"/></code></a></td>
 			<td><a href="https://www.java.com/en/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" title="Java"/></code></a></td>
 			<td><a href="https://www.docker.com/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker"/></code></a></td>
+			<td><a href="https://www.postgresql.org/"><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgresql" title="Postgresql"/></code></a></td>
 		</tr>
 	</table>
 </div> 
@@ -168,7 +169,6 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   ![W3schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)
   ![Code Academy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
   <!-- ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) -->
   <!-- ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) -->
