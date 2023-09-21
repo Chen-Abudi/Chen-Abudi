@@ -195,7 +195,6 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
    # 📝 My Article Posts
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
    ---
