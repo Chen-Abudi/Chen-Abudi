@@ -195,9 +195,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
    # 📝 My Article Posts
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Waves of Productivity in Software Development](https://medium.com/@cheezumcali23/navigating-the-waves-of-productivity-in-software-development-e4b874e23d40?source=rss-a3473fd568e0------2)
-- [From Shy to Stellar: Nurturing Confidence in the World of Software Development](https://medium.com/@cheezumcali23/from-shy-to-stellar-nurturing-confidence-in-the-world-of-software-development-763a11546fcd?source=rss-a3473fd568e0------2)
-- [Overcoming Overwhelm: A Full Stack Developer’s Journey into the Realm of Big Projects!](https://medium.com/@cheezumcali23/overcoming-overwhelm-a-full-stack-developers-journey-into-the-realm-of-big-projects-7dd856abb4a?source=rss-a3473fd568e0------2)
+
 <!-- BLOG-POST-LIST:END -->
 
    ---
