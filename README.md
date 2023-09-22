@@ -38,7 +38,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 - ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer/dancer, and a world traveler with the Aloha Spirit**🌺...
 
-- 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/15k5cVLng3qwOVsxerEjyS8kZe6iy-4O0/view?usp=sharing)
+<!-- - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/15k5cVLng3qwOVsxerEjyS8kZe6iy-4O0/view?usp=sharing) -->
 
 
 <details>
@@ -172,8 +172,6 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   <!-- ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) -->
   <!-- ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) -->
-  <!-- ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
-  <!-- ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) -->
   </details>   
   
   ---
@@ -193,7 +191,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   
    ---
 
-   # 📝 My Article Posts
+   # 📝 My Articles Posts
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript Pro Tip: Unlock the Power of Optional Chaining](https://medium.com/@cheezumcali23/javascript-pro-tip-unlock-the-power-of-optional-chaining-5a02709f0109?source=rss-a3473fd568e0------2)
 - [Navigating the Waves of Productivity in Software Development](https://medium.com/@cheezumcali23/navigating-the-waves-of-productivity-in-software-development-e4b874e23d40?source=rss-a3473fd568e0------2)
