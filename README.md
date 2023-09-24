@@ -34,7 +34,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 - 👯 Always ***```keen```*** to collaborate and contribute for Dev Experiments. 
 
-- 📫 How to reach me: **cheezumcali23@gmail.com** 
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cheezumcali23@gmail.com)     <!-- **cheezumcali23@gmail.com** --> 
 
 - ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer/dancer, and a world traveler with the Aloha Spirit**🌺...
 
