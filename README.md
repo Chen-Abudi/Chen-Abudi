@@ -237,6 +237,8 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy) --> 
 
+<!-- [![Grace Medium](https://github-readme-medium.vercel.app/?username=cheezumcali23&limit=3)](https://medium.com/@cheezumcali23) -->
+
 
 </details>
 
