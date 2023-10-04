@@ -18,7 +18,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<!-- - 🔭 I'm currently working on a basic Spring project  -->
+<!-- - 🔭 I'm currently working on a basic-Spring project  -->
 
 - 🌱 I'm currently learning **```Advanced Backend```** and **```Math```**. 
                       
