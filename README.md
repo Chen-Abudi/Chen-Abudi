@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=660&lines=Aloha+%F0%9F%A4%99%F0%9F%8F%BD+Welcome+to+my+profile+!;Hope+you'll+enjoy+your+time+here+%F0%9F%99%8F%F0%9F%8F%BD;Go+check+my+Full-Stack+apps+down+below+%F0%9F%91%87%F0%9F%8F%BD;Feel+free+to+connect%2Fcontact+me++;I'm+open+to+collaborate+on+Frontend%2FFull-stack+projects)](https://git.io/typing-svg)
 
-<h2 align="left">ℹ️ About Me :</h2>
+<h2 align="left">ℹ️ About Me :</h2> 
 <p align="left">I'm an ardent Full-Stack Developer driven by a fervent dedication to coding, logic, art, and cutting-edge technology. 
 My insatiable curiosity fuels my unyielding enthusiasm for delving into uncharted territories and acquiring new knowledge. 
 An innate desire to assist and collaborate with others fuels my passion for both giving and receiving insights. 
@@ -16,7 +16,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 <!-- <p align="left">I'm a Full-Stack Developer who is passionate about coding, logic, art, and technology. <br> I'm enthusiastic about exploring and learning new things. I love to help others and learn from them. <br> Besides being a Full-Stack Developer, I'm curious about UI/UX design and AI & 3D modeling, reading and learning languages, dance/music, nature/ocean lover  ... </p> -->
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
 
 <!-- - 🔭 I'm currently working on a basic-Spring project  -->
 
