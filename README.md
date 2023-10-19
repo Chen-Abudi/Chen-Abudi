@@ -87,6 +87,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 			<td><code><img width="55" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code></td>
 			<td><code><img width="55" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven"/></code></td>
 			<td><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services (AWS)" title="Amazon Web Services (AWS)"/></code></td>
+			<td><code><img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" title="Canva"/></code></td>
 		</tr>
 	</table>
 </div> 
