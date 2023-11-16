@@ -221,6 +221,8 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 <h3 align="left">🔗 Feel Free to Connect & Follow Here :</h3>
   <p align="left"> <a href="https://discord.com/users/grace_c.a.23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="50" height="50" /> </picture> </a> <a href="https://www.facebook.com/YoungGrace23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="50" height="50" /> </picture> </a> <a href="https://www.github.com/Chen-Abudi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /> </picture> </a> <a href="http://www.instagram.com/calibased23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="50" /> </picture> </a> <a href="https://www.linkedin.com/in/chen-abudi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /> </picture> </a> <a href="http://www.medium.com/@cheezumcali23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="50" height="50" /> </picture> </a></p>
+
+<!-- <a href = 'https://medium.com/@cheezumcali23'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> -->
   
  <!-- [![**```Medium```**](https://github.com/Chen-Abudi/Chen-Abudi/assets/98914366/22bd6124-6066-4586-8db7-25d77e5fdf80)](https://medium.com/@cheezumcali23) -->
                
@@ -241,8 +243,15 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 <!-- [![Grace Medium](https://github-readme-medium.vercel.app/?username=cheezumcali23&limit=3)](https://medium.com/@cheezumcali23) -->
 
+</details>
+
+<details>
+<summary><img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'><h3 align="left">Some Programming Humor:</h3></summary>
+	
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=solarized-light)
 
 </details>
+
 
 <details>
   <summary><h3 align="left"> 🎶 : </h3></summary>
