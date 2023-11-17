@@ -32,7 +32,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 - 💬 Feel free to ask me anything and I'd love to help as much as possible! 
 
-- 👯 Always ***```keen```*** to collaborate and contribute for Dev Experiments. 
+- 👯 Always ***```avid```*** to collaborate and contribute for Dev Experiments. 
 
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cheezumcali23@gmail.com)     <!-- **cheezumcali23@gmail.com** --> 
 
@@ -195,7 +195,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
   
    ---
 
-   # 📝 My Articles Posts
+   # 📝 My Articles Posts:
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript Pro Tip: Unlock the Power of Optional Chaining](https://medium.com/@cheezumcali23/javascript-pro-tip-unlock-the-power-of-optional-chaining-5a02709f0109?source=rss-a3473fd568e0------2)
 - [Navigating the Waves of Productivity in Software Development](https://medium.com/@cheezumcali23/navigating-the-waves-of-productivity-in-software-development-e4b874e23d40?source=rss-a3473fd568e0------2)
