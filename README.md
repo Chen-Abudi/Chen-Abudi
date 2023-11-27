@@ -20,7 +20,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 - 🔭 I'm currently working on a **```Chatbot```** and [**```AlohaGracefulCode```**](https://github.com/Chen-Abudi/AlohaGracefulCode). 
 
-- 🌱 I'm currently learning **``` Advanced Backend (e.g. Java, SQL (Postgresql), Web Scraping)```**. 
+- 🌱 I'm currently learning **``` Advanced Backend (e.g. Java, SQL, Web Scraping)```**. 
                       
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/) .
 
