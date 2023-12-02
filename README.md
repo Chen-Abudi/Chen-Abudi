@@ -231,7 +231,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
  <!-- [![**```Medium```**](https://github.com/Chen-Abudi/Chen-Abudi/assets/98914366/22bd6124-6066-4586-8db7-25d77e5fdf80)](https://medium.com/@cheezumcali23) -->
                
   <details>      
-  <summary><h3 align="left"> :fire: My Stats : </h3></summary>
+  <summary><h3 align="left"> 🔥 My Stats : </h3></summary>
           
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chen-abudi&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
