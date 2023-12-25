@@ -8,13 +8,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=660&lines=Aloha+%F0%9F%A4%99%F0%9F%8F%BD+Welcome+to+my+profile+!;Hope+you'll+enjoy+your+time+here+%F0%9F%99%8F%F0%9F%8F%BD;Go+check+my+Full-Stack+apps+down+below+%F0%9F%91%87%F0%9F%8F%BD;Feel+free+to+connect%2Fcontact+me++;I'm+open+to+collaborate+on+Frontend%2FFull-stack+projects)](https://git.io/typing-svg)
 
 <h2 align="left">ℹ️ About Me:</h2> 
-<p align="left">I'm an ardent Full-Stack Developer driven by a fervent dedication to coding, logic, art, and cutting-edge technology. 
+<p align="left">
+I'm an ardent Full-Stack Developer, with the Aloha spirit 🌺🤙🏽, infusing my work with a genuine commitment to shaping the digital realm day by day. Fueled by a fervor for coding, logic, artistic expression, and cutting-edge technology, I aspire to contribute to a superior global landscape through the enhancement of the digital domain.
+
+In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design, 🤖 AI, and 3D modeling, while also relishing in 📚 language learning, 💃🏽 dance, 🎶 music, and a profound love for nature, particularly the awe-inspiring 🌊 ocean. The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄🏽‍♀️ surfing, and a variety of sports, forming a vibrant mosaic that not only fuels my creativity but also ignites my adventurous spirit.
+ 
+<!-- I'm an ardent Full-Stack Developer driven by a fervent dedication to coding, logic, art, and cutting-edge technology. 
 My insatiable curiosity fuels my unyielding enthusiasm for delving into uncharted territories and acquiring new knowledge. 
 An innate desire to assist and collaborate with others fuels my passion for both giving and receiving insights. 
 
-Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly drawn to the realms of UI/UX design, AI & 3D modeling, as well as indulging in pursuits such as language acquisition, dance, music, a profound admiration for the wonders of nature and the ocean, skateboarding/surfing, sports activities...</p>
-
-<!-- <p align="left">I'm a Full-Stack Developer who is passionate about coding, logic, art, and technology. <br> I'm enthusiastic about exploring and learning new things. I love to help others and learn from them. <br> Besides being a Full-Stack Developer, I'm curious about UI/UX design and AI & 3D modeling, reading and learning languages, dance/music, nature/ocean lover  ... </p> -->
+Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly drawn to the realms of UI/UX design, AI & 3D modeling, as well as indulging in pursuits such as language acquisition, dance, music, a profound admiration for the wonders of nature and the ocean, skateboarding/surfing, sports activities... -->
+</p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
 
