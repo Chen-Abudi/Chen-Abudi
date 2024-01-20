@@ -38,7 +38,7 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 - 💬 Feel free to ask me anything and I'd love to help as much as possible! 
 
-- 👯 Always ***```avid```*** to collaborate and contribute to **varied projects**. 
+- 👯 Always ***``` keen ```*** to collaborate and contribute to **varied projects**. 
 
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cheezumcali23@gmail.com)     <!-- **cheezumcali23@gmail.com** --> 
 
