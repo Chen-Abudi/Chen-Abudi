@@ -46,6 +46,8 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 <!-- - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/1uIPsU-G_TwJfcLj67ov6ZKII4MsNQ1co/view?usp=sharing) -->
 
+<!-- - 📝 View my **```CV```** [**&#128073;&#127997;HERE**]() -->
+
 
 <details>
 <summary><b><h2 align="left"> :hammer_and_wrench: Languages & Tools  </h2></b></summary><br/>
