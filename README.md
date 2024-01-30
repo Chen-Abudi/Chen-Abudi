@@ -46,9 +46,6 @@ Beyond my proficiency as a Full-Stack Developer, I find myself irresistibly draw
 
 <!-- - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/1uIPsU-G_TwJfcLj67ov6ZKII4MsNQ1co/view?usp=sharing) -->
 
-<!-- - 📝 View my **```CV```** [**&#128073;&#127997;HERE**]() -->
-
-
 <details>
 <summary><b><h2 align="left"> :hammer_and_wrench: Languages & Tools  </h2></b></summary><br/>
 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
@@ -306,6 +303,6 @@ value 1 | 	Value2	| 	Value3	 | 	Value4	 | <code><img width="55" src="https://cdn
 
 </details>
 
-<!-- ![Snake animation](https://github.com/Chen-Abudi/Chen-Abudi/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/Chen-Abudi/Chen-Abudi/blob/output/github-contribution-grid-snake.svg)
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=615&lines=Thank+you+for+stopping+by%2C+have+a+wonderful+day!+%F0%9F%8C%BA+)](https://git.io/typing-svg) 
