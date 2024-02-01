@@ -88,52 +88,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 		</tr>
 	</table>
 </div> 
-
-
-<!-- <p align="left"> <a href="https://www.w3schools.com/html/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5 Icon" width="65" height="65" /></a>
-       <a href="https://www.w3schools.com/css/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3 Icon" width="65" height="65" /></a>
-       <a href="https://www.w3schools.com/js/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Icon" width="55" height="55" /></a>
-       <a href="https://reactjs.org/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS Icon" width="55" height="55" /></a>
-       <a href="https://sass-lang.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass Icon" width="55" height="55" /></a>
-      <a href="https://www.mongodb.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Icon" width="55" height="55" /></a>
-    <a href="https://www.figma.com/community" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma Icon" width="55" height="55" /></a>
-    <a href="https://webpack.js.org/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack Icon" width="55" height="55" /></a>
-    <a href="https://git-scm.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git Icon" width="55" height="55" /></a>
-    <a href="https://www.npmjs.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM Icon" width="55" height="55" />
-    <a href="https://code.visualstudio.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Icon" width="55" height="55" /></a>
-      <a href="https://yarnpkg.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="Yarn Icon" width="55" height="55" /></a>
-      <a href="https://www.postman.com/" target="_blank" rel="norefferer">
-  <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman Icon" width="55" height="55" /></a>
-      <a href="https://expressjs.com/" target="_blank" rel="norefferer">
-  <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express JS Icon" width="55" height="55" /></a>
-      <a href="https://restfulapi.net/" target="_blank" rel="norefferer">
-  <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST API Icon" width="55" height="55" /></a>
-      <a href="https://about.gitlab.com/" target="_blank" rel="norefferer">
-  <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="Gitlab Icon" width="55" height="55" /></a>
-      <a href="https://jestjs.io/" target="_blank" rel="norefferer">
-  <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest Icon" width="50" height="50" /></a>
-      <a href="https://cloud.google.com/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Icon" width="55" height="55" /></a>
-      <a href="https://www.nginx.com/" target="_blank" rel="norefferer">
-  <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="NGINX Icon" width="55" height="55" /></a>
-      <a href="https://nodejs.org/en/about/" target="_blank" rel="norefferer">
-  <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node JS Icon" width="50" height="50" /></a> </p> -->
-<!--       <a href="https://storybook.js.org/" target="_blank" rel="norefferer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt=Storybook Icon width="50" height="50" /></a> -->
-            
-  
+              
   <summary><b><h2 align="left"> ➕ Additional Tools :</h2></b></summary>
   
   ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
@@ -174,8 +129,6 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
   ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
   <!-- ![Dialogflow](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white) -->
   <!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
-  <!-- ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) -->
-  <!-- ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) -->
   <!-- ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) -->
   </details>   
   
