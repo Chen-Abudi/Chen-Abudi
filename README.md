@@ -22,7 +22,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
                       
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/) .
 
-- 👩🏽‍🎓 Completed successfully along [**Certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of a ***``` Full-Stack Web Development ```*** from [***TripleTen (Ex Practicum)***](https://tripleten.co.il/) .
+- 👩🏽‍🎓 Completed successfully along [**Certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of a ***``` Full-Stack Web Development ```*** from [***TripleTen (Formerly Practicum)***](https://tripleten.co.il/en/frontend/) .
 
 - ✍🏽 I'm authoring monthly ***articles*** on [**```LinkedIn```**](https://www.linkedin.com/in/chen-abudi/) to share my insights and experiences about topics in ***```Software Development```***.
 
