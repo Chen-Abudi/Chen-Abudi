@@ -39,6 +39,9 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 <!-- - 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/1uIPsU-G_TwJfcLj67ov6ZKII4MsNQ1co/view?usp=sharing) -->
 
+<!-- - 📝 View my **```CV```** [**&#128073;&#127997;HERE**]() -->
+
+
 <details>
 <summary><b><h2 align="left"> :hammer_and_wrench: Languages & Tools  </h2></b></summary><br/>
 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
