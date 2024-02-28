@@ -19,6 +19,8 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 <!-- - 🔭 I'm currently working on a **```Tiny URL```** and [**```AlohaGracefulCode```**](https://github.com/Chen-Abudi/AlohaGracefulCode). -->
 
+- 🔭 I'm currently working on [**```dashboard-invoices```**](https://github.com/Chen-Abudi/dashboard-invoices), and [**```react-quiz```**](https://github.com/Chen-Abudi/react-quiz).
+
 <!-- - 🌱 I'm currently learning **``` Java ```** as part of a ***``` Software Engineering Program ```***, and **``` Web Design ```**. -->
                       
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/) .
