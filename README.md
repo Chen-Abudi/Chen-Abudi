@@ -26,7 +26,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 - 👩🏽‍🎓 Completed successfully along [**Certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) of a ***``` Full-Stack Web Development ```*** from [***TripleTen (Formerly Practicum)***](https://tripleten.co.il/en/frontend/) .
 
-- ✍🏽 I'm authoring monthly ***articles*** on [**```LinkedIn```**](https://www.linkedin.com/in/chen-abudi/) to share my insights and experiences about topics in ***```Software Development```***.
+- ✍🏽 I'm authoring monthly ***articles*** on [**LinkedIn**](https://www.linkedin.com/in/chen-abudi/) to share my insights and experiences about topics in ***```Software Development```***.
 
 - ✍🏽 I'm authoring ***articles*** to share my personal insights and experiences regarding ***```sundry topics```*** on [![**```Medium```**](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cheezumcali23) 
 
