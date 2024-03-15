@@ -1,5 +1,3 @@
-<!-- ![github-header-image](https://user-images.githubusercontent.com/98914366/208881546-4762226f-7e53-4c50-89ab-02c449d1face.png) -->
-
 ![github-header-image](https://github.com/Chen-Abudi/Chen-Abudi/assets/98914366/5187e829-0251-487f-aac2-28c133546fc8)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chen-abudi&label=Profile%20views&color=0091ff&style=for-the-badge" alt="Chen Abudi" /></p>
@@ -130,10 +128,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
   ![PostCSS](https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
   ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
   ![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-  <!-- ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) -->
-  <!-- ![Dialogflow](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white) -->
-  <!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
-  <!-- ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) -->
+  
   </details>   
   
   ---
