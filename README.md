@@ -18,7 +18,6 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 🔭 I'm currently working on [**dashboard-invoices**](https://github.com/Chen-Abudi/dashboard-invoices). -->
 
-- 🔭 I'm currently working on [**react-quiz**](https://github.com/Chen-Abudi/react-quiz).
 
 - 🌱 I'm currently learning ***``` Software Engineering Program ```***, and **``` Web Design ```**.
                       
