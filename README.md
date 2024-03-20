@@ -170,9 +170,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chen-abudi&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chen-abudi&theme=solarized-light)](https://git.io/streak-stats)
- 
- <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi&rank=S,AAA)](https://github.com/ryo-ma/github-profile-trophy) --> 
-
+  
  [![trophy](https://github-profile-trophy.vercel.app/?username=chen-abudi)](https://github.com/chen-abudi/github-profile-trophy)
 
  <!-- [![Grace Medium](https://github-readme-medium.vercel.app/?username=cheezumcali23&limit=3)](https://medium.com/@cheezumcali23) -->
