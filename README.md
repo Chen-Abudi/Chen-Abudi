@@ -8,7 +8,7 @@
 
 <h2 align="left">ℹ️ About Me:</h2> 
 <p align="left">
-I'm an ardent Software Engineer, with the Aloha spirit 🌺🤙🏽, infusing my work with a genuine commitment to shaping the digital realm day by day. Fueled by a fervor for coding, logic, artistic expression, and cutting-edge technology, I aspire to contribute to a superior global landscape through the enhancement of the digital domain.
+I'm an ardent Software Engineer, with the Aloha spirit 🌺🤙🏽, infusing my work with a genuine commitment to shaping the digital realm day by day. Fueled by a fervor for coding, logic, artistic expression, and cutting-edge technology, I aspire to contribute to a superior global landscape by enhancing the digital domain.
 
 In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design, 🤖 AI, and 3D modeling, while also relishing in 📚 language learning, 💃🏽 dance, 🎶 music, and a profound love for nature, particularly the awe-inspiring 🌊 ocean.
 The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄🏽‍♀️ surfing, and a variety of sports, forming a vibrant mosaic that not only fuels my creativity but also ignites my adventurous spirit. 
@@ -192,6 +192,6 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 </details>
 
-<!-- ![Snake animation](https://github.com/Chen-Abudi/Chen-Abudi/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/Chen-Abudi/Chen-Abudi/blob/output/github-contribution-grid-snake.svg)
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=615&lines=Thank+you+for+stopping+by%2C+have+a+wonderful+day!+%F0%9F%8C%BA+)](https://git.io/typing-svg) 
