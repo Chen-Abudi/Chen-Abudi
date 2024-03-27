@@ -18,7 +18,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 🔭 I'm currently working on [](). -->
 
-- 🔭 I'm currently working on **mini-counter**
+<!-- - 🔭 I'm currently working on **mini-counter** -->
 
 - 🌱 I'm currently learning ***``` Software Engineering Program ```***, and **``` Web Design ```**.
                       
