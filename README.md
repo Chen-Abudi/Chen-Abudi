@@ -20,7 +20,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 - 🔭 I'm currently working on **mini-counter**
 
-- 🌱 I'm currently learning ***``` Software Engineering Program ```***, and **``` Web Design ```**.
+- 🌱 I'm currently learning ***``` Software Engineering  ```***, and **``` Web Design ```**.
                       
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/) .
 
