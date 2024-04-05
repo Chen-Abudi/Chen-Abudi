@@ -11,7 +11,7 @@
 I'm an ardent Software Engineer, with the Aloha spirit 🌺🤙🏽, infusing my work with a genuine commitment to shaping the digital realm day by day. Fueled by a fervor for coding, logic, artistic expression, and cutting-edge technology, I aspire to contribute to a superior global landscape by enhancing the digital domain.
 
 In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design, 🤖 AI, and 3D modeling, while also relishing in 📚 language learning, 💃🏽 dance, 🎶 music, and a profound love for nature, particularly the awe-inspiring 🌊 ocean.
-The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄🏽‍♀️ surfing, and a variety of sports, forming a vibrant mosaic that not only fuels my creativity but also ignites my adventurous spirit. 
+<!-- The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄🏽‍♀️ surfing, and a variety of sports, forming a vibrant mosaic that not only fuels my creativity but also ignites my adventurous spirit. -->
 </p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
