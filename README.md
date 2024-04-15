@@ -16,9 +16,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
 
-<!-- - 🔭 I'm currently working on [](). -->
-
-- 🔭 I'm currently working on **mini-user-list**. 
+<!-- - 🔭 I'm currently working on [](). --
 
 - 🌱 I'm currently learning ***``` Software Engineering ```***, and **``` Web/Mobile Design - UI/UX ```**.
                       
