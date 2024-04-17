@@ -18,7 +18,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 🔭 I'm currently working on [](). -->
 
-- 🔭 I'm currently working on [**placepicker-collection-backend**](https://github.com/Chen-Abudi/placepicker-collection-backend).
+- 🔭 I'm currently working on ***placepicker-collection-backend***.
 
 - 🌱 I'm currently learning ***``` Software Engineering ```***, and **``` Web/Mobile Design - UI/UX ```**.
                       
