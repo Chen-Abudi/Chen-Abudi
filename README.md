@@ -18,7 +18,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 🔭 I'm currently working on [](). -->
 
-<!-- - 🔭 I'm currently working on ***react-forms***. -->
+- 🔭 I'm currently working on ***react-forms***.
 
 - 🌱 I'm currently learning ***``` Software Engineering ```***, and **``` Web/Mobile Design - UI/UX ```**.
                       
