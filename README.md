@@ -28,13 +28,13 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 - ✍🏽 I'm authoring monthly ***articles*** on [**LinkedIn**](https://www.linkedin.com/in/chen-abudi/) to share my insights and experiences about topics in ***```Software Development```***.
 
-- ✍🏽 I'm authoring monthly ***articles*** to share my personal insights and experiences regarding ***```sundry topics```*** on [![**```Medium```**](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cheezumcali23) 
+- ✍🏽 I'm authoring monthly ***articles*** to share my personal insights and experiences regarding ***```sundry topics```*** on [![**```Medium```**](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cheezumcali23) .
 
 - 💬 Feel free to ask me anything and I'd love to help as much as possible! 
 
 - 👯 I'm always ***``` keen ```*** to collaborate and contribute to **Frontend**, **Backend**, and **Full-Stack** projects. 
 
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cheezumcali23@gmail.com)     
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cheezumcali23@gmail.com) .    
 
 - ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer/dancer, and a world traveler with the Aloha Spirit**🌺...
 
