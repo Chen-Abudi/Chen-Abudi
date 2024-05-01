@@ -18,7 +18,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 🔭 I'm currently working on [](). -->
 
-- 🔭 I'm currently working on **mini-counter-value**.
+- 🔭 I'm currently working on [**mini-counter-value**](https://github.com/Chen-Abudi/mini-counter-value).
 
 - 🌱 I'm currently learning ***``` Software Engineering ```***, and **``` Web + Mobile Design - UI/UX ```**.
                       
