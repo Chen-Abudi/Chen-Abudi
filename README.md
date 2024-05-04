@@ -18,7 +18,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 🔭 I'm currently working on [](). -->
 
-- 🔭 I'm currently working on [redux-cart](https://github.com/Chen-Abudi/redux-cart).
+- 🔭 I'm currently working on [**redux-cart**](https://github.com/Chen-Abudi/redux-cart).
 
 - 🌱 I'm currently learning ***``` Software Engineering ```***, and **``` Web + Mobile Design - UI/UX ```**.
                       
