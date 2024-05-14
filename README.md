@@ -147,10 +147,6 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
   
    ---
 
-   <details>
-
-   <summary><h2 align="left"> 📝 My Articles Posts: </h2></summary>
-
    # 📝 My Articles Posts:
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript Pro Tip: Unlock the Power of Optional Chaining](https://medium.com/@cheezumcali23/javascript-pro-tip-unlock-the-power-of-optional-chaining-5a02709f0109?source=rss-a3473fd568e0------2)
@@ -159,7 +155,6 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 - [Overcoming Overwhelm: A Full Stack Developer’s Journey into the Realm of Big Projects!](https://medium.com/@cheezumcali23/overcoming-overwhelm-a-full-stack-developers-journey-into-the-realm-of-big-projects-7dd856abb4a?source=rss-a3473fd568e0------2)
 <!-- BLOG-POST-LIST:END -->
 
-   </details>
    ---
    
 <h3 align="left">🔗 Feel Free to Connect & Follow Here :</h3>
