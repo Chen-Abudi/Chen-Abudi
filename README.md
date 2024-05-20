@@ -32,7 +32,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 - 💬 Feel free to ask me anything and I'd love to help as much as possible! 
 
-- 👯 I'm always ***``` keen ```*** to collaborate and contribute to **Frontend**, **Backend**, and **Full-Stack** projects. 
+- 👯 Always ***``` keen ```*** to collaborate and contribute to **Frontend**, **Backend**, and **Full-Stack** projects. 
 
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cheezumcali23@gmail.com) .    
 
