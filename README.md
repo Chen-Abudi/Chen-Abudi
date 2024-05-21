@@ -18,7 +18,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 🔭 I'm currently working on [](). -->
 
-<!-- - 🔭 I'm currently working on [**react-router-auth**](https://github.com/Chen-Abudi/react-router-auth). -->
+- 🔭 I'm currently working on **react-router-auth**.
 
 - 🌱 I'm currently learning ***``` Software Engineering ```***, and **``` Web Design - UI/UX ```**.
                       
