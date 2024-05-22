@@ -18,7 +18,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 🔭 I'm currently working on [](). -->
 
-- 🔭 I'm currently working on [mini-blog-posts](https://github.com/Chen-Abudi/mini-blog-posts).
+- 🔭 I'm currently working on [**mini-blog-posts**](https://github.com/Chen-Abudi/mini-blog-posts).
 
 - 🌱 I'm currently learning ***``` Software Engineering ```***, and **``` Web Design - UI/UX ```**.
                       
