@@ -18,7 +18,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 🔭 I'm currently working on [](). -->
 
-- 🔭 I'm currently working on [events-hub](https://github.com/Chen-Abudi/events-hub).
+- 🔭 I'm currently working on [**The Events Hub**](https://github.com/Chen-Abudi/events-hub).
 
 - 🌱 I'm currently learning ***``` Software Engineering ```***, and **``` Web Design - UI/UX ```**.
                       
