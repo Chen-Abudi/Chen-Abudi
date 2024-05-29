@@ -131,6 +131,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
   ![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
   ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
   ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
   <!-- https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white -->
   
   </details>   
