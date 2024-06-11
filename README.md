@@ -132,6 +132,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
   ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)
   ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
   ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+  <!-- ![Dialogflow](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white) -->
   <!-- https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white -->
   
   </details>   
