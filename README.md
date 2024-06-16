@@ -18,8 +18,6 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 🔭 I'm currently working on [](). -->
 
-- 🔭 I'm currently working on [**mini-challenges**](https://github.com/Chen-Abudi/mini-challenges).
-
 - 🌱 I'm currently learning ***``` Software Engineering ```***, and **``` Web & Mobile Design - UI/UX ```**.
                       
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/) .
