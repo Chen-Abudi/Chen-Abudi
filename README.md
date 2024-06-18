@@ -18,7 +18,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 🔭 I'm currently working on [](). -->
 
-- 🔭 I'm currently working on [tic-tac-toe-java](https://github.com/Chen-Abudi/tic-tac-toe-java).
+- 🔭 I'm currently working on [**tic-tac-toe-java**](https://github.com/Chen-Abudi/tic-tac-toe-java).
 
 - 🌱 I'm currently learning ***``` Software Engineering: JAVA, etc... ```***, and **``` Web & Mobile Design - UI/UX ```**.
                       
