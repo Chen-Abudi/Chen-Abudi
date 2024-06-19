@@ -36,7 +36,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 - ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer/dancer, and a world traveler with the Aloha Spirit**🌺...
 
-- 📝 View my **```Software Engineer CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/13BpNoeO3BSZMNd5USdpk7BClaCYsuMwC/view?usp=sharing), and my **```Full-Stack Developer CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/1B5RNJUtSIgpvAo0u6anVLShiY-FuGsl8/view?usp=sharing).
+<!-- - 📝 View my **```Software Engineer CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/13BpNoeO3BSZMNd5USdpk7BClaCYsuMwC/view?usp=sharing), and my **```Full-Stack Developer CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/1B5RNJUtSIgpvAo0u6anVLShiY-FuGsl8/view?usp=sharing). -->
 
 <!-- - 📝 View my **```CV```** [**&#128073;&#127997;HERE**]() -->
 
