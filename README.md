@@ -18,7 +18,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 🔭 I'm currently working on [](). -->
 
-- 🔭 I'm currently working on [**Library App in ```JAVA```**](https://github.com/Chen-Abudi/library-app-java).
+- 🔭 I'm currently working on [**Library App**](https://github.com/Chen-Abudi/library-app-java) in ```JAVA```.
 
 - 🌱 I'm currently learning ***``` Software Engineering: JAVA, etc... ```***, and **``` Web & Mobile Design - UI/UX ```**.
                       
