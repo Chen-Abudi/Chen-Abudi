@@ -196,7 +196,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 <details>
   <summary><h3 align="left"> 🎶 : </h3></summary>
   
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=315cmqf3p5iz2rek66bfwdtanf7q&cover_image=true&theme=novatorem&bar_color=3fc7d9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=315cmqf3p5iz2rek66bfwdtanf7q&cover_image=true&theme=novatorem&bar_color=3fc7d9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </details>
 
