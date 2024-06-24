@@ -40,6 +40,8 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 📝 View my **```CV```** [**&#128073;&#127997;HERE**]() -->
 
+- 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/1fTkIAmvIlXQlHz22QPwWZCIJvQy5YKTO/view?usp=sharing)
+
 
 <details>
 <summary><b><h2 align="left"> :hammer_and_wrench: Languages & Tools  </h2></b></summary><br/>
