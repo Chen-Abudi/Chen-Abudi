@@ -18,7 +18,9 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 🔭 I'm currently working on [](). -->
 
-- 🌱 I'm currently learning ***``` Software Engineering: JAVA, Spring Boot 3, Spring 6, Hibernate, etc... ```***, and **``` Web & Mobile Design - UI/UX ```**.
+<!-- - 🌱 I'm currently learning ***``` Software Engineering: JAVA, Spring Boot 3, Spring 6, Hibernate, etc... ```***, and **``` Web & Mobile Design - UI/UX ```**. -->
+
+- 🌱 I'm currently learning ***``` Software Engineering: JAVA, Spring Boot 3, Spring 6, Hibernate, etc... ```***.
                       
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/) .
 
