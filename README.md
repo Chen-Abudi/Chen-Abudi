@@ -18,6 +18,8 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 🔭 I'm currently working on [](). -->
 
+- 🔭 I'm currently working on [Expenses Charts](https://github.com/Chen-Abudi/expenses-charts).
+
 <!-- - 🌱 I'm currently learning ***``` Software Engineering: JAVA, Spring Boot 3, Spring 6, Hibernate, etc... ```***, and **``` Web & Mobile Design - UI/UX ```**. -->
 
 - 🌱 I'm currently learning ***``` Software Engineering: JAVA, Spring Boot 3, Spring 6, Hibernate, etc... ```***.
