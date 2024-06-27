@@ -18,8 +18,6 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 🔭 I'm currently working on [](). -->
 
-<!-- - 🌱 I'm currently learning ***``` Software Engineering: JAVA, Spring Boot 3, Spring 6, Hibernate, etc... ```***, and **``` Web & Mobile Design - UI/UX ```**. -->
-
 - 🌱 I'm currently learning ***``` Software Engineering: JAVA, Spring Boot 3, Spring 6, Hibernate, etc... ```***.
                       
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/) .
@@ -38,11 +36,9 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 - ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer/dancer, and a world traveler with the Aloha Spirit**🌺...
 
-<!-- - 📝 View my **```Software Engineer CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/13BpNoeO3BSZMNd5USdpk7BClaCYsuMwC/view?usp=sharing), and my **```Full-Stack Developer CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/1B5RNJUtSIgpvAo0u6anVLShiY-FuGsl8/view?usp=sharing). -->
-
 <!-- - 📝 View my **```CV```** [**&#128073;&#127997;HERE**]() -->
 
-- 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/1Mm1lbHP1m3zvIaqJOyng67eM_d4HwlzN/view?usp=sharing)
+- 📝 View my **```Resume```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/1Mm1lbHP1m3zvIaqJOyng67eM_d4HwlzN/view?usp=sharing)
 
 
 <details>
