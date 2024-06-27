@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chen-abudi&label=Profile%20views&color=0091ff&style=for-the-badge" alt="Chen Abudi" /></p>
 
-<h2 align="center">🔓 I'm Open to Full-Stack/FE/Software Engineer Positions‼️</h2>
+<h2 align="center">🔓 I'm Open to FE/Software Engineer Positions‼️</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=660&lines=Aloha+%F0%9F%A4%99%F0%9F%8F%BD+Welcome+to+my+profile+!;Hope+you'll+enjoy+your+time+here+%F0%9F%99%8F%F0%9F%8F%BD;Go+check+my+Full-Stack+apps+down+below+%F0%9F%91%87%F0%9F%8F%BD;Feel+free+to+connect%2Fcontact+me++;I'm+open+to+collaborate+on+Frontend%2FFull-stack+projects)](https://git.io/typing-svg)
 
@@ -42,7 +42,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 📝 View my **```CV```** [**&#128073;&#127997;HERE**]() -->
 
-- 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/1fTkIAmvIlXQlHz22QPwWZCIJvQy5YKTO/view?usp=sharing)
+- 📝 View my **```CV```** [**&#128073;&#127997;HERE**](https://drive.google.com/file/d/1Mm1lbHP1m3zvIaqJOyng67eM_d4HwlzN/view?usp=sharing)
 
 
 <details>
