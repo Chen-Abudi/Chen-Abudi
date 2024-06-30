@@ -134,7 +134,6 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
   ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
   ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-  <!-- https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white -->
   
   </details>   
   
@@ -198,6 +197,6 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 </details>
 
-<!-- ![Snake animation](https://github.com/Chen-Abudi/Chen-Abudi/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/Chen-Abudi/Chen-Abudi/blob/output/github-contribution-grid-snake.svg)
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=615&lines=Thank+you+for+stopping+by%2C+have+a+wonderful+day!+%F0%9F%8C%BA+)](https://git.io/typing-svg) 
