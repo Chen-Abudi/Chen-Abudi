@@ -197,6 +197,6 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 </details>
 
-![Snake animation](https://github.com/Chen-Abudi/Chen-Abudi/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Chen-Abudi/Chen-Abudi/blob/output/github-contribution-grid-snake.svg) -->
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=615&lines=Thank+you+for+stopping+by%2C+have+a+wonderful+day!+%F0%9F%8C%BA+)](https://git.io/typing-svg) 
