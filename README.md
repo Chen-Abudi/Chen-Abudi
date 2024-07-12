@@ -22,7 +22,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 - 🌱 I'm currently learning ***``` Software Engineering: JAVA, Spring 6, Spring Boot 3, Hibernate/JPA, MySQL, etc... ```***.
                       
-- ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/) .
+- ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/).
 
 - 👩🏽‍🎓 I successfully completed a ***``` Full-Stack Development Program ```*** along [**Certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) from [***TripleTen (Formerly Practicum)***](https://tripleten.co.il/en/frontend/) .
 
