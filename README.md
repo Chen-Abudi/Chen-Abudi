@@ -18,7 +18,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 🔭 I'm currently working on [](). -->
 
-- 🔭 I'm currently working on my [**Profile Card 📇**](https://github.com/Chen-Abudi/my-profile-card).
+- 🔭 I'm currently working on my [**Profile Card 📇**](https://github.com/Chen-Abudi/my-profile-card), and **Command Line App**.
 
 <!-- - 🌱 I'm currently learning ***``` Software Engineering: JAVA, Spring 6, Spring Boot 3, Hibernate/JPA, MySQL, etc... ```*** -->
 
