@@ -20,9 +20,9 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 - 🔭 I'm currently working on my [**Profile Card 📇**](https://github.com/Chen-Abudi/my-profile-card).
 
-- 🌱 I'm currently learning ***``` Software Engineering: JAVA, Spring 6, Spring Boot 3, JPA, MySQL, etc... ```***
+<!-- - 🌱 I'm currently learning ***``` Software Engineering: JAVA, Spring 6, Spring Boot 3, JPA, MySQL, etc... ```*** -->
 
-<!-- - 🌱 I'm currently learning ***``` Software Engineering: JAVA, Spring/Spring Boot, JPA, MySQL```*** -->
+- 🌱 I'm currently learning ***``` Software Engineering: JAVA, Spring/Spring Boot, JPA, MySQL```*** 
                       
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/).
 
