@@ -44,7 +44,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 
 <details>
-<summary><b><h2 align="left"> :hammer_and_wrench: Languages & Tools  </h2></b></summary><br/>
+<summary><h2 align="left"> :hammer_and_wrench: Languages & Tools</h2></b></summary><br/>
 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
 	
 <div align="center">
