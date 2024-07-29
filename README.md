@@ -98,7 +98,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/></code>
 </div>
               
-  <summary><b><h2 align="left"> ➕ Additional Tools :</h2></b></summary>
+  <summary><h2 align="left">➕ Additional Tools:</h2></summary>
   
   ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
   ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
