@@ -167,13 +167,13 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
    ---
    
-<h3 align="left">🔗 Feel Free to Connect & Follow Here :</h3>
+<h2 align="left">🔗 Feel Free to Connect & Follow Here :</h2>
 <p align="left"> <a href="https://discord.com/users/grace_c.a.23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/YoungGrace23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Chen-Abudi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/calibased23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/chen-abudi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@cheezumcali23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
 
 <!-- <a href = 'https://medium.com/@cheezumcali23'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> -->
                
   <details>      
-  <summary><h3 align="left"> 🔥 My Stats : </h3></summary>
+  <summary><h2 align="left"> 🔥 My Stats : </h2></summary>
           
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chen-abudi&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -188,7 +188,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 </details>
 
 <details>
-<summary><img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'><h3 align="left">Some Programming Humor:</h3></summary>
+<summary><img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'><h2 align="left">Some Programming Humor:</h2></summary>
 	
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=solarized-light)
 
@@ -196,14 +196,14 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 
 <details>
-  <summary><h3 align="left"> 🎶 : </h3></summary>
+  <summary><h2 align="left"> 🎶 : </h2></summary>
   
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=315cmqf3p5iz2rek66bfwdtanf7q&cover_image=true&theme=novatorem&bar_color=3fc7d9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </details>
 
 <details>
-  <summary><h3 align="left">Join the Journey</h3></summary>
+  <summary><h2 align="left">Join the Journey 🫶🏽:</h2></summary>
 
   ***Aloha 🌺***
 
