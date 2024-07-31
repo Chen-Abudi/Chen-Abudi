@@ -202,6 +202,19 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 </details>
 
+<details>
+  <summary><h3 align="left">Join the Journey</h3></summary>
+
+  ***Aloha 🌺***
+
+**If you've found value in my work and would like to support me, consider buying me a coffee! Your support helps me continue creating and sharing content that I hope inspires and makes a difference in the digital world. Every contribution is greatly appreciated and fuels my passion to keep going. Thank you for being part of this journey!**
+
+***Mahalo 🌺🤙🏽***
+
+### Show some Love at 👉🏽 [buymeacoffee ☕](https://buymeacoffee.com/graceabudi)
+ 
+</details>
+
 <!-- ![Snake animation](https://github.com/Chen-Abudi/Chen-Abudi/blob/output/github-contribution-grid-snake.svg) -->
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=615&lines=Thank+you+for+stopping+by%2C+have+a+wonderful+day!+%F0%9F%8C%BA+)](https://git.io/typing-svg) 
