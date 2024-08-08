@@ -209,7 +209,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
   ***Aloha 🌺***
 
-**If you've found value in my work and would like to support me, consider buying me a coffee! Your support helps me continue creating and sharing content that I hope inspires and makes a difference in the digital world. Every contribution is greatly appreciated and fuels my passion to keep going. Thank you for being part of this journey!**
+If you've found value in my work and would like to support me, consider buying me a coffee! Your support helps me continue creating and sharing content that I hope inspires and makes a difference in the digital world. Every contribution is greatly appreciated and fuels my passion to keep going. Thank you for being part of this journey!
 
 ***Mahalo 🌺🤙🏽***
 
