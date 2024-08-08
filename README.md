@@ -24,7 +24,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 🌱 I'm currently learning ***``` Software Engineering: JAVA, Spring/Spring Boot, JPA/Hibernate, MySQL ```***. -->
 
-- 🌱 I'm currently learning ***``` Spring MVC and Thymeleaf ```***.
+- 🌱 I'm currently learning ***``` Spring MVC with Thymeleaf ```***.
                       
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/). 
 
