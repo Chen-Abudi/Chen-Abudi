@@ -20,11 +20,9 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 🔭 I'm currently working on my [**Profile Card 📇**](https://github.com/Chen-Abudi/my-profile-card), and on [**AlohaGracefulCode 🌺**](https://github.com/Chen-Abudi/AlohaGracefulCode). -->
 
-- 🔭 I'm currently working on: [**AlohaGracefulCode 🌺**](https://github.com/Chen-Abudi/AlohaGracefulCode), and on **Spring MVC Validation project**.
+- 🔭 I'm currently working on: **Spring MVC Validation project**.
 
-<!-- - 🌱 I'm currently learning ***``` Software Engineering: JAVA, Spring 6, Spring Boot 3, JPA, MySQL, etc... ```*** -->
-
-<!-- - 🌱 I'm currently learning ***``` Software Engineering: JAVA, Spring/Spring Boot, JPA/Hibernate, MySQL ```***. -->
+<!-- - 🌱 I'm currently learning ***``` Software Engineering: JAVA, Spring 6, Spring Boot 3, JPA/Hibernate, MySQL, etc... ```*** -->
 
 - 🌱 I'm currently learning ***``` Spring MVC with Thymeleaf ```***.
                       
