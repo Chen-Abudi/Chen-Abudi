@@ -20,7 +20,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 🔭 I'm currently working on my [**Profile Card 📇**](https://github.com/Chen-Abudi/my-profile-card), and on [**AlohaGracefulCode 🌺**](https://github.com/Chen-Abudi/AlohaGracefulCode). -->
 
-- 🔭 I'm currently working on: **Employee Directory CRUD Database [Spring Boot with Thymeleaf]**.
+- 🔭 I'm currently working on: **Employee Directory CRUD Database [Spring Boot with Thymeleaf] (Coming soo n)**.
 
 <!-- - 🌱 I'm currently learning ***``` Software Engineering: JAVA, Spring 6, Spring Boot 3, JPA/Hibernate, MySQL, etc... ```*** -->
 
@@ -141,6 +141,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
   ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
   ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)
   ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   
   </details>   
   
