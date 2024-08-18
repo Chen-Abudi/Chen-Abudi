@@ -22,7 +22,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 <!-- - 🔭 I'm currently working on: **Employee Directory CRUD Database [Spring Boot with Thymeleaf] (Coming soon)**. -->
 
-- 🔭 I'm currently working on Spring MVC Security Project.
+- 🔭 I'm currently working on ***Spring MVC Security Project***.
 
 <!-- - 🌱 I'm currently learning ***``` Software Engineering: JAVA, Spring 6, Spring Boot 3, JPA/Hibernate, MySQL, etc... ```*** -->
 
