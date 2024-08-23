@@ -40,7 +40,7 @@ The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄�
 
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cheezumcali23@gmail.com) .    
 
-- ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer/dancer, and a world traveler with the Aloha Spirit**🌺...
+- ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer/dancer, and a world traveler with the Aloha Spirit**🌺.
 
 <!-- - 📝 View my **```CV```** [**&#128073;&#127997;HERE**]() -->
 
