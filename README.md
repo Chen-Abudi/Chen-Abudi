@@ -156,19 +156,20 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
  
   </details>
   
-   ---
+  <!-- --- -->
 
-   # 📝 My Articles Posts:
+   <!-- # 📝 My Articles Posts: -->
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Pro Tip: Unlock the Power of Optional Chaining](https://medium.com/@cheezumcali23/javascript-pro-tip-unlock-the-power-of-optional-chaining-5a02709f0109?source=rss-a3473fd568e0------2)
+<!--- - [JavaScript Pro Tip: Unlock the Power of Optional Chaining](https://medium.com/@cheezumcali23/javascript-pro-tip-unlock-the-power-of-optional-chaining-5a02709f0109?source=rss-a3473fd568e0------2)
 - [Navigating the Waves of Productivity in Software Development](https://medium.com/@cheezumcali23/navigating-the-waves-of-productivity-in-software-development-e4b874e23d40?source=rss-a3473fd568e0------2)
 - [From Shy to Stellar: Nurturing Confidence in the World of Software Development](https://medium.com/@cheezumcali23/from-shy-to-stellar-nurturing-confidence-in-the-world-of-software-development-763a11546fcd?source=rss-a3473fd568e0------2)
-- [Overcoming Overwhelm: A Full Stack Developer’s Journey into the Realm of Big Projects!](https://medium.com/@cheezumcali23/overcoming-overwhelm-a-full-stack-developers-journey-into-the-realm-of-big-projects-7dd856abb4a?source=rss-a3473fd568e0------2)
+- [Overcoming Overwhelm: A Full Stack Developer’s Journey into the Realm of Big Projects!](https://medium.com/@cheezumcali23/overcoming-overwhelm-a-full-stack-developers-journey-into-the-realm-of-big-projects-7dd856abb4a?source=rss-a3473fd568e0------2) -->
 <!-- BLOG-POST-LIST:END -->
 
    ---
  <details>
  <summary><h2 align="left"> 📝 My Articles Posts: </h2></summary>
+  
    <p>
      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cheezumcali23/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cheezumcali23/0" alt="Recent Article 0"> 
      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cheezumcali23/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cheezumcali23/1" alt="Recent Article 1">
