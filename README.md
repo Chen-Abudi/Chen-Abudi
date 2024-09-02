@@ -151,7 +151,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
   ---
   
   <details>
-  <summary><h2 align="left"> 🎯 2024 Learning Plans </h2></summary>
+  <summary><h2 align="left"> 🎯 2024 - 2025 Learning Plans </h2></summary>
 
 | Programming Language | Libraries & Frameworks |  Open Source Software / 3D |  Cloud Computing / CI/CD 
 |:--------|:------|:------------|:------------|
