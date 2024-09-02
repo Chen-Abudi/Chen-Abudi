@@ -119,7 +119,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
   ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
   ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
 
-  <summary><h2 align="left">➕ Other Tools:</h2></summary>
+  <summary><h2 align="left">➕ Other:</h2></summary>
 
   ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
   ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
