@@ -227,7 +227,8 @@ If you've found value in my work and would like to support me, consider buying m
 
 ***Mahalo 🤙🏽***
 
-### Show some Love at 👇🏽 <a href="https://www.buymeacoffee.com/graceabudi" target="_blank" title="buymeacoffee">
+### Show some Love at 👇🏽 
+<a href="https://www.buymeacoffee.com/graceabudi" target="_blank" title="buymeacoffee">
   <img src="https://iili.io/JIYMmUN.gif"  alt="buymeacoffee-animated-badge" style="width: 160px;">
 </a>
 
