@@ -22,13 +22,13 @@ jobs:
         with:
           commit_message: Save Generated Blog Posts
           skip_checkout: true
-          token: ${{ secrets.BLOG_POSTS }}
+          create_branch: blog-update # Create a branch for commits
       - name: Create Pull Reaquest
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.BLOG_POSTS }}
           commit-message: Save Generated Blog Posts
-          title: 'Automated Blog Post Update'
-          body: 'This is an automated pull request to update blog posts.'
+          title: "Automated Blog Post Update"
+          body: "This is an automated pull request to update blog posts."
           base: main # The protected branch I want to merge into
           branch: blog-update # The branch with the new changes
