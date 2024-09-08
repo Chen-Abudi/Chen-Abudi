@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   push:
   schedule: # Runs workflow automatically
-    - cron: "0 0 * * *" # Runs at midnight UTC, every day 
+    - cron: "0 */9 * * *" # Runs every 9 hours 
 jobs:
   blog:
     runs-on: ubuntu-latest
