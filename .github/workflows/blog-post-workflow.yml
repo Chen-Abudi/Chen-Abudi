@@ -22,3 +22,11 @@ jobs:
         with:
           commit_message: Save Generated Blog Posts
           skip_checkout: true
+      - name: Create Pull Reaquest
+        uses: peter-evans/create-pull-request@v5
+        with:
+          commit-message: Save Generated Blog Posts
+          title: 'Automated Blog Post Update'
+          body: 'This is an automated pull request to update blog posts.'
+          base: main # The protected branch I want to merge into
+          branch: blog-update # The branch with the new changes
