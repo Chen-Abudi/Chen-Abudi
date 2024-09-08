@@ -164,8 +164,6 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 # 📝 My Articles Posts:
 <!-- BLOG-POST-LIST:START -->
 
-
- 
 <!-- BLOG-POST-LIST:END -->
 
   <!-- ---
