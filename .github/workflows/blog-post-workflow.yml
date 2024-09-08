@@ -22,5 +22,5 @@ jobs:
         with:
           commit_message: Save Generated Blog Posts
           skip_checkout: true
-          token: ${{ secrets.BLOG_POSTS }}
+          
 
