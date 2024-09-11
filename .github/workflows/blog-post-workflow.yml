@@ -1,43 +1,25 @@
-name: Latest blog post workflow
-on:
-  schedule:
-    - cron: '0 */6 * * *' # Runs every 6 hours
-  workflow_dispatch: # Allows manual triggering
-permissions:
-  contents: write
+name: Latest Blog Post Workflow
 
+on:
+  push:
+  schedule: # Runs workflow automatically
+    - cron: "0 */6 * * *" # Runs every 6 hours
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  blog:
     runs-on: ubuntu-latest
+    name: Fetch and Generate Blog Posts
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-
-      - name: Pull in Medium posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Generate
+        uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
-          feed_list: "https://medium.com/feed/@cheezumcali23"
+          feed_urls: "https://medium.com/feed/@cheezumcali23"
+          show_feed_title: true
+          show_feed_description: true
+          show_read_more: true
           
-      - name: Configure git
-        run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "cheezumcali23@users.noreply.github.com"
-          
-      - name: Create new branch
-        run: |
-          git checkout -b update-blog-posts
-          git add README.md
-          git commit -m "Updated with the latest blog posts"
-          git push origin update-blog-posts
-
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5
-        with:
-          token: ${{ secrets.BLOG_POSTS }}
-          branch: update-blog-posts
-          title: "Update README with latest blog posts"
-          body: "This PR updates the README file with the latest blog posts."
+    
 
           
           
