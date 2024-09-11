@@ -2,8 +2,11 @@ name: Latest Blog Post Workflow
 
 on:
   push:
+    branches:
+      - update-blog-posts # Trigger the workflow only on the update-blog-posts branch
   schedule: # Runs workflow automatically
     - cron: "0 */6 * * *" # Runs every 6 hours
+
 jobs:
   blog:
     runs-on: ubuntu-latest
@@ -11,18 +14,19 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+
       - name: Generate
         uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
           feed_urls: "https://medium.com/feed/@cheezumcali23"
           show_feed_data: true
-      - name: Commit changed files
-        uses: stefanzweifel/git-auto-commit-action@v4
-      - name: Commit files
+
+      - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Save Generated Blog Posts"
-          branch: update-blog-posts # Change this to a non-protected branch
+          branch: update-blog-posts # Make sure this branch exists and is not protected
+
 
         
           
