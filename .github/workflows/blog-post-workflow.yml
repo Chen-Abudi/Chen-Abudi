@@ -15,9 +15,7 @@ jobs:
         uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
           feed_urls: "https://medium.com/feed/@cheezumcali23"
-          show_feed_title: true
-          show_feed_description: true
-          show_read_more: true
+          show_feed_data: true
           
     
 
