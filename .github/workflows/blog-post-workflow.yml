@@ -16,11 +16,12 @@ jobs:
         with:
           feed_urls: "https://medium.com/feed/@cheezumcali23"
           show_feed_data: true
-      - name: Commit changed files
+      - name: Commit files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Save Generated Blog Posts
-          skip_checkout: true
+          commit_message: "Save Generated Blog Posts"
+          branch: update-blog-posts # Change this to a non-protected branch
+
         
           
     
