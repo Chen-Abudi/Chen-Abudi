@@ -170,14 +170,14 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 Stories by Grace Chen Abudi on Medium
 
 [Read more](https://medium.com/@cheezumcali23?source=rss-a3473fd568e0------2)
-> Last updated: Wednesday, September 11, 2024 at 9:43:10 AM
+> Last updated: Wednesday, September 11, 2024 at 10:04:31 AM
 
 > Showing 4 of 4 posts.
 
-[![🚀 JavaScript Pro Tip: Unlock the Power of Optional Chaining 🚀](https://raw.githubusercontent.com/Chen-Abudi/Chen-Abudi/update-blog-posts/blog-post-list-output/Stories_by_Grace_Chen_Abudi_on_Medium/🚀_JavaScript_Pro_Tip__Unlock_the_Power_of_Optional_Chaining_🚀.svg)](https://medium.com/@cheezumcali23/javascript-pro-tip-unlock-the-power-of-optional-chaining-5a02709f0109)
-[![🌊 Navigating the Waves of Productivity in Software Development 🌊](https://raw.githubusercontent.com/Chen-Abudi/Chen-Abudi/update-blog-posts/blog-post-list-output/Stories_by_Grace_Chen_Abudi_on_Medium/🌊_Navigating_the_Waves_of_Productivity_in_Software_Development_🌊.svg)](https://medium.com/@cheezumcali23/navigating-the-waves-of-productivity-in-software-development-e4b874e23d40)
-[![💡 From Shy to Stellar: Nurturing Confidence in the World of Software Development 🌟](https://raw.githubusercontent.com/Chen-Abudi/Chen-Abudi/update-blog-posts/blog-post-list-output/Stories_by_Grace_Chen_Abudi_on_Medium/💡_From_Shy_to_Stellar__Nurturing_Confidence_in_the_World_of_Software_Development_🌟.svg)](https://medium.com/@cheezumcali23/from-shy-to-stellar-nurturing-confidence-in-the-world-of-software-development-763a11546fcd)
-[![🎯 Overcoming Overwhelm: A Full Stack Developer’s Journey into the Realm of Big Projects!](https://raw.githubusercontent.com/Chen-Abudi/Chen-Abudi/update-blog-posts/blog-post-list-output/Stories_by_Grace_Chen_Abudi_on_Medium/🎯_Overcoming_Overwhelm__A_Full_Stack_Developer’s_Journey_into_the_Realm_of_Big_Projects!.svg)](https://medium.com/@cheezumcali23/overcoming-overwhelm-a-full-stack-developers-journey-into-the-realm-of-big-projects-7dd856abb4a)
+[![🚀 JavaScript Pro Tip: Unlock the Power of Optional Chaining 🚀](https://raw.githubusercontent.com/Chen-Abudi/Chen-Abudi/Chen-Abudi-patch-2/blog-post-list-output/Stories_by_Grace_Chen_Abudi_on_Medium/🚀_JavaScript_Pro_Tip__Unlock_the_Power_of_Optional_Chaining_🚀.svg)](https://medium.com/@cheezumcali23/javascript-pro-tip-unlock-the-power-of-optional-chaining-5a02709f0109)
+[![🌊 Navigating the Waves of Productivity in Software Development 🌊](https://raw.githubusercontent.com/Chen-Abudi/Chen-Abudi/Chen-Abudi-patch-2/blog-post-list-output/Stories_by_Grace_Chen_Abudi_on_Medium/🌊_Navigating_the_Waves_of_Productivity_in_Software_Development_🌊.svg)](https://medium.com/@cheezumcali23/navigating-the-waves-of-productivity-in-software-development-e4b874e23d40)
+[![💡 From Shy to Stellar: Nurturing Confidence in the World of Software Development 🌟](https://raw.githubusercontent.com/Chen-Abudi/Chen-Abudi/Chen-Abudi-patch-2/blog-post-list-output/Stories_by_Grace_Chen_Abudi_on_Medium/💡_From_Shy_to_Stellar__Nurturing_Confidence_in_the_World_of_Software_Development_🌟.svg)](https://medium.com/@cheezumcali23/from-shy-to-stellar-nurturing-confidence-in-the-world-of-software-development-763a11546fcd)
+[![🎯 Overcoming Overwhelm: A Full Stack Developer’s Journey into the Realm of Big Projects!](https://raw.githubusercontent.com/Chen-Abudi/Chen-Abudi/Chen-Abudi-patch-2/blog-post-list-output/Stories_by_Grace_Chen_Abudi_on_Medium/🎯_Overcoming_Overwhelm__A_Full_Stack_Developer’s_Journey_into_the_Realm_of_Big_Projects!.svg)](https://medium.com/@cheezumcali23/overcoming-overwhelm-a-full-stack-developers-journey-into-the-realm-of-big-projects-7dd856abb4a)
 
 
 <!-- blog-post-list:end -->
