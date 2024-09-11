@@ -16,6 +16,14 @@ jobs:
         with:
           feed_urls: "https://medium.com/feed/@cheezumcali23"
           show_feed_data: true
+      - name: Commit changed files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          target_branch: update-blog-posts
+          commit_message: Save Generated Blog Posts
+          skip_checkout: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.BLOG_POSTS }}
           
     
 
