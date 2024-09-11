@@ -22,7 +22,7 @@ jobs:
       - name: Configure git
         run: |
           git config user.name "GitHub Actions Bot"
-          git config user.email "<your-email>@users.noreply.github.com"
+          git config user.email "cheezumcali23@users.noreply.github.com"
           
       - name: Create new branch
         run: |
@@ -34,7 +34,7 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.BLOG_POSTS }}
           branch: update-blog-posts
           title: "Update README with latest blog posts"
           body: "This PR updates the README file with the latest blog posts."
