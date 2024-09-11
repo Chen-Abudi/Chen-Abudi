@@ -1,5 +1,4 @@
 name: Latest Blog Post Workflow
-
 on:
   push:
   schedule: # Runs workflow automatically
