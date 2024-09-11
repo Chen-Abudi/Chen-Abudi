@@ -19,7 +19,6 @@ jobs:
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          branch: update-blog-posts
           commit_message: Save Generated Blog Posts
           skip_checkout: true
         
