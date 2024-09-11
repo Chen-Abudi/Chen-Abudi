@@ -164,11 +164,9 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 <details>
 <summary><h2 align="left"> 📝 My Articles Posts: </h2></summary>
 	
-<!-- blog-post-list:start -->
-
-
-
-<!-- blog-post-list:end -->
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 </details>
 
   <!-- ---
