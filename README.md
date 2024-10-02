@@ -20,7 +20,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 - 🔭 I'm currently working on [**AlohaGracefulCode 🌺**](https://github.com/Chen-Abudi/AlohaGracefulCode).
 
-- 🌱 I'm currently learning ***UI/UX Design***.
+<!-- - 🌱 I'm currently learning ***UI/UX Design and Docker***. -->
                       
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/). 
 
