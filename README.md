@@ -157,7 +157,22 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
  
   </details>
   
-  <!-- --- -->
+  ---
+
+<!-- <h1 align="center">My Projects</h1>
+<table bordercolor="#66b2b2"></table>
+
+  <tr>
+    <td align="top" width="50%">
+	<h3 align="center">News Explorer Service App</h3>
+	  <br/>
+	  <a target="_blank" href="https://news-explorer-frontend-alpha.vercel.app/">
+	     <img src="" />
+	  </a>
+    </td>
+  </tr>
+
+  --- -->
 	
 # 📝 My Articles Posts:
 
