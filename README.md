@@ -236,7 +236,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 	
   ***Aloha 🌺***
 
-If you've found value in my work and would like to support me, consider buying me a coffee! Your support helps me continue creating and sharing content that I hope inspires and makes a difference in the digital world. Every contribution is greatly appreciated and fuels my passion to keep going. Thank you for being part of this journey!
+If you've found value in my work and would like to support me, consider buying me a coffee! (even though I'm not a coffee person but more like a hot cocoa person lol). Your support helps me continue creating and sharing content that I hope inspires and makes a difference in the digital world. Every contribution is greatly appreciated and fuels my passion to keep going. Thank you for being part of this journey!
 
 ***Mahalo 🤙🏽***
 
