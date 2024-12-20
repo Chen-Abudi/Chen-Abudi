@@ -17,7 +17,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
 
 
-- 🔭 I'm currently working on [**AlohaGracefulCode 🌺**](https://github.com/Chen-Abudi/AlohaGracefulCode).
+- 🔭 I'm currently working on [**AlohaGracefulCode 🌺**](https://github.com/Chen-Abudi/AlohaGracefulCode)
 
 <!-- - 🌱 I'm currently learning **Python**  -->
                       
@@ -27,13 +27,13 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 - ✍🏽 I'm authoring monthly ***articles*** on [**LinkedIn**](https://www.linkedin.com/in/chen-abudi/) to share my insights and experiences about topics in ***```Software Engineering```***.
 
-- ✍🏽 I'm authoring monthly ***articles*** to share my personal insights and experiences regarding ***```sundry topics```*** on [![**```Medium```**](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cheezumcali23).
+- ✍🏽 I'm authoring monthly ***articles*** to share my personal insights and experiences regarding ***```sundry topics```*** on [![**```Medium```**](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cheezumcali23)
 
 - 💬 Feel free to ask me anything and I'd love to help! 
 
 - 👯 Always ***``` keen ```*** to collaborate and contribute to **Software** projects. 
 
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cheezumcali23@gmail.com) .    
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cheezumcali23@gmail.com)   
 
 - ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer/dancer, and a world traveler with the Aloha Spirit**🌺.
 
