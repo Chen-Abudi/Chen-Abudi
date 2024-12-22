@@ -17,7 +17,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
 
 
-- 🔭 I'm currently working on [**AlohaGracefulCode 🌺**](https://github.com/Chen-Abudi/AlohaGracefulCode)
+<!-- - 🔭 I'm currently working on [**AlohaGracefulCode 🌺**](https://github.com/Chen-Abudi/AlohaGracefulCode) -->
 
 <!-- - 🌱 I'm currently learning **Python**  -->
                       
