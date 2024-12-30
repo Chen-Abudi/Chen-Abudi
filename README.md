@@ -17,7 +17,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
 
 
-- 🔭 I'm currently working on **Stock Photo Generator**.
+<!-- - 🔭 I'm currently working on **Stock Photo Generator**. -->
 
 - 🌱 I'm currently learning **Spring AI**.
                       
@@ -231,7 +231,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 </details>
 
-<details>
+<!-- <details>
   <summary><h2 align="left">🫶🏽 Join the Journey:</h2></summary>
 	
   ***Aloha 🌺***
@@ -243,11 +243,11 @@ If you've found value in my work and would like to support me, consider buying m
 ### Show some Love at 👇🏽 
 <a href="https://www.buymeacoffee.com/graceabudi" target="_blank" title="buymeacoffee">
   <img src="https://iili.io/JIYMmUN.gif"  alt="buymeacoffee-animated-badge" style="width: 160px;">
-</a>
+</a> -->
 
 <!-- [buymeacoffee ☕](https://buymeacoffee.com/graceabudi) -->
  
-</details>
+<!-- </details> -->
 
 <!-- ![Snake animation](https://github.com/Chen-Abudi/Chen-Abudi/blob/output/github-contribution-grid-snake.svg) -->
   
