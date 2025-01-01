@@ -144,16 +144,16 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
   
   ---
   
-  <details>
+  <!-- <details>
   <summary><h2 align="left"> 🎯 2025 Learning Plans </h2></summary>
 
 | Programming Language | Libraries & Frameworks |  Open Source Software / 3D |  Cloud Computing / CI/CD 
 |:--------|:------|:------------|:------------|
 | [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) | [![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) | [![Blender/ 3D Animation](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/) | [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/) |
 |  |  |  | <!-- [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions) --> |
-|  | |  | <!-- [![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/) --> | 
+<!-- |  | |  | <!-- [![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/) --> | 
  
-  </details>
+  <!-- </details> -->
   
   ---
 
