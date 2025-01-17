@@ -21,9 +21,9 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 <!-- - 🌱 I'm currently learning -->
                       
-- ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/), [**AlohaGracefulCode 🌺**](https://github.com/Chen-Abudi/AlohaGracefulCode). 
+- ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/), [**AlohaGracefulCode 🌺**](https://github.com/Chen-Abudi/AlohaGracefulCode).
 
-- 👩🏽‍🎓 I successfully completed a ***``` Full-Stack Development Program ```*** along [**Certificate**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) from [***TripleTen (Ex-Practicum)***](https://tripleten.co.il/en/frontend/) .
+- 👩🏽‍🎓 Recognized as an **Outstanding** Graduate in Software Engineering by [***Masterschool***](https://www.masterschool.com/) and [**Certified**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) in Full-Stack Development by [***TripleTen (formerly Practicum)***](https://tripleten.co.il/en/frontend/), I bring a solid foundation and a passion for crafting innovative digital solutions that drive real-world impact. 
 
 - ✍🏽 I'm authoring monthly ***articles*** on [**LinkedIn**](https://www.linkedin.com/in/chen-abudi/) to share my insights and experiences about topics in ***```Software Engineering```***.
 
