@@ -14,7 +14,8 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 <!-- The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄🏽‍♀️ surfing, and a variety of sports, forming a vibrant mosaic that not only fuels my creativity but also ignites my adventurous spirit. -->
 </p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+<!-- <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'> -->
 
 
 - 🔭 I'm currently working on **ChimeMate (VS Code Extension)**. 
