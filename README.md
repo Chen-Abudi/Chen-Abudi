@@ -18,9 +18,9 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 <!-- <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'> -->
 
 
-- 🔭 I'm currently working on **ChimeMate (VS Code Extension)**. 
+- 🔭 I'm currently working on **ChimeMate (GitHub Productivity VSCode Extension)**. 
 
-- 🌱 I'm currently learning **UI/UX Design**, and sharp **DS & Algorithms**
+- 🌱 I'm currently learning **UI/UX Design**, and sharp **DS & Algorithms**.
                       
 - ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/), [**AlohaGracefulCode 🌺**](https://github.com/Chen-Abudi/AlohaGracefulCode).
 
