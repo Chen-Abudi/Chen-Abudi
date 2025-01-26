@@ -18,7 +18,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 <!-- <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'> -->
 
 
-- 🔭 I'm currently working on **[ChimeMate (GitHub Productivity VSCode Extension)](https://github.com/Chen-Abudi/ChimeMate)**. 
+- 🔭 I'm currently working on **[ChimeMate](https://github.com/Chen-Abudi/ChimeMate) (GitHub Productivity VSCode Extension)**. 
 
 - 🌱 I'm currently learning **UI/UX Design**, and sharp **DS & Algorithms**.
                       
