@@ -42,7 +42,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 
 <details>
-<summary><h2 align="left"> :hammer_and_wrench: Languages & Tools</h2></b></summary><br/>
+<summary><h2 align="left"> :hammer_and_wrench: Programming Languages & Tools</h2></b></summary><br/>
 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
 	
 <div align="center">
