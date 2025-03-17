@@ -35,7 +35,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cheezumcali23@gmail.com)   
 
-- ⚡ Fun facts about me: **I speak 4 languages, I'm a self-taught photographer/dancer, and a world traveler with the Aloha Spirit**🌺.
+- ⚡ Fun facts about me: **I speak 5 languages, I'm a self-taught photographer/dancer, and a world traveler with the Aloha Spirit**🌺.
 
 <!-- - 📝 **Discover** how my skills and experience can contribute to your team's success, check out my **```Resume```** [**&#128073;&#127997;HERE!**]() -->
 
