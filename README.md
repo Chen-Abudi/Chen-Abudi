@@ -21,7 +21,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 <!-- - 🌱 I'm currently learning **Python**, **Math**, and **UI/UX Design**. -->
                       
-- ✨ Check out My [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/), [**AlohaGracefulCode 🌺**](https://github.com/Chen-Abudi/AlohaGracefulCode).
+- ✨ Check out My apps: [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/), [**AlohaGracefulCode 🌺**](https://github.com/Chen-Abudi/AlohaGracefulCode).
 
 - 👩🏽‍🎓 Recognized as an **```Outstanding Graduate```** in Software Engineering Program by [***Masterschool***](https://www.masterschool.com/) and [**Certified**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) in Full-Stack Development by [***TripleTen (Ex-Practicum)***](https://tripleten.co.il/en/frontend/), I bring a solid foundation and a passion for crafting innovative digital solutions that drive real-world impact. 
 
@@ -31,7 +31,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 - 💬 Feel free to ask me anything and I'd love to help! 
 
-- 👯 Always ***``` keen ```*** to collaborate and contribute to **Software** projects. 
+- 👯 Always ***```keen```*** to collaborate and contribute to **Software** projects. 
 
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cheezumcali23@gmail.com)   
 
