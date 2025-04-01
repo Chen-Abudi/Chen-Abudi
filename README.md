@@ -19,7 +19,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 - 🔭 I'm currently working on **[ChimeMate](https://github.com/Chen-Abudi/ChimeMate) (GitHub Productivity VSCode Extension)**.
 
-<!-- - 🌱 I'm currently learning **Python**, **Math**, and **AI Agents**. -->
+<!-- - 🌱 I'm currently learning **Python**, **Math**, and **Generative AI**. -->
                       
 - ✨ Check out My apps: [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/), [**AlohaGracefulCode 🌺**](https://github.com/Chen-Abudi/AlohaGracefulCode).
 
