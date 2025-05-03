@@ -21,7 +21,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 - 🔭 I'm currently working on **[Real-Time Tic Tac Toe Game](https://github.com/Chen-Abudi/tic-tac-toe-realtime)**. 
 
-<!-- - 🌱 I'm currently learning **Python** and **Math**. -->
+<!-- - 🌱 I'm currently learning **Python**, **AI Prompt** and **Math**. -->
                       
 - ✨ Check out My apps: [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/), [**AlohaGracefulCode 🌺**](https://github.com/Chen-Abudi/AlohaGracefulCode).
 
