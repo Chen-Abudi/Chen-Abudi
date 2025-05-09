@@ -19,7 +19,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 <!-- - 🔭 I'm currently working on **[ChimeMate](https://github.com/Chen-Abudi/ChimeMate) (GitHub Productivity VSCode Extension)** and a **[Real-Time Tic Tac Toe Game](https://github.com/Chen-Abudi/tic-tac-toe-realtime)**. -->
 
-- 🔭 I'm currently working on **[Real-Time Tic Tac Toe Game](https://github.com/Chen-Abudi/tic-tac-toe-realtime)**. 
+- 🔭 I'm currently working on **[Real-Time Tic Tac Toe Game](https://github.com/Chen-Abudi/tic-tac-toe-realtime)** and on my **Portfolio**. 
 
 <!-- - 🌱 I'm currently learning **Python**, **AI Prompt** and **Math**. -->
                       
