@@ -39,6 +39,8 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 <!-- - 📝 **Discover** how my skills and experience can contribute to your team's success, check out my **```Resume```** [**&#128073;&#127997;HERE!**]() -->
 
+<!-- - 📝 Check out my **```Resume```** [**&#128073;&#127997;HERE!**]() -->
+
 
 <details>
 <summary><h2 align="left"> :hammer_and_wrench: Programming Languages & Tools</h2></b></summary><br/>
