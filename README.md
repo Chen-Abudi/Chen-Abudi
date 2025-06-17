@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chen-abudi&label=Profile%20views&color=0091ff&style=for-the-badge" alt="Chen Abudi" /></p>
 
-<!-- <h2 align="center">🔓 Open to Frontend/Software Engineer Positions‼️</h2> -->
+<h2 align="center">🔓 Open to FE/Software Engineer Positions‼️</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=660&lines=Aloha+%F0%9F%A4%99%F0%9F%8F%BD+Welcome+to+my+profile+!;Hope+you'll+enjoy+your+time+here+%F0%9F%99%8F%F0%9F%8F%BD;Go+check+my+Full-Stack+apps+down+below+%F0%9F%91%87%F0%9F%8F%BD;Feel+free+to+connect%2Fcontact+me++;I'm+open+to+collaborate+on+Frontend%2FFull-stack+projects)](https://git.io/typing-svg)
 
@@ -32,11 +32,11 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 - 💬 Feel free to ask me about anything and I'd love to help! 
 
-- 👯 Always ***```keen```*** to collaborate and contribute to **Software** projects. 
+- 👯 Always ***```keen```*** to collaborate and contribute to **Software projects**. 
 
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cheezumcali23@gmail.com)   
 
-- ⚡ Fun facts about me: **I speak 5 languages, I'm a self-taught photographer/dancer, and a world traveler with the Aloha Spirit**🌺.
+- ⚡ Some Fun facts about me: **I speak 5 languages, I'm a self-taught photographer/dancer, and a world traveler with the Aloha Spirit**🌺.
 
 <!-- - 📝 **Discover** how my skills and experience can contribute to your team's success, check out my **```Resume```** [**&#128073;&#127997;HERE!**]() -->
 
