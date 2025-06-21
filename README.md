@@ -18,7 +18,9 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
 
-- 🔭 I'm currently working on **[ChimeMate](https://github.com/Chen-Abudi/ChimeMate) (GitHub Productivity VSCode Extension)**, and on **[Real-Time Tic Tac Toe Game](https://github.com/Chen-Abudi/tic-tac-toe-realtime)**.
+- 🔭 I'm currently working on **[ChimeMate](https://github.com/Chen-Abudi/ChimeMate) (GitHub Productivity VSCode Extension)**.
+
+<!-- - 🔭 I'm currently working on **[ChimeMate](https://github.com/Chen-Abudi/ChimeMate) (GitHub Productivity VSCode Extension)**, and on **[Real-Time Tic Tac Toe Game](https://github.com/Chen-Abudi/tic-tac-toe-realtime)**. -->
 
 <!-- - 🌱 I'm currently learning ****, **Math**. -->
                       
