@@ -18,6 +18,37 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
 
+---
+<!-- [![Ideation Stage](https://img.shields.io/badge/🌍%20Crisis%20CivTech%20-%20Ideation%20Stage-yellow?style=flat-square)]()-->
+
+<details>
+ <summary><h2 align="left"> 💡 Visionary Project Brewing with Purpose </h2></summary>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Crisis%20Support%20Tech-Ideation%20Stage-yellow?style=for-the-badge&logo=target&logoColor=white" alt="Project in Ideation Stage badge">
+</div>
+
+> *A future-forward initiative born from empathy,*  
+> *Designed to support civilians in uncertain times.*  
+> *With accessibility at its core, and a mission to make a difference.*
+
+***🚨 What if technology could do more than help civilians survive — what if it empowered them to support each other in real time?***
+
+In times of crisis, every second counts and every connection matters. This project aims to build an intelligent, accessible platform that guides civilians safely through emergencies while fostering a real-time network of mutual aid and resource sharing.  
+
+
+My goal is to transform survival technology into solidarity technology — helping communities not only endure but also uplift one another, regardless of their abilities or circumstances.
+
+I’ve been quietly researching an idea close to my heart — no flashy names yet, just a deep drive to build something that matters.
+This passion project is currently in early exploration & research phase.  
+
+
+```Stay tuned. It’s still brewing — but soon will be build with empathy and inclusivity from the start.```
+🕊️
+</details>
+
+---
+
 - 🔭 I'm currently working on **[ChimeMate](https://github.com/Chen-Abudi/ChimeMate) (GitHub Productivity VSCode Extension)**.
 
 <!-- - 🔭 I'm currently working on **[ChimeMate](https://github.com/Chen-Abudi/ChimeMate) (GitHub Productivity VSCode Extension)**, and on **[Real-Time Tic Tac Toe Game](https://github.com/Chen-Abudi/tic-tac-toe-realtime)**. -->
