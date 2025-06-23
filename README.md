@@ -24,7 +24,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 <details>
  <summary><h2 align="left"> 💡 Visionary Project Brewing with Purpose </h2></summary>
 
-<div align="center">
+<div align="right">
   <img src="https://img.shields.io/badge/Crisis%20Support%20Tech-Ideation%20Stage-yellow?style=for-the-badge&logo=target&logoColor=white" alt="Project in Ideation Stage badge">
 </div>
 
