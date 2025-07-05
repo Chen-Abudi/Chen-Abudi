@@ -21,7 +21,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 ---
 <!-- [![Ideation Stage](https://img.shields.io/badge/🌍%20Crisis%20CivTech%20-%20Ideation%20Stage-yellow?style=flat-square)]()-->
 
-<details>
+<!-- <details>
  <summary><h2 align="left"> 💡 Visionary Project Brewing with Purpose </h2></summary>
 
 <div align="right">
@@ -45,9 +45,8 @@ This passion project is currently in early exploration & research phase.
 
 ```Stay tuned. It’s still brewing — but soon will be build with empathy and inclusivity from the start.```
 🕊️
-</details>
+</details> -->
 
----
 
 - 🔭 I'm currently working on **[ChimeMate](https://github.com/Chen-Abudi/ChimeMate) - GitHub Productivity VSCode Extension**.
 
