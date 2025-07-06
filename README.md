@@ -48,7 +48,7 @@ This passion project is currently in early exploration & research phase.
 </details> -->
 
 
-- 🔭 I'm currently working on **[ChimeMate](https://github.com/Chen-Abudi/ChimeMate) - GitHub Productivity VSCode Extension**.
+<!-- - 🔭 I'm currently working on **[ChimeMate](https://github.com/Chen-Abudi/ChimeMate) - GitHub Productivity VSCode Extension**. -->
 
 <!-- - 🔭 I'm currently working on **[ChimeMate](https://github.com/Chen-Abudi/ChimeMate) (GitHub Productivity VSCode Extension)**, and on **[Real-Time Tic Tac Toe Game](https://github.com/Chen-Abudi/tic-tac-toe-realtime)**. -->
 
