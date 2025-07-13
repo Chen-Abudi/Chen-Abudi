@@ -67,8 +67,6 @@ This passion project is currently in early exploration & research phase.
 
 - ⚡ Some Fun facts about me: **I speak 5 languages, I'm a self-taught photographer/dancer, and a world traveler with the Aloha Spirit**🌺.
 
-<!-- - 📝 **Discover** how my skills and experience can contribute to your team's success, check out my **```Resume```** [**&#128073;&#127997;HERE!**]() -->
-
 <!-- - 📝 Check out my **```Resume```** [**&#128073;&#127997;HERE!**]() -->
 
 
