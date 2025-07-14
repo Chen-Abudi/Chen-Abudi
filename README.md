@@ -59,7 +59,7 @@ This passion project is currently in early exploration & research phase.
 
 - ✍🏽 I'm authoring monthly ***articles*** sharing content, insights and experiences on ***```Sundry Topics```*** on [![**```Medium```**](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cheezumcali23) 
 
-- 💬 Feel free to ask me about anything and I'd love to help! 
+- 💬 Feel free to ask me anything and I'd love to help! 
 
 - 👯 Always ***```keen```*** to collaborate and contribute to **Software projects**. 
 
