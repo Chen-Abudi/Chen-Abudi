@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chen-abudi&label=Profile%20views&color=0091ff&style=for-the-badge" alt="Chen Abudi" /></p>
 
-<h2 align="center">🔓 Open to FE/Software Engineer Positions‼️</h2>
+<h2 align="center">🔓 Open to FE/FS/Software Engineer Positions‼️</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=660&lines=Aloha+%F0%9F%A4%99%F0%9F%8F%BD+Welcome+to+my+profile+!;Hope+you'll+enjoy+your+time+here+%F0%9F%99%8F%F0%9F%8F%BD;Go+check+my+Full-Stack+apps+down+below+%F0%9F%91%87%F0%9F%8F%BD;Feel+free+to+connect%2Fcontact+me++;I'm+open+to+collaborate+on+Frontend%2FFull-stack+projects)](https://git.io/typing-svg)
 
@@ -22,7 +22,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 <!-- [![Ideation Stage](https://img.shields.io/badge/🌍%20Crisis%20CivTech%20-%20Ideation%20Stage-yellow?style=flat-square)]()-->
 
 <!-- <details>
- <summary><h2 align="left"> 💡 Visionary Project Brewing with Purpose </h2></summary>
+ <summary><h2 align="left"> 💡 A Visionary Project Brewing with Purpose </h2></summary>
 
 <div align="right">
   <img src="https://img.shields.io/badge/Crisis%20Support%20Tech-Ideation%20Stage-yellow?style=for-the-badge&logo=target&logoColor=white" alt="Project in Ideation Stage badge">
