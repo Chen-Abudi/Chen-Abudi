@@ -29,7 +29,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 </div>
 
 > *A future-forward initiative born from empathy,*  
-> *Designed to support civilians in uncertain times.*  
+> *It Designed to support civilians in uncertain times.*  
 > *With accessibility at its core, and a mission to make a difference.*
 
 ***🚨 What if technology could do more than help civilians survive — what if it empowered them to support each other in real time?***
@@ -47,7 +47,7 @@ This passion project is currently in early exploration & research phase.
 🕊️
 </details> -->
 
-- 🔭 I'm currently working on **[ChimeMate](https://github.com/Chen-Abudi/ChimeMate) (GitHub Productivity VSCode Extension)**, and on a Job Matching Bot.
+- 🔭 I'm currently working on **[ChimeMate](https://github.com/Chen-Abudi/ChimeMate) (GitHub Productivity VSCode Extension)**, and on a **Job Matching Bot**.
 
 <!-- - 🔭 I'm currently working on **[ChimeMate](https://github.com/Chen-Abudi/ChimeMate) (GitHub Productivity VSCode Extension)**, and on **[Real-Time Tic Tac Toe Game](https://github.com/Chen-Abudi/tic-tac-toe-realtime)**. -->
 
