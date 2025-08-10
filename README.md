@@ -49,7 +49,7 @@ This passion project is currently in early exploration & research phase.
 
 - 🔭 I'm currently working on **[ChimeMate](https://github.com/Chen-Abudi/ChimeMate) (GitHub Productivity VSCode Extension)**, and on a **AI-powered job-matching bot**.
 
-- 🌱 I'm currently learning **Python**, **Math**.
+<!-- - 🌱 I'm currently learning **Python**, **Math**. -->
                       
 - ✨ Check out some of My apps: [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/), [**AlohaGracefulCode 🌺**](https://github.com/Chen-Abudi/AlohaGracefulCode).
 
