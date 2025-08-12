@@ -63,7 +63,7 @@ This passion project is currently in early exploration & research phase.
 
 - 👯 Always ***```keen```*** to collaborate and contribute to **Software projects**. 
 
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cheezumcali23@gmail.com)   
+- 📫 How you can reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cheezumcali23@gmail.com)   
 
 - ⚡ Some Fun facts about me: **I speak 5 languages, I'm a self-taught photographer/dancer, and a world traveler with the Aloha Spirit**🌺.
 
