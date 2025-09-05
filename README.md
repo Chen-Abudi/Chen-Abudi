@@ -40,7 +40,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 - ⚡ Some Fun facts about me: **I speak 5 languages, I'm a self-taught photographer/dancer, and a world traveler with the Aloha Spirit**🌺.
 
-- 📝 See my **```Resume```** [**&#128073;&#127997;HERE!**](https://docs.google.com/document/d/1jkpAcFWi---0EC2GqEP3tpNPcZGu-GA6VSPySCP89V4/edit?usp=sharing)
+- 📄 Check out my **```Resume```** [**&#128073;&#127997;HERE!**](https://docs.google.com/document/d/1jkpAcFWi---0EC2GqEP3tpNPcZGu-GA6VSPySCP89V4/edit?usp=sharing)
 
 
 <details>
