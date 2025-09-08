@@ -12,6 +12,7 @@ I'm a Software Engineer with the Aloha spirit 🌺🤙🏽, infusing my work wit
 
 In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design, 🤖 AI, and 3D modeling, while also relishing in 📚 language learning, Math, 💃🏽 dance, 🎶 music, and a profound love for traveling, nature, particularly the awe-inspiring 🌊 ocean.
 
+
 <!-- The exhilarating blend continues with my passion for 🛹 skateboarding / 🏄🏽‍♀️ surfing, and a variety of sports, forming a vibrant mosaic that not only fuels my creativity but also ignites my adventurous spirit. -->
 </p>
 
