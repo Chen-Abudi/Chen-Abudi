@@ -21,7 +21,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 ---
 
-- 🔭 I'm currently working on **[ChimeMate](https://github.com/Chen-Abudi/ChimeMate) (GitHub Productivity VSCode Extension)**, on **AI-powered job-matching bot**, and on my [**re-math**](https://github.com/Chen-Abudi/re-math) journey.
+- 🔭 I'm currently working on [**ChimeMate - GitHub Productivity VSCode Extension**](https://github.com/Chen-Abudi/ChimeMate), on **AI-powered job-matching bot**, and on my [**re-math**](https://github.com/Chen-Abudi/re-math) journey.
 
 - 🌱 I'm currently learning **Python**, **Mathematics**, **Algebra & Visual Algebra**.
                       
@@ -31,7 +31,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 - ✍🏽 I'm authoring monthly ***articles*** on [**LinkedIn**](https://www.linkedin.com/in/chen-abudi/) to share my insights and experiences about topics in ***```Software Engineering```***. 
 
-- ✍🏽 I'm authoring monthly ***articles*** sharing content, insights and experiences on ***```Sundry Topics```*** on [![**```Medium```**](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cheezumcali23) 
+- ✍🏽 I'm authoring monthly ***articles*** sharing content, insights and experiences on ***```Sundry Topics```*** on [![**```Medium```**](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cheezumcali23).
 
 - 💬 Feel free to ask me anything and I'd love to help! 
 
