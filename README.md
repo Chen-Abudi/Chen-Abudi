@@ -9,7 +9,7 @@
 <h2 align="left">ℹ️ About Me:</h2> 
 <p align="left">
 I'm a Software Engineer with the Aloha spirit 🌺🤙🏽, infusing my work with a genuine commitment to shaping the digital realm day by day. Fueled by a fervor for coding, logic, artistic expression, and cutting-edge technology, aspiring to contribute to a superior global landscape by enhancing the digital domain.
-fff
+
 In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design, 🤖 AI, Math, and 3D modeling, while also relishing in 📚 language learning, Math, 💃🏽 dance, 🎶 music, and a profound love for traveling, nature, particularly the awe-inspiring 🌊 ocean.
 
 
