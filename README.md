@@ -170,6 +170,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 # 📝 My Articles Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Back to the Numbers: Rebooting My Math Brain](https://medium.com/@cheezumcali23/back-to-the-numbers-rebooting-my-math-brain-aafcffa10730?source=rss-a3473fd568e0------2)
 - [JavaScript Pro Tip: Unlock the Power of Optional Chaining](https://medium.com/@cheezumcali23/javascript-pro-tip-unlock-the-power-of-optional-chaining-5a02709f0109?source=rss-a3473fd568e0------2)
 - [Navigating the Waves of Productivity in Software Development](https://medium.com/@cheezumcali23/navigating-the-waves-of-productivity-in-software-development-e4b874e23d40?source=rss-a3473fd568e0------2)
 - [From Shy to Stellar: Nurturing Confidence in the World of Software Development](https://medium.com/@cheezumcali23/from-shy-to-stellar-nurturing-confidence-in-the-world-of-software-development-763a11546fcd?source=rss-a3473fd568e0------2)
