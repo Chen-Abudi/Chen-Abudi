@@ -37,7 +37,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 - 💬 Feel free to ask me anything and I'd love to help! 
 
-- 👯 Always ***```keen```*** to collaborate and contribute to **Software projects**. 
+- 👯 ***```Keen```*** to collaborate and contribute to **Software and AI projects**. 
 
 - 📫 How you can reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cheezumcali23@gmail.com)   
 
