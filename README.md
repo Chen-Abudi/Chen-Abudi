@@ -171,7 +171,11 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 # 📝 My Articles Posts:
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Most People Memorize Algebra. They Should Be Seeing Patterns Instead.](https://medium.com/@cheezumcali23/most-people-memorize-algebra-they-should-be-seeing-patterns-instead-16b17da4116a?source=rss-a3473fd568e0------2)
+- [Most Developers Skip This — And It’s Costing Them More Than They Realize](https://medium.com/@cheezumcali23/most-developers-skip-this-and-its-costing-them-more-than-they-realize-e1686b66286d?source=rss-a3473fd568e0------2)
+- [Back to the Numbers: Rebooting My Math Brain](https://medium.com/@cheezumcali23/back-to-the-numbers-rebooting-my-math-brain-aafcffa10730?source=rss-a3473fd568e0------2)
+- [JavaScript Pro Tip: Unlock the Power of Optional Chaining](https://medium.com/@cheezumcali23/javascript-pro-tip-unlock-the-power-of-optional-chaining-5a02709f0109?source=rss-a3473fd568e0------2)
+- [Navigating the Waves of Productivity in Software Development](https://medium.com/@cheezumcali23/navigating-the-waves-of-productivity-in-software-development-e4b874e23d40?source=rss-a3473fd568e0------2)
 <!-- BLOG-POST-LIST:END -->
 
 
