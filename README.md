@@ -33,7 +33,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 - 👩🏽‍🎓 Awarded as an **```Outstanding Graduate```** from Software Engineering Program by [***Masterschool***](https://www.masterschool.com/), and [**Certified**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) in Full-Stack Development by [***TripleTen (Ex-Practicum)***](https://tripleten.co.il/en/frontend/), I bring a solid foundation and a passion for crafting innovative digital solutions that drive real-world impact. 
 
-- ✍🏽 I'm posting weekly ***articles*** on [**LinkedIn**](https://www.linkedin.com/in/chen-abudi/) to share my insights and experiences about topics in ***```Software Engineering```***. 
+- ✍🏽 I'm posting weekly on [**LinkedIn**](https://www.linkedin.com/in/chen-abudi/) to share my insights and experiences about topics in ***```Software Engineering```***. 
 
 - ✍🏽 I'm authoring ***articles*** sharing content, insights and experiences on ***```Sundry Topics```*** on [![**```Medium```**](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cheezumcali23).
 
@@ -122,6 +122,8 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
   ![Socket.IO](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
   ![MDX](https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+  ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+  ![Vitest](https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=Vitest&logoColor=%23fcd703)
 
   <summary><h2 align="left">➕ Other:</h2></summary>
 
@@ -150,6 +152,8 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
   ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
   ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
   ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+  ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+  ![EDX](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
   
   </details>   
   
