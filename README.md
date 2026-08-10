@@ -27,7 +27,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 - 🔭 I'm currently working on **Otiyoki**. (More Details coming soon) 
 
-- 🌱 I'm currently re-learning **Mathematics**, **Algebra + Linear Algebra..**.
+- 🌱 I'm currently re-learning **Math**: **Algebra & Discrete Mathematics, Linear Algebra, Statistics & Probability, and Calculus..**.
                       
 - ✨ Check out: [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/), [**AlohaGracefulCode 🌺**](https://github.com/Chen-Abudi/AlohaGracefulCode).
 
