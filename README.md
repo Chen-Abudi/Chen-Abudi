@@ -31,9 +31,9 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
                       
 - ✨ Check out: [***Travel with Aloha 🌺🗺️🤙🏽***](https://travel-with-aloha.vercel.app/), [***News Explorer Service App📰🌐🗺️***](https://news-explorer-frontend-alpha.vercel.app/), [***Social Travel App🌎***](https://react-around-api-full-client.vercel.app/), [**AlohaGracefulCode 🌺**](https://github.com/Chen-Abudi/AlohaGracefulCode).
 
-- 👩🏽‍🎓 Awarded as an **```Outstanding Graduate```** from Software Engineering Program by [***Masterschool***](https://www.masterschool.com/), and [**Certified**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) in Full-Stack Development by [***TripleTen (Ex-Practicum)***](https://tripleten.co.il/en/frontend/), I bring a solid foundation and a passion for crafting innovative digital solutions that drive real-world impact. 
+<!-- - 👩🏽‍🎓 Awarded as an **```Outstanding Graduate```** from Software Engineering Program by [***Masterschool***](https://www.masterschool.com/), and [**Certified**](https://github.com/Chen-Abudi/Chen-Abudi/files/10184229/Chen.Abudi.Certificate.pdf) in Full-Stack Development by [***TripleTen (Ex-Practicum)***](https://tripleten.co.il/en/frontend/), I bring a solid foundation and a passion for crafting innovative digital solutions that drive real-world impact. -->
 
-- ✍🏽 I'm posting weekly on [**LinkedIn**](https://www.linkedin.com/in/chen-abudi/) to share my insights and experiences about topics in ***```Software Engineering```***. 
+- ✍🏽 I'm posting on [**LinkedIn**](https://www.linkedin.com/in/chen-abudi/) to share my insights and experiences about topics in ***```Software Engineering```***. 
 
 - ✍🏽 I'm authoring ***articles*** sharing content, insights and experiences on ***```Sundry Topics```*** on [![**```Medium```**](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cheezumcali23).
 
