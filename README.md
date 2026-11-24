@@ -25,7 +25,7 @@ In my spare time, I dive headfirst into the exciting worlds of 🎨 UI/UX design
 
 <!-- - 🔭 I'm currently working on my **Portfolio**. -->
 
-- 🔭 I'm currently working on **Otiyoki**. (More Details coming soon) 
+<!-- - 🔭 I'm currently working on **Otiyoki**. (More Details coming soon) -->
 
 - 🌱 I'm currently re-learning **Math** and learning **Electronics Practical Engineering, Specializing in intelligent ai systems**.
                       
